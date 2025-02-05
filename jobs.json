@@ -1,0 +1,2029 @@
+[
+  {
+    "JobLevelName": "Trainee Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.pluralsight.com/guides/flow-control-csharp-jump-statements-goto",
+            "EducationTime": 0,
+            "Id": "adf61f66-b0c3-4adb-7fc1-08dbe4480a0a",
+            "Name": "A Comprehensive Walkthrough of C# Jump Statements Part 2 - goto"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/iteration-statements",
+            "EducationTime": 0,
+            "Id": "0766f257-2ed4-421e-7fbb-08dbe4480a0a",
+            "Name": "Iteration statements"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/jump-statements",
+            "EducationTime": 0,
+            "Id": "8d201603-ebb0-419d-7fbf-08dbe4480a0a",
+            "Name": "Jump statements"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements",
+            "EducationTime": 0,
+            "Id": "dcdf54f5-26a1-4e40-7fbd-08dbe4480a0a",
+            "Name": "Selection statements"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "32e587e1-57ca-448d-a084-2923dab1c549",
+        "Name": "Applies and maintains control flow structures",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>Control structures refer to structures, such as conditional branching, loops and jump statements,&nbsp;that provide control over the program flow&nbsp;execution. Conditional structures allow to control program flow execution and call specific behavior that is expected if certain conditions are met. Loop structures&nbsp;allow&nbsp;to execution of a specific block of code multiple times to achieve expected results.&nbsp;Jump statements&nbsp;are used to pass control to another block of execution.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses selection(conditional) statements (if-else, switch)&nbsp;</li><li>Uses different types of&nbsp;iterations&nbsp;statements&nbsp;(while, do/while, for, for each)&nbsp;</li><li>Uses various types of jump statements to&nbsp;unconditionally transfer control ( break, return, continue, goto)&nbsp;</li><li>Uses nested&nbsp;iterations/selection statements with jump statements to control the flow.&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Use cases when to use \"if\" vs. \"switch\" statement</li><li>Different types of loops in C# and when to use them(while, do-while, for, foreach)&nbsp;</li><li>Dangers&nbsp;of \"goto\"&nbsp;</li><li>Understanding \"jump\" statements&nbsp;</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.array?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "94c8a055-45f9-4eaa-7fc7-08dbe4480a0a",
+            "Name": "Array Class - .NET API"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/",
+            "EducationTime": 0,
+            "Id": "0b3f433a-065f-4e67-7fc3-08dbe4480a0a",
+            "Name": "Arrays - C# Programming Guide"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections",
+            "EducationTime": 0,
+            "Id": "23d46fc5-2a95-4ce8-7fc5-08dbe4480a0a",
+            "Name": "Collections - C# Programming Guide"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/collections/commonly-used-collection-types",
+            "EducationTime": 0,
+            "Id": "93acc351-39ee-4084-7fc9-08dbe4480a0a",
+            "Name": "Commonly used collection types - .NET fundamentals"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/collections/selecting-a-collection-class",
+            "EducationTime": 0,
+            "Id": "1410b320-2d36-45d8-7fcb-08dbe4480a0a",
+            "Name": "Selecting a Collection Class - .NET fundamentals"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "66f0d182-9ddb-4a77-aae1-46ad618d8781",
+        "Name": "Manages collections of data using language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>In&nbsp;programming,&nbsp;collection&nbsp;types are usually represented by&nbsp;structures such as&nbsp;arrays or similar that allows storing multiple data of the same type or multiple data of different types and accessing and operating the information inside through the index. Moreover,&nbsp;collection&nbsp;types are also represented by the key-value structures that allow storing multiple data of the same type or multiple data of different types and accessing and operating the value inside through the named keys. The&nbsp;structures allow&nbsp;sorting, accessing, and modifying&nbsp;of data in the collection depending on the requirements of the current task.&nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses single-dimensional arrays&nbsp;</li><li>Uses&nbsp;multi-dimensional arrays&nbsp;</li><li>Uses&nbsp;jagged arrays&nbsp;</li><li>Uses List&lt;T&gt;&nbsp;</li><li>Uses&nbsp;LinkedList&lt;T&gt; when adding items in the middle of the collection&nbsp;&nbsp;&nbsp;</li><li>Uses&nbsp;Dictionary&lt;TKey, TValue&gt; in lookup scenarios&nbsp;&nbsp;</li><li>Uses&nbsp;Stack&lt;T&gt; &amp; Queue&lt;T&gt; in LIFO/FIFO scenarios&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Understanding different types of arrays (Singledimensional, Multidimensional, &amp; Jagged arrays)&nbsp;</li><li>What is the&nbsp;List&lt;T&gt;?&nbsp;&nbsp;</li><li>What is the difference between the List&lt;T&gt; &amp; LinkedList&lt;T&gt;?&nbsp;</li><li>What is the&nbsp;Dictionary&lt;TKey, TValue&gt;?&nbsp;</li><li>What are the&nbsp;Stack&lt;T&gt; &amp; the Queue&lt;T&gt;? What is the difference?&nbsp;</li><li>Understanding pros &amp; cons of different collection types</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/declarations",
+            "EducationTime": 0,
+            "Id": "b676739e-204b-48b3-7fd3-08dbe4480a0a",
+            "Name": "Declaration statements"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/delegates-with-named-vs-anonymous-methods",
+            "EducationTime": 0,
+            "Id": "4681cb22-228a-455b-7fd1-08dbe4480a0a",
+            "Name": "Delegates with Named vs. Anonymous Methods"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/implicitly-typed-local-variables",
+            "EducationTime": 0,
+            "Id": "eea8845b-99fe-4fb0-7fcd-08dbe4480a0a",
+            "Name": "Implicitly typed local variables"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods",
+            "EducationTime": 0,
+            "Id": "61cb7394-053e-45ca-7fcf-08dbe4480a0a",
+            "Name": "Methods overview"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "4ca233da-0eeb-4608-9863-ba0005957c7d",
+        "Name": "Stores, reuses, and manipulates data",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>The main building block&nbsp;in C# is variables and methods. Variables&nbsp;are a named&nbsp;data&nbsp;store offendedly defined by the specific keyword&nbsp;for storing&nbsp;and reusing&nbsp;basic data types, primitives data types,&nbsp;or compound&nbsp;types, whereas&nbsp;methods&nbsp;allow&nbsp;the creation of highly&nbsp;reusable and scalable structures with&nbsp;namespace capability for a variety of business use cases.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses implicitly and explicitly typed variables (declared with 'var' keyword or with explicit type)&nbsp;</li><li>Uses methods for reusing logic (instance, static, extension, partial, anonymous methods)&nbsp;</li><li>Uses&nbsp;Ref locals and Ref returns&nbsp;</li><li>Works with different data types (built-in, composite)&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>How and when to use implicitly typed local variables?</li><li>Understanding of different method types, their signatures, definitions</li><li>How to work with anonymous methods?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types",
+            "EducationTime": 0,
+            "Id": "5d6ba19b-ea17-4250-7fd5-08dbe4480a0a",
+            "Name": "Built-in types"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://jonskeet.uk/csharp/references.html",
+            "EducationTime": 0,
+            "Id": "69ddf304-14a0-43a7-7fdb-08dbe4480a0a",
+            "Name": "References and Values"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.string",
+            "EducationTime": 0,
+            "Id": "d29f879b-f063-4431-7fd9-08dbe4480a0a",
+            "Name": "String Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types",
+            "EducationTime": 0,
+            "Id": "38d446d7-fbe3-4feb-7fd7-08dbe4480a0a",
+            "Name": "Value types"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "f1c20138-34f1-49a1-ba1f-a441df3ca2ba",
+        "Name": "Stores, reuses, and operates on basic data types",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Built-in data types are the building blocks for any custom data processing logic or more complex custom data types, ranging from simple number and string manipulation to complex and performance critical algorithms like sorting, searching, and many others. In C# programming language built-in data types can be split into two groups value types and reference types, the latter being: object, string, dynamic; and the former being: integral numeric types, floating-point numeric types, bool, and char.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses integral numeric types [s]byte, [u]short/int/long (e.g. compound assignment, string conversion and formatting, and others)&nbsp;</li><li>Uses floating-point numeric types float, double, decimal when floating point precision is required (e.g. literals,&nbsp;arithmetic and comparison operations, conversions, and others)&nbsp;</li><li>Uses string and char types for text data manipulation (e.g. creation, comparison, and others)&nbsp;</li><li>Uses bool type for logical data storage and manipulations (e.g. logical and conditional logical operators, comparison, and others)&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Difference between Value &amp; Reference types, applicability&nbsp;</li><li>Declaring and operating values of integral and floating-point types&nbsp;</li><li>Declaring and operating bool values&nbsp;</li><li>Declaring and operating text data via string type:&nbsp;immutability, concatenation, comparison&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/documentation-comments",
+            "EducationTime": 0,
+            "Id": "53cca009-e4ea-481f-7fe3-08dbe4480a0a",
+            "Name": "C# guide - Annex D Documentation comments"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/",
+            "EducationTime": 0,
+            "Id": "99657966-823d-4623-7fe1-08dbe4480a0a",
+            "Name": "C# Language reference - XML documentation comments"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/",
+            "EducationTime": 0,
+            "Id": "4f2c6708-fa6d-4346-7fdd-08dbe4480a0a",
+            "Name": "C# Operators"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.c-sharpcorner.com/UploadFile/puranindia/comments-in-C-Sharp/",
+            "EducationTime": 0,
+            "Id": "7ab91d68-0b95-4abb-7fdf-08dbe4480a0a",
+            "Name": "Comments - C# Language reference"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "461e0dd5-024d-4aa9-9e11-91a1645f4e0c",
+        "Name": "Uses and maintains language operators and comments",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>In C#, operators allow performing different operations based on the use cases on single or multiple data values to produce the desired result, this could include operations on primitive or basic types, arithmetic, bitwise, logical, comparing, and modifying data value. Comments are annotation lines used to bring additional clarity to the code (e.g., bring implicit context or clarify intention), specify legal information (e.g., license), generate documentation, or be used for navigation (e.g., “TODO” comments). Also, in some languages, comment's structure could be used to add specific different commands to interpreters for example remove or ignore the linters rules, type checking rules, or similar operations&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses different types of operators (assignment, arithmetic, comparison, boolean logical, bitwise and shift, equality operators)&nbsp;&nbsp;</li><li>Uses lambda operator and expression body definition&nbsp;</li><li>Uses null-forgiving&nbsp;</li><li>Uses null-coalescing operator&nbsp;</li><li>Uses null-conditional operators&nbsp;</li><li>Uses 'is' and 'is not' operators&nbsp;</li><li>Uses Type-cast operators, Pointer related operators&nbsp;</li><li>Uses Operator overloading&nbsp;</li><li>Uses Single line,&nbsp;Multiple lines, and XML tags comments&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Basic language operators and expression(assignment, arithmetic, comparison, boolean logical, bitwise and shift, equality operators)&nbsp;</li><li>What is operator overloading and why it is important?</li><li>How to comment on the source code?&nbsp;</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling",
+            "EducationTime": 0,
+            "Id": "05a43c3d-f9e1-403e-7fe7-08dbe4480a0a",
+            "Name": "C# Fundamentals - Exception Handling"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
+            "EducationTime": 0,
+            "Id": "a1925cc6-df84-467b-7fe5-08dbe4480a0a",
+            "Name": "Exception overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/exception-throwing",
+            "EducationTime": 0,
+            "Id": "32782c37-1c8d-47a1-7fed-08dbe4480a0a",
+            "Name": "Exception Throwing"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca2200",
+            "EducationTime": 0,
+            "Id": "1541e771-111f-4800-7feb-08dbe4480a0a",
+            "Name": "Rethrow to preserve stack details"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/using-standard-exception-types",
+            "EducationTime": 0,
+            "Id": "3be1cf5d-3f8c-40ef-7fe9-08dbe4480a0a",
+            "Name": "Using Standard Exception Types"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "d17987de-b534-4bbc-a339-fe9c65592b5e",
+        "Name": "Handles exceptions using language capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>Errors and their handling are among&nbsp;the most critical parts of any programming language. Errors may occur in different scenarios: developer mistakes, unexpected user input, an abnormal server response, and others. Having an exemplary implementation of the error-handling strategy provides a good user experience. It ensures application safety by keeping users well informed about why the error occurred, what to expect and how to act in the case when the application is not working as the customer expected.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses basic “try-catch-finally” block&nbsp;</li><li>Uses predefined exception types&nbsp;</li><li>Uses Exception logging&nbsp;</li><li>Uses throw instead of throw ex&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is an exception and how to handle it?</li><li>Specifics of exception handling using&nbsp;try-catch-finally block&nbsp;</li><li>Throwing and rethrowing exceptions&nbsp;</li><li>When to use&nbsp;predefined exception types?</li><li>Rethrow exception to preserve stack details&nbsp;</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/event",
+            "EducationTime": 0,
+            "Id": "b6d7bcf9-8120-4a22-7fef-08dbe4480a0a",
+            "Name": "C# Language Reference - event"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/events/",
+            "EducationTime": 0,
+            "Id": "2280a475-0df4-4b5b-7ff1-08dbe4480a0a",
+            "Name": "Handle and raise events"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/events/how-to-handle-multiple-events-using-event-properties",
+            "EducationTime": 0,
+            "Id": "53da2759-4ae7-4396-7ff3-08dbe4480a0a",
+            "Name": "How to: Handle Multiple Events Using Event Properties"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/events/observer-design-pattern",
+            "EducationTime": 0,
+            "Id": "a6f9a567-43e6-4924-7ff5-08dbe4480a0a",
+            "Name": "Observer Design Pattern (including sub-sections)"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "e287a466-53b3-4c79-829a-c08c505adae9",
+        "Name": "Handles user interaction with events handlers",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>An event is one of the crucial elements of modern applications. It is used ubiquitously to notify interested parties (subscribers, event handlers) about changes in the application be they caused by user interaction, internal state changes, or some changes external to the application. In C# programming language these concepts are represented with specific keywords and types such as event, EventHandler, EventArgs, and others.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses event keyword to declare event providers&nbsp;</li><li>Uses EventHandler's derived delegates for event handler implementation&nbsp;</li><li>Uses EventHandlerList to store multiple event handlers&nbsp;</li><li>Uses EventArgs and derived types to pass data alongside the event&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>How to declare and raise an event?</li><li>How to register event handlers?</li><li>Decoupling event providers and subscribers via Observer design pattern</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers",
+            "EducationTime": 0,
+            "Id": "7244febf-1d07-4596-8003-08dbe4480a0a",
+            "Name": "C# Guide - Access Modifiers"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct",
+            "EducationTime": 0,
+            "Id": "d2c8a7db-dcd0-4692-7fff-08dbe4480a0a",
+            "Name": "C# Guide - Choosing Between Class and Struct"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance",
+            "EducationTime": 0,
+            "Id": "72628985-1c75-4323-8001-08dbe4480a0a",
+            "Name": "C# Guide - Inheritance"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/class",
+            "EducationTime": 0,
+            "Id": "b48bb90b-94d5-4d13-7ff9-08dbe4480a0a",
+            "Name": "C# Language reference - Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface",
+            "EducationTime": 0,
+            "Id": "3729b780-c75f-4293-7ffd-08dbe4480a0a",
+            "Name": "C# Language reference - Interface"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record",
+            "EducationTime": 0,
+            "Id": "d97bf8d3-b2dd-4801-7ffb-08dbe4480a0a",
+            "Name": "C# Language reference - Record"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/",
+            "EducationTime": 0,
+            "Id": "7595e991-e152-4da1-8005-08dbe4480a0a",
+            "Name": "Covariance and Contravariance (C#) (including sub-sections)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct",
+            "EducationTime": 0,
+            "Id": "f8aa2d4a-f77f-4809-7ff7-08dbe4480a0a",
+            "Name": "Structure types"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "6d0b94fc-4d47-4e47-a13b-4ce660a6e6de",
+        "Name": "Reuses and encapsulates related data and behavior",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Uses language provided constructs to group and organize similar data and behavior into highly reusable units. In C# programming language these constructs are structures, classes, records and interfaces. These constructs are a cornerstone of OOP paradigm providing blueprints for inheritance, encapsulation, polymorphism and abstraction as well as core building blocks&nbsp;of any non-trivial C# application.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Creates reusable struct, record or class (depending on the use case) by grouping related data and methods&nbsp;</li><li>Implements data encapsulation by utilizing access modifiers&nbsp;</li><li>Defines and implements reusable behavior using interfaces and inheritance&nbsp;</li><li>Uses and defines covariant and/or contravariant interfaces and/or delegate types&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>When to use structure and record types?</li><li>What is inheritance, when to use it, the difference between implementation and interface inheritance?</li><li>How to define class, record, and struct?</li><li>How to limit access to data and methods via access modifiers?&nbsp;</li><li>Why is type variance useful?</li><li>What is the difference between covariance and contravariance?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/iterators",
+            "EducationTime": 0,
+            "Id": "ba44b531-3345-4e3a-800b-08dbe4480a0a",
+            "Name": "C# concepts - Iterators"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/iteration-statements",
+            "EducationTime": 0,
+            "Id": "b0ddc4eb-edd6-4194-8007-08dbe4480a0a",
+            "Name": "C# Language reference - Iteration statements"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield",
+            "EducationTime": 0,
+            "Id": "ee9945f8-dfba-4b12-800d-08dbe4480a0a",
+            "Name": "C# Language reference - yield"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators",
+            "EducationTime": 0,
+            "Id": "081eee76-ddf7-4640-8009-08dbe4480a0a",
+            "Name": "C# programming guide - Iterators"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/",
+            "EducationTime": 0,
+            "Id": "78b5db23-581d-41c3-800f-08dbe4480a0a",
+            "Name": "Language Integrated Query (LINQ)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/filtering-data",
+            "EducationTime": 0,
+            "Id": "26600c15-5da4-485c-8013-08dbe4480a0a",
+            "Name": "Language Integrated Query (LINQ) - Filtering Data"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/sorting-data",
+            "EducationTime": 0,
+            "Id": "fd0f00d0-b066-4a6b-8011-08dbe4480a0a",
+            "Name": "Sorting Data"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "71b7e78e-2377-4a9a-abab-4ea716a89d31",
+        "Name": "Uses built-in iterators to traverse through different types of collections",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>There are multiple use cases when using collections (a.k. compound data types) such as index-based storage (e.g. array) or key-value(e.g. dictionary). The initial use case it's just simply to store the basic language types such as numbers and strings in the collection for further reusability. However, in date-to-date business problems is not enough just to store data, there are multiple cases where it's required to sort, search and filter through the collection. In the situations mentioned previously is important to use built-in language iterators, methods, and techniques to simplify interaction with&nbsp;collections and deliver a fast and reliable solution.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses various collection iteration statements (for, while, do while,&nbsp;&nbsp;foreach, &amp;&nbsp;await foreach)&nbsp;</li><li>Uses Language Integrated Query (LINQ) to&nbsp;sort, search and filter&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>How to use foreach statement with&nbsp;IEnumerable&lt;T&gt; and&nbsp;IEnumerator&lt;T&gt;&nbsp;interfaces?&nbsp;</li><li>What is an iterator and how to use it?&nbsp;</li><li>What is the LINQ (Language Integrated Query)? What are the&nbsp;where, orderby, and select&nbsp;clauses, and how to use them?&nbsp;</li><li>What is the difference between the IComparable&lt;T&gt;, IComparer&lt;T&gt;, &amp; IEqualityComparer&lt;T&gt;?&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/arithmetic-operators",
+            "EducationTime": 0,
+            "Id": "bcd2c91d-61b6-4a5e-8017-08dbe4480a0a",
+            "Name": "Arithmetic operators"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.numerics.biginteger?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "2f6ddcf9-7b96-4191-801b-08dbe4480a0a",
+            "Name": "BigInteger Struct"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/",
+            "EducationTime": 0,
+            "Id": "09ab64f8-a2e5-4d91-8015-08dbe4480a0a",
+            "Name": "C# operators and expressions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/checked-and-unchecked",
+            "EducationTime": 0,
+            "Id": "867faec8-c563-42eb-801d-08dbe4480a0a",
+            "Name": "Checked and unchecked"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.math?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "b80809b0-4c06-47a4-8019-08dbe4480a0a",
+            "Name": "Math Class"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "10500986-a9b9-4252-9104-cf47d92b39a1",
+        "Name": "Uses language APIs for mathematical operations",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>Mathematic operation in programming often is not just about addition or&nbsp;subtraction. In day-to-day business use cases, it is needed to perform heavier computational (mathematical) operations, such as&nbsp;logarithm,&nbsp;tangent,&nbsp;arctangent, etc. Programming language using its core methods and solutions, a specific native library, or extra native APIs provides the tools to perform&nbsp;mathematical&nbsp;operations quickly, without additional&nbsp;effort,&nbsp;and remain easy to read in the source code.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses unary and binary arithmetic operators and parentheses for mathematical operations&nbsp;</li><li>Uses methods from the System.Math class for specialized mathematical operations&nbsp;</li><li>Uses BigInteger type from System.Numerics namespace for operations on values exceeding built-in type's limits&nbsp;</li><li>Handles arithmetic overflow situations using checked/unchecked keywords&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What are operator precedence and associativity?&nbsp;</li><li>What arithmetic operators there are in C# and how do they differ in unary, binary, prefix, postfix, compound assignment, and&nbsp;others?&nbsp;</li><li>What is arithmetic overflow and how to handle it?&nbsp;</li><li>How expressions are evaluated in the checked and unchecked context?&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions",
+            "EducationTime": 0,
+            "Id": "5e0addd5-630b-44c1-8025-08dbe4480a0a",
+            "Name": "Best practices for exceptions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-user-defined-exceptions",
+            "EducationTime": 0,
+            "Id": "357e8773-8bfa-4777-801f-08dbe4480a0a",
+            "Name": "How to create user-defined exceptions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-localized-exception-messages",
+            "EducationTime": 0,
+            "Id": "08f5a64a-8923-47aa-8021-08dbe4480a0a",
+            "Name": "How to create user-defined exceptions with localized exception messages"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/exceptions/using-user-filtered-exception-handlers",
+            "EducationTime": 0,
+            "Id": "817c4b67-7d17-4eeb-8023-08dbe4480a0a",
+            "Name": "Use user-filtered exception handlers"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "467c348a-3fb5-42b6-bef5-8e8e7008226b",
+        "Name": "Creates and uses custom exceptions",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>There could be complex business use cases that could not be solved by only using&nbsp;built-in language error handlers and are required to extend, modify existing exceptions or create new errors based on these specific situations. To address this a programming language provides the capability to create new custom errors or modify existing methods and language's&nbsp;built-in error handlers.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Creates user-defined exceptions which are inherited from the base&nbsp;<em>Exception</em>&nbsp;class.&nbsp;</li><li>Uses&nbsp;<em>.resx</em>&nbsp;files to&nbsp;localize messages&nbsp;in user-defined exceptions.&nbsp;</li><li>Uses&nbsp;<em>catch</em>&nbsp;and&nbsp;<em>when</em>&nbsp;statements to create user-filtered exception handlers.&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>How to create user-defined exceptions?&nbsp;</li><li>Understanding&nbsp;the hierarchy of exception classes&nbsp;</li><li>How to&nbsp;localize exception messages?&nbsp;</li><li>Catching different types of exceptions, and filtered error handlers&nbsp;</li><li>Using and understanding best practices for exceptions&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions",
+            "EducationTime": 0,
+            "Id": "df3387c5-d37f-483d-8035-08dbe4480a0a",
+            "Name": "C# Programming guide - Lambda expression"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods",
+            "EducationTime": 0,
+            "Id": "60bd57ba-098d-477e-802f-08dbe4480a0a",
+            "Name": "Extension methods"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.action?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "9ec9a81c-e521-4bae-8031-08dbe4480a0a",
+            "Name": "Func, Action, Predicate delegates"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/local-functions",
+            "EducationTime": 0,
+            "Id": "ba8034ae-1501-4b7b-8033-08dbe4480a0a",
+            "Name": "Local functions"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "0473281c-de57-47d8-912e-b36626342f09",
+        "Name": "Defines and works with self-contained units of code",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Blocks of functionality are a structure that similarly to the functions could be reused and stored into the variable, but compared to the function are usually unnamed, these structures are more commonly knowns as blocks, lambdas, or closures based on the language.&nbsp;One of the core functionality when it comes to reusability is the function, however, the block structures enable to push reusability even further by using unnamed block structures that could be usually stored and reused in a different part of the code, passed to different types of functions, or send this data to different&nbsp;built-in methods that are able to&nbsp;use such structure.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses Delegates for passing method as arguments to other methods&nbsp;</li><li>Uses Func delegate for sharing reusable blocks of functionality&nbsp;</li><li>Uses Action&nbsp;delegate for sharing reusable blocks of functionality&nbsp;</li><li>Uses Predicate delegate with Lambda expression&nbsp;</li><li>Uses Local function&nbsp;for sharing reusable blocks of functionality&nbsp;</li><li>Uses Anonymous methods&nbsp;for sharing reusable blocks of functionality&nbsp;</li><li>Uses Extension methods for extending existing types with new functionality&nbsp;</li><li>Uses Expression lambda in LINQ&nbsp;</li><li>Uses Statement lambda&nbsp;for sharing reusable blocks of functionality&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Applicability of&nbsp;Extension&nbsp;methods&nbsp;</li><li>Applicability of Local functions&nbsp;</li><li>Applicability of Predicate delegates&nbsp;</li><li>Applicability of&nbsp;Expression lambda&nbsp;&nbsp;</li><li>Applicability of&nbsp;Statement lambda&nbsp;</li><li>Difference between Func and Action delegates&nbsp;</li><li>Difference between&nbsp;Local functions and Lambda expression&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces",
+            "EducationTime": 0,
+            "Id": "92e039a8-55c2-4e3b-802d-08dbe4480a0a",
+            "Name": ".NET Fundamentals - Names of Namespaces"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces",
+            "EducationTime": 0,
+            "Id": "dd6b79c5-dc74-405c-8029-08dbe4480a0a",
+            "Name": "C# Guide - Declare namespaces to organize types"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/namespaces",
+            "EducationTime": 0,
+            "Id": "e8aedd26-76a3-426c-8027-08dbe4480a0a",
+            "Name": "C# Guide - Namespaces"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive",
+            "EducationTime": 0,
+            "Id": "aae70ac9-eb9e-47bc-802b-08dbe4480a0a",
+            "Name": "C# Language reference - using directive"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "cc6c82e0-cee2-488c-9190-5c85039948bc",
+        "Name": "Defines, maintains, and uses modular structures for code namespacing and reusability",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>The massive growth of the application source code usually leads to increase of the maintainability cost and decreases readability of the source code and could potentially result in performance degradation of the application. To address these issues, there is a need to use technics for splitting and reusing existing code in the chunks of the related functionality that in the future could be tested, replaced, updated, or modified whenever needed. At their core, modular approaches simply file with grouped functionality similar to the libraries, which help address multiple issues simultaneously. First of all, as mentioned previously, it is to create simple, readable, and reusable files addressing concerns with code readability and maintainability while providing the namespace to avoid name collisions between the multiple modular structures.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Organizes cohesive sets of functionality and types into individual namespaces&nbsp;</li><li>Creates new namespaces following language best practices and/or company standards&nbsp;</li><li>Utilizes directives to access existing types and namespaces&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is a namespace?&nbsp;</li><li>What is a naming collision and how to avoid it?&nbsp;</li><li>How directive and its modifiers global and static are used?&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-return-types",
+            "EducationTime": 0,
+            "Id": "d3833c86-688f-41fe-8049-08dbe4480a0a",
+            "Name": "Async return types (C#)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://devblogs.microsoft.com/dotnet/configureawait-faq/",
+            "EducationTime": 0,
+            "Id": "cf4f79fc-e362-467c-8047-08dbe4480a0a",
+            "Name": "ConfigureAwait FAQ"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/start-multiple-async-tasks-and-process-them-as-they-complete?pivots=dotnet-6-0",
+            "EducationTime": 0,
+            "Id": "9a117c16-219e-42dc-8043-08dbe4480a0a",
+            "Name": "Process asynchronous tasks as they complete"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/task-asynchronous-programming-model",
+            "EducationTime": 0,
+            "Id": "7a0f22d4-0fe0-4bf5-804b-08dbe4480a0a",
+            "Name": "Task asynchronous programming model"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming",
+            "EducationTime": 0,
+            "Id": "14911fbe-049d-4d21-8045-08dbe4480a0a",
+            "Name": "Task-based asynchronous programming"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2eef140a-3681-4af8-a3b1-dfa5f3c135dd",
+        "Name": "Implements asynchrony and non-blocking environment concepts",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Without utilizing languages asynchronous capability&nbsp;every call of methods, functions, or execution of any action would result in a blocking environment, meaning in case of heavy computations, executions of the asynchronous operation(i.e., call to API), everything in the application would be queued&nbsp;and waiting for the current execution to finish, causing the significant decline of the end-user experience. To solve this issue languages provide approaches, methods, or extensions that enable execution of the heavy CPU operation and asynchronous operations in a non-blocking way.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses async/await to create an asynchronous method(Task)&nbsp;</li><li>Runs Task (Task.Run) and creates a continuation (Task.ContinueWith)&nbsp;</li><li>Waits for Task completion (await, Task.WhenAll,&nbsp;Task.WhenAny, Wait())&nbsp;</li><li>Obtains result form Task&lt;T&gt;&nbsp;</li><li>Uses CancellationTokens to interrupt or cancel execution&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>General asynchronous programming concepts&nbsp;</li><li>What are I/O-bound and CPU-bound tasks?&nbsp;</li><li>How to cancel async tasks after some time?&nbsp;</li><li>How to handle errors in asynchronous operations?&nbsp;</li><li>Understanding different return types of async methods&nbsp;</li><li>How to process asynchronous tasks as they complete?&nbsp;</li><li>Understanding of&nbsp;ConfigureAwait&nbsp;</li><li>What is the difference between Task.Delay and Thread.Sleep, when to use them?&nbsp;</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/data-parallelism-task-parallel-library",
+            "EducationTime": 0,
+            "Id": "48844ced-edc4-421d-8055-08dbe4480a0a",
+            "Name": ".NET Fundamentals - Data Parallelism (Task Parallel Library)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/introduction-to-plinq",
+            "EducationTime": 0,
+            "Id": "cca35377-bf0b-4283-8053-08dbe4480a0a",
+            "Name": ".NET Fundamentals - Introduction to PLINQ"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-basics",
+            "EducationTime": 0,
+            "Id": "dfbb82fc-346a-42d9-8057-08dbe4480a0a",
+            "Name": ".NET Fundamentals - Managed threading basics (including sub-sections)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/potential-pitfalls-in-data-and-task-parallelism",
+            "EducationTime": 0,
+            "Id": "69f47652-6381-4422-8059-08dbe4480a0a",
+            "Name": ".NET Fundamentals - Potential Pitfalls in Data and Task Parallelism"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/threading/the-managed-thread-pool",
+            "EducationTime": 0,
+            "Id": "2c88eafd-2728-428e-805b-08dbe4480a0a",
+            "Name": ".NET Fundamentals - The managed thread pool"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading",
+            "EducationTime": 0,
+            "Id": "34fb623d-8220-4717-805d-08dbe4480a0a",
+            "Name": ".NET Fundamentals - Using threads and threading"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "5163b5f4-b4ee-4ac3-8051-08dbe4480a0a",
+            "Name": "API documentation - Task Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/",
+            "EducationTime": 0,
+            "Id": "3a8f8174-54ba-4d4f-804f-08dbe4480a0a",
+            "Name": "Asynchronous programming with async and await"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://stackoverflow.com/questions/34680985/what-is-the-difference-between-asynchronous-programming-and-multithreading",
+            "EducationTime": 0,
+            "Id": "60d06b8e-389e-4c0f-805f-08dbe4480a0a",
+            "Name": "StackOverflow - What is the difference between asynchronous programming and multithreading?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap",
+            "EducationTime": 0,
+            "Id": "519b1ed3-3c4d-4cdb-804d-08dbe4480a0a",
+            "Name": "Task-based asynchronous pattern (TAP) in .NET: Introduction and overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming",
+            "EducationTime": 0,
+            "Id": "14911fbe-049d-4d21-8045-08dbe4480a0a",
+            "Name": "Task-based asynchronous programming"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "484d6113-a6f9-44c5-8cfc-4e9a8d6c9c58",
+        "Name": "Implements concurrency concepts by using language capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>Concurrent execution is essential for efficient processing of large volumes of data and proper utilization of available computational resources, it is a cornerstone of highly performant, responsive, distributed and scalable applications. C# programming language provides the following tools for this purpose: Threads and ThreadPool, Task Parallel Library (TPL), Parallel LINQ (PLINQ), and async/await keywords.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses Thread class to create and control parallel execution of functionality: create, stop/interrupt/cancel, wait for completion, follow-up with another operation&nbsp;</li><li>Uses ThreadPool to execute operations in a concurrent manner&nbsp;</li><li>Uses PLINQ, Parallel class, and extension methods to&nbsp;create and control parallel execution of operations&nbsp;</li><li>Uses Task or TaskFactory classes&nbsp;to create and control parallel execution of functionality&nbsp;</li><li>Uses TAP (Task-based Asynchronous Pattern) and async/await keywords to combine concurrent and asynchronous operations&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is the difference between Threads, ThreadPool threads, and Tasks?&nbsp;</li><li>How to create and configure PLINQ queries?&nbsp;</li><li>What is a Task-based Asynchronous Pattern?&nbsp;</li><li>What are the Common Pitfalls in Data and Task Parallelism and how to avoid them?&nbsp;</li><li>What is the difference between asynchrony and multithreading?&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/default-interface-methods#explicit-implementation-in-interfaces",
+            "EducationTime": 0,
+            "Id": "13f03314-1089-463f-803f-08dbe4480a0a",
+            "Name": "Explicit implementation in interfaces"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface",
+            "EducationTime": 0,
+            "Id": "9210e8ee-0f5d-4f39-8039-08dbe4480a0a",
+            "Name": "Interfaces - C# Reference"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism",
+            "EducationTime": 0,
+            "Id": "553536b0-23e5-4c1d-803b-08dbe4480a0a",
+            "Name": "Polymorphism"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract",
+            "EducationTime": 0,
+            "Id": "a91bada0-6aa0-42dc-8037-08dbe4480a0a",
+            "Name": "The abstract modifier"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual",
+            "EducationTime": 0,
+            "Id": "f79efe26-5940-4f4c-803d-08dbe4480a0a",
+            "Name": "Virtual keyword"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2639ffe4-830c-4c89-8075-ef431dcb6f1b",
+        "Name": "Implements, maintains, and uses language abstraction concepts",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Data abstraction is the process of hiding certain details and showing only essential information to the user. Abstraction can be achieved with either abstract classes or interfaces.&nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Defines an&nbsp;<em>abstract</em>&nbsp;class with abstract methods and properties&nbsp;</li><li>Defines&nbsp;<em>non-abstract</em>&nbsp;class and&nbsp;includes implementations of all inherited abstract methods and properties&nbsp;</li><li>Implements multiple inheritance using&nbsp;<em>interfaces</em>&nbsp;</li><li>Uses explicit&nbsp;<em>interface</em>&nbsp;implementations&nbsp;</li><li>Uses a combination of&nbsp;<em>interfaces</em>&nbsp;and&nbsp;<em>abstract</em>&nbsp;classes to implement well-designed&nbsp;types&nbsp;</li><li>Defines and implements&nbsp;<em>virtual</em>&nbsp;methods&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>How to define&nbsp;<em>abstract</em>&nbsp;classes and&nbsp;<em>interfaces?</em>&nbsp;</li><li>How to implement multiple inheritance using&nbsp;<em>interfaces?</em>&nbsp;</li><li>What is&nbsp;explicit&nbsp;<em>interface</em>&nbsp;implementation?&nbsp;</li><li>Difference between&nbsp;<em>interface</em>&nbsp;and&nbsp;<em>abstract</em>&nbsp;class&nbsp;</li><li>Understanding of&nbsp;<em>abstract</em>&nbsp;modifiers&nbsp;</li><li>What is&nbsp;<em>polymorphism&nbsp;</em>and how to define and implement&nbsp;<em>virtual</em>&nbsp;methods?&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/uk-ua/dotnet/standard/io/",
+            "EducationTime": 0,
+            "Id": "bb74dc27-1f2f-46a9-8061-08dbe4480a0a",
+            "Name": "File and Stream I/O"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/uk-ua/dotnet/csharp/programming-guide/file-system/",
+            "EducationTime": 0,
+            "Id": "aef8da4e-fe16-4835-8063-08dbe4480a0a",
+            "Name": "File system and the registry"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "a6ad3d04-b210-4ccc-8065-08dbe4480a0a",
+            "Name": "System.IO Namespace"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/training/modules/dotnet-files/",
+            "EducationTime": 0,
+            "Id": "c2708db5-6ad0-4efc-8067-08dbe4480a0a",
+            "Name": "Work with files and directories in a .NET app"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "4b6f565b-60be-451a-8e44-da2e5db32b92",
+        "Name": "Manages files with language filesystem capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Managing files involves a range of tasks, such as creating, moving, copying, and deleting files and directories. It also includes checking file existence, reading and writing content, handling exceptions, traversing file trees, searching files using patterns, and converting streams for efficient processing. These operations are essential for effective file management and manipulation.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses typical operations for a directory such as checking if a directory exists, creating and deleting&nbsp;</li><li>Enumerates all the files in a directory&nbsp;</li><li>Uses typical operations for files such as checking if a file exists, renaming, copying, moving, and deleting&nbsp;</li><li>Uses typical operations for files such as creating, opening, and appending&nbsp;</li><li>Reads and writes files into the memory&nbsp;</li><li>Reads and writes files incrementally using streams&nbsp;</li><li>Monitors the file system for changes&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What are the Directory and DirectoryInfo classes? How and when to use them (main methods)?&nbsp;</li><li>What are the&nbsp;File and FileInfo classes?&nbsp;How and when to use them (main methods)?&nbsp;</li><li>What are the FileStream, MemoryStream, and BufferedStream classes?&nbsp;How and when to use them?&nbsp;</li><li>What are the&nbsp;BinaryReader and BinaryWriter classes?&nbsp;How and when to use them?&nbsp;</li><li>What are the&nbsp;StreamReader and StreamWriter classes?&nbsp;How and when to use them?&nbsp;</li><li>What is the&nbsp;FileSystemWatcher class?&nbsp;How and when to use them (main methods)?&nbsp;</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/bitwise-and-shift-operators",
+            "EducationTime": 0,
+            "Id": "65403bc3-95e2-490c-806f-08dbe4480a0a",
+            "Name": "Bitwise and shift operators"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/deconstruct",
+            "EducationTime": 0,
+            "Id": "cc8ca8b6-eb9f-4261-8079-08dbe4480a0a",
+            "Name": "Deconstructing tuples & other types"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.dynamic.dynamicobject?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "5524fe81-ec4a-4325-8073-08dbe4480a0a",
+            "Name": "DynamicObject Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.enum.hasflag?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "3748c24c-3d6f-4b8b-806b-08dbe4480a0a",
+            "Name": "Enum.HasFlag(Enum) Method"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.dynamic.expandoobject?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "106a3a0c-7b40-4f6d-8071-08dbe4480a0a",
+            "Name": "ExpandoObject Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.flagsattribute?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "5ccc8dbc-7398-481d-8069-08dbe4480a0a",
+            "Name": "FlagsAttribute Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns#logical-patterns",
+            "EducationTime": 0,
+            "Id": "00ac61f3-7b8f-432d-807b-08dbe4480a0a",
+            "Name": "Microsoft Learn - Patterns"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record",
+            "EducationTime": 0,
+            "Id": "89b559db-5539-4335-8077-08dbe4480a0a",
+            "Name": "Microsoft Learn - Records"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.structlayoutattribute?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "44b83ccd-d123-4c7d-806d-08dbe4480a0a",
+            "Name": "StructLayoutAttribute Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/using-type-dynamic",
+            "EducationTime": 0,
+            "Id": "c3815fe1-fadd-4ce6-8075-08dbe4480a0a",
+            "Name": "Using type dynamic"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "44d4813b-fac4-4d32-821c-3b5df1b21cf4",
+        "Name": "Manipulates data using advanced language capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>When it comes to complex and not standard tasks, structures such as numbers, strings, or related basic types could not be that efficient. The issues are primarily noticeable when tasks require low-level setup, optimization, and the creation of highly scalable custom solutions such as libraries, packages, or even frameworks. Programming languages provide advanced operators, bitwise operations, symbols, or any other similar advanced structure to address complex business needs.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses FlagsAttribute to create a set of flags&nbsp;</li><li>Uses StructLayoutAttribute to control the physical layout of the data fields&nbsp;in memory&nbsp;</li><li>Uses bitwise and shift operators&nbsp;&nbsp;</li><li>Uses dynamic type to circumvent compile-time checks&nbsp;&nbsp;</li><li>Uses ExpandoObject and&nbsp;DynamicObject classes&nbsp;</li><li>Uses Records &amp; Nondestructive Mutations&nbsp;</li><li>Uses Deconstruction of Tuples &amp; User-defined types&nbsp;</li><li>Uses Logical Patterns&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>How to create an enumeration that is a set of flags and use Enum.HasFlag method?&nbsp;</li><li>How to declare classes and structures using the StructLayout attribute to control the physical layout of data fields in memory?&nbsp;</li><li>How to use bitwise operators:&nbsp;<strong>~</strong>&nbsp;(bitwise complement), operator&nbsp;<strong>&amp;</strong>&nbsp;(logical AND),&nbsp;<strong>|</strong>&nbsp;(logical OR), and&nbsp;<strong>^</strong>&nbsp;(logical exclusive OR)?&nbsp;</li><li>How to use binary shift operators:&nbsp;<strong>&lt;&lt;</strong>&nbsp;(left shift),&nbsp;<strong>&gt;&gt;</strong>&nbsp;(right shift), and&nbsp;<strong>&gt;&gt;&gt;</strong>&nbsp;(unsigned right shift)?&nbsp;</li><li>When and how to use the type dynamic?&nbsp;</li><li>What are ExpandoObject and&nbsp;DynamicObject classes and how to use them?&nbsp;</li><li>Knowledge of the Record type and its benefits&nbsp;</li><li>Knowledge of Deconstruction of Tuples and User-defined types&nbsp;</li><li>Knowledge of Logical Patterns&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/datetime/choosing-between-datetime",
+            "EducationTime": 0,
+            "Id": "73f43137-9ed2-4c84-8089-08dbe4480a0a",
+            "Name": "Choose between DateTime, DateTimeOffset, TimeSpan, and TimeZoneInfo"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.dateonly",
+            "EducationTime": 0,
+            "Id": "2d03fccc-2270-4916-807f-08dbe4480a0a",
+            "Name": "DateOnly struct"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/datetime/system-text-json-support",
+            "EducationTime": 0,
+            "Id": "e2042e93-c1eb-46d1-808f-08dbe4480a0a",
+            "Name": "DateTime and DateTimeOffset support in System.Text.Json"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.datetime",
+            "EducationTime": 0,
+            "Id": "21345295-4266-40c1-807d-08dbe4480a0a",
+            "Name": "DateTime struct"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.datetimeoffset",
+            "EducationTime": 0,
+            "Id": "998d8e99-742a-4480-8085-08dbe4480a0a",
+            "Name": "DateTimeOffset struct"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/datetime/performing-arithmetic-operations",
+            "EducationTime": 0,
+            "Id": "acd16838-d880-4f4c-808d-08dbe4480a0a",
+            "Name": "Performing arithmetic operations with dates and times"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/datetime/time-zone-overview",
+            "EducationTime": 0,
+            "Id": "0343c396-5a4b-4b8b-808b-08dbe4480a0a",
+            "Name": "Time zone overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.timeonly",
+            "EducationTime": 0,
+            "Id": "b2335144-db05-4cc6-8081-08dbe4480a0a",
+            "Name": "TimeOnly struct"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.timespan",
+            "EducationTime": 0,
+            "Id": "ef26289f-4391-4dbd-8083-08dbe4480a0a",
+            "Name": "TimeSpan struct"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.timezoneinfo",
+            "EducationTime": 0,
+            "Id": "1be53e94-dcea-4ed6-8087-08dbe4480a0a",
+            "Name": "TimeZoneInfo class"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "77e16d70-85a3-4906-a2d0-cbddb5156a3b",
+        "Name": "Manipulates date and time with language APIs",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>Date and time data manipulation is an integral part of any modern programming language and web application ranging from simple timestamps in log files to highly distributed systems aggregating data from multiple sources in different time zones. In C# programming language date and time concepts are represented by the following types: DateTime, DateOnly, TimeOnly, TimeSpan, DateTimeOffset, TimeZoneInfo.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses DateTime, DateOnly, TimeOnly, TimeSpan structs for date and/or time manipulation (e.g. create, parse from string, convert to string, and other)&nbsp;</li><li>Uses DateTimeOffset struct to represent and manipulate a specific point in time relative to UTC (e.g. convert to/from DateTime, compare, and other)&nbsp;</li><li>Uses TimeZoneInfo class to represent the same date and time data in different time zones (e.g.&nbsp;converting date/time between different time zones,&nbsp;retrieving existing time zones, creating a custom time zone)&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Types available in C# representing Date and Time concepts&nbsp;</li><li>Choosing between date and time types&nbsp;</li><li>How to perform arithmetic operations with dates and times?&nbsp;</li><li>Essentials of working with time zones&nbsp;</li><li>Serialization support of date and time types&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket",
+            "EducationTime": 0,
+            "Id": "c33cbf9e-ce6d-4dee-8093-08dbe4480a0a",
+            "Name": "C# Language Reference - Socket"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/training/modules/network-fundamentals/",
+            "EducationTime": 47,
+            "Id": "85e001ca-e7fb-48d7-e021-08db733ae94a",
+            "Name": "Fundamentals of computer networking"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/http/httpclient-guidelines",
+            "EducationTime": 0,
+            "Id": "3fd183af-392c-4936-8099-08dbe4480a0a",
+            "Name": "Guidelines for using HttpClient"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/how-to?pivots=dotnet-6-0#httpclient-and-httpcontent-extension-methods",
+            "EducationTime": 0,
+            "Id": "70394586-1aa4-402a-8097-08dbe4480a0a",
+            "Name": "How to serialize and deserialize"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/tags/ref_httpmethods.asp",
+            "EducationTime": 0,
+            "Id": "da33dde4-0c66-479f-8095-08dbe4480a0a",
+            "Name": "HTTP Request Methods"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient",
+            "EducationTime": 0,
+            "Id": "c45ee9fc-1ab2-4ce8-8091-08dbe4480a0a",
+            "Name": "HttpClient"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "42a4fe40-04b6-42dc-998a-0811d3c8c695",
+        "Name": "Sends and retrieves data through a network using language capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Multiple challenges are raised when collecting or sending data through the&nbsp;application programming interface(API), for example, the most common issues could be dealing with data transformation to the format that could be represented&nbsp;or transmitted&nbsp;in the application, solving challenges with decoding and encoding data in different formats, handling API restrictions,&nbsp;&nbsp;specific security limitations&nbsp;and so many more. A programming language provides methodology, functionality, or extension to manage and simplify interaction with API&nbsp;and&nbsp;solve any issues and challenges.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses&nbsp;HttpClient&nbsp;to send GET/POST/PUT/PATCH requests to the specified Uri&nbsp;</li><li>Uses&nbsp;HttpClient with different payloads json/xml/etc&nbsp;</li><li>Works with HttpMessageHandler to configure settings to use&nbsp;features like authentication or caching&nbsp;</li><li>Works with ICredentials interface to supply network credentials to your application&nbsp;</li><li>Works with&nbsp;Socket to communicate&nbsp;through the network via TCP or UDP protocols or&nbsp;TcpClient, TcpListener, and UdpClient as simpler alternatives&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Understanding of various HTTP request methods&nbsp;</li><li>Understanding the difference between&nbsp;network&nbsp;protocols (TCP, UDP, HTTP, etc)&nbsp;</li><li>How Serialization/Deserialization works?&nbsp;</li><li>Fundamentals of computer networking&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/base-types/best-practices",
+            "EducationTime": 0,
+            "Id": "c4ef9633-f16b-475d-809f-08dbe4480a0a",
+            "Name": "Best practices for regular expressions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions.regex?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "9fa2b7e2-9033-493c-809d-08dbe4480a0a",
+            "Name": "Regex Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference",
+            "EducationTime": 0,
+            "Id": "06858d86-3096-4a34-809b-08dbe4480a0a",
+            "Name": "Regular Expression Language"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "4a74953c-a2b3-42f0-90f8-82b4586abaea",
+        "Name": "Validates, finds, and replaces string data with regular expressions",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Regular expressions are particular types of text consisting of different combinations of&nbsp;special characters.&nbsp;Regular expressions are used for complex string-searching algorithms to find or replace the specific strings that match the patterns, as well as, regularly used for validation of the different types of strings, for example, emails, phone numbers, names, surnames, etc.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses Regex.Replace for replacing matched string with the new string&nbsp;</li><li>Uses static Regex.IsMatch for validating user input&nbsp;</li><li>Uses Regex.Split for splitting a string into an array of substring&nbsp;</li><li>Uses Regex.Match.Groups for parsing the string.&nbsp;</li><li>Uses Regex Engine configuration to tune the engine for preventing hanging and getting better performances&nbsp;</li><li>Uses compiled regular expression&nbsp;</li><li>Uses regular expression compiled to the assembly&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What are Regular Expressions?&nbsp;</li><li>How to validate input data using Regular Expressions?&nbsp;</li><li>What are Anchors in Regular Expressions and for what purpose are they used?&nbsp;</li><li>How to split a string into an array using Regular Expression?&nbsp;</li><li>How to replace text using Regular Expression?&nbsp;</li><li>How to parse data using Regular Expression Group?&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/framework/performance/performance-tips",
+            "EducationTime": 0,
+            "Id": "88145726-b6a0-4400-80a1-08dbe4480a0a",
+            "Name": ".NET Performance Tips"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://en.wikipedia.org/wiki/Algorithmic_efficiency",
+            "EducationTime": 0,
+            "Id": "5630d9ec-1d7a-4c03-80ad-08dbe4480a0a",
+            "Name": "Algorithmic efficiency"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing",
+            "EducationTime": 0,
+            "Id": "c0e2848e-837a-4367-80a3-08dbe4480a0a",
+            "Name": "C# Guide - Boxing and Unboxin"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/finalizers",
+            "EducationTime": 0,
+            "Id": "49cde5ef-05cf-4edd-80a5-08dbe4480a0a",
+            "Name": "C# Guide - Finalizers"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/collections/",
+            "EducationTime": 0,
+            "Id": "7cd3104e-ac9c-4575-80ab-08dbe4480a0a",
+            "Name": "Collections and Data Structures"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/ref-returns",
+            "EducationTime": 0,
+            "Id": "62cb812e-e781-4a65-80a9-08dbe4480a0a",
+            "Name": "Ref returns and ref locals"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff",
+            "EducationTime": 0,
+            "Id": "1e74f9e5-32e4-4ab3-80af-08dbe4480a0a",
+            "Name": "Space–time tradeoff"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/simd",
+            "EducationTime": 0,
+            "Id": "c8c82c7a-51da-41b0-80a7-08dbe4480a0a",
+            "Name": "Use SIMD-accelerated numeric types"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "00cec08d-f264-4f51-bc79-26003364f1d5",
+        "Name": "Applies methodology and best practices for language performance optimisation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Performance is an important topic, especially when it comes to the user experience. Every minor drop in the application performance could cause a significant increase in interaction time with the user interface (UI) or application programming interface (API). When an application's source code significantly scales, even fast, optimized, and lightweight languages could have a bad performance for various reasons. Multiple approaches, best practices, and methodologies exist to prevent performance degradation issues or arrange the optimization of the source code and the language itself.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses generic collections to avoid redundant boxing, unboxing operations&nbsp;&nbsp;</li><li>Uses StringBuilder for repeated string concatenation operations&nbsp;</li><li>Uses reference return values and locals&nbsp;</li><li>Uses appropriate data structures List, Dictionary, Set, etc.&nbsp;</li><li>Uses SIMD-accelerated numeric types when relevant&nbsp;</li><li>Uses benchmarks to establish baseline and measure performance changes&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is boxing and unboxing?&nbsp;</li><li>Why repeated string concatenation is costly?&nbsp;</li><li>What is a finalizer and why empty finalizers should be avoided?&nbsp;</li><li>How to choose&nbsp;an appropriate collection for your use case?&nbsp;</li><li>When to use ref return values and ref locals?&nbsp;</li><li>What is algorithm efficiency, and space-time tradeoff?&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/native-interop/com-wrappers",
+            "EducationTime": 0,
+            "Id": "c0323634-2640-4d1c-80b7-08dbe4480a0a",
+            "Name": "COM Wrappers (including sub-sections)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/common-type-system",
+            "EducationTime": 0,
+            "Id": "ec09d9b1-9592-47cf-80bb-08dbe4480a0a",
+            "Name": "Common Type System & Common Language Specification"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/framework/interop/interop-marshalling",
+            "EducationTime": 0,
+            "Id": "5d502e73-56b6-4f15-80b1-08dbe4480a0a",
+            "Name": "Interop Marshaling"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/language-independence",
+            "EducationTime": 0,
+            "Id": "fd838138-4dc6-4197-80bd-08dbe4480a0a",
+            "Name": "Language independence and language-independent components"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.marshal",
+            "EducationTime": 0,
+            "Id": "156ebb2a-5f19-4aa0-80bf-08dbe4480a0a",
+            "Name": "Marshal Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/native-interop/best-practices",
+            "EducationTime": 0,
+            "Id": "21fb30fd-6bb3-43f7-80b9-08dbe4480a0a",
+            "Name": "Native interoperability best practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke",
+            "EducationTime": 0,
+            "Id": "6a078251-a170-4cad-80b5-08dbe4480a0a",
+            "Name": "Platform Invoke (P/Invoke)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/native-interop/type-marshalling",
+            "EducationTime": 0,
+            "Id": "33d921f4-8dc7-4497-80b3-08dbe4480a0a",
+            "Name": "Type marshalling"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "1da20283-1458-49af-a32b-628c2b211a23",
+        "Name": "Configures and uses language interoperability concepts",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>In modern software development, there are use cases when using multiple languages is one of the application requirements. It could be simply for optimization reasons, adding extra functionality that the original language lacks, or creating custom solutions with a low-level programming language. It doesn't matter what the business needs are, the application requires configuration and constant maintenance to ensure that two or more languages work together without any errors and issues.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses P/Invoke to interoperate with unmanaged libraries&nbsp;</li><li>Exposes C# types as COM components and vice versa&nbsp;</li><li>Implements CLS compliant components for interoperability with other .NET languages: F#, VB.NET, C++/CLI&nbsp;</li><li>Uses System.Runtime.InteropServices.Marshal class for interactions with unmanaged memory and types&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is marshalling?&nbsp;</li><li>What are COM wrappers?&nbsp;</li><li>What does CLS compliance mean?&nbsp;</li><li>What are interoperability best practices?&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/guidelines-for-collections",
+            "EducationTime": 0,
+            "Id": "e19b991a-53ee-4020-80c3-08dbe4480a0a",
+            "Name": "Guidelines for Collections"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "c6ffa214-ccc2-4937-80c1-08dbe4480a0a",
+            "Name": "System.Collections.Generic"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "6a6cf241-6c4b-4dad-9f5d-184d6c617072",
+        "Name": "Manages advanced collections of data using language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Advanced, more optimized, and complex composite data types in a programming language could be used for non-standard business use cases. The&nbsp;structures are similar to arrays, and key-value storage allows&nbsp;for data collection operation&nbsp;when required for more efficient data type storing, for example, when memory optimization is required, or the uniqueness of the data should be ensured right out the box.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses HashSet for storing data&nbsp;</li><li>Modifies HashSet using basic operations like UnionWith, ExceptWith and IntersectWith&nbsp;</li><li>Uses&nbsp;LinkedList&nbsp;for storing and manipulating data&nbsp;</li><li>Uses&nbsp;SortedList&nbsp;for storing and manipulating data&nbsp;</li><li>Uses&nbsp;SortedSet&nbsp;for storing and manipulating data&nbsp;</li><li>Uses&nbsp;SortedDictionary for storing and manipulating data&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Difference between HashSet, SortedSet , SortedDictionary and Dictionary&nbsp;</li><li>Difference between SortedList and SortedSet&nbsp;</li><li>Applicability of LinkedList&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/potential-pitfalls-in-data-and-task-parallelism",
+            "EducationTime": 0,
+            "Id": "241aa56a-3562-4594-80c7-08dbe4480a0a",
+            "Name": "Best practices/pitfalls in task parallelism"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/custom-partitioners-for-plinq-and-tpl",
+            "EducationTime": 0,
+            "Id": "f09b6caa-de29-4194-80cf-08dbe4480a0a",
+            "Name": "Custom partitioners for PLINQ"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-speed-up-small-loop-bodies",
+            "EducationTime": 0,
+            "Id": "4fc4cb30-e53b-443d-80d1-08dbe4480a0a",
+            "Name": "How to: Speed Up Small Loop Bodies"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.threading.interlocked",
+            "EducationTime": 0,
+            "Id": "bc320392-3e8f-418a-80d9-08dbe4480a0a",
+            "Name": "Interlocked"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices",
+            "EducationTime": 0,
+            "Id": "6bbc0c0b-e24d-4a8b-80c5-08dbe4480a0a",
+            "Name": "Managed threading best practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.parallel",
+            "EducationTime": 0,
+            "Id": "13f914fe-c0cf-49f8-80cb-08dbe4480a0a",
+            "Name": "Parallel Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task",
+            "EducationTime": 0,
+            "Id": "db40d028-d241-4fb5-80c9-08dbe4480a0a",
+            "Name": "Task Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.taskscheduler",
+            "EducationTime": 0,
+            "Id": "06f6b3c5-0422-4a56-80cd-08dbe4480a0a",
+            "Name": "TaskScheduler"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/threading/thread-local-storage-thread-relative-static-fields-and-data-slots",
+            "EducationTime": 0,
+            "Id": "f54e132d-118a-4aa9-80d7-08dbe4480a0a",
+            "Name": "Thread local storage"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/march/net-framework-immutable-collections",
+            "EducationTime": 0,
+            "Id": "9a6113a7-0e2c-4b40-80d5-08dbe4480a0a",
+            "Name": "Thread-safe collections"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/collections/thread-safe/when-to-use-a-thread-safe-collection",
+            "EducationTime": 0,
+            "Id": "e17f28d5-41ad-4a99-80d3-08dbe4480a0a",
+            "Name": "When to use a thread-safe collection"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "c6e93a92-1a87-4d02-a26c-f4da069fddb5",
+        "Name": "Optimises multithreading efficiency and performance",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Usage of the&nbsp;multithreading itself could not provide reassurance of good performance in the application if the data sent to the thread is not properly optimized or not efficiently dispatched it could cause significant performance degradation, crashes, and to have a substantial drop in the end-user experience. As with any source code, programming language provide the methodology, best practices, and functionality to optimize work with threads.&nbsp;</p><p>&nbsp;</p><p><strong>Skills </strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses&nbsp;Interlocked class to perform simple changes in variables state&nbsp;</li><li>Uses immutable and Thread-safe collections&nbsp;</li><li>Uses&nbsp;task scheduler&nbsp;for queuing tasks onto threads&nbsp;</li><li>Uses custom partitioners for PLINQ and TPL&nbsp;</li><li>Uses&nbsp;Thread local storage&nbsp;to store data that's unique to a thread&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Which problems does multithreading solve?&nbsp;</li><li>What is synchronization context?&nbsp;</li><li>How to work with task scheduler?&nbsp;</li><li>Understanding&nbsp;pitfalls in&nbsp;Task parallelism&nbsp;</li><li>Understanding speedup in PLINQ&nbsp;</li><li>What is the purpose of&nbsp;custom partitioners for&nbsp;PLINQ and TPL?&nbsp;</li><li>Distinction between different types of immutable and Thread-safe collections&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/lock",
+            "EducationTime": 0,
+            "Id": "d4fa5238-4a97-40bb-80dd-08dbe4480a0a",
+            "Name": "lock statement"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices",
+            "EducationTime": 0,
+            "Id": "6bbc0c0b-e24d-4a8b-80c5-08dbe4480a0a",
+            "Name": "Managed threading best practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/threading/overview-of-synchronization-primitives",
+            "EducationTime": 0,
+            "Id": "786d99d0-dc36-4423-80db-08dbe4480a0a",
+            "Name": "Overview of synchronization primitives"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://en.wikipedia.org/wiki/Readers%E2%80%93writer_lock",
+            "EducationTime": 0,
+            "Id": "c533e1a3-bdaf-4eb3-80df-08dbe4480a0a",
+            "Name": "Readers-writers problem"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "eb99a22b-43e9-47a3-bbc7-0093cf15e1e2",
+        "Name": "Synchronises concurrent operations by using language capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong> &nbsp;</p><p>&nbsp;</p><p>Concurrency solves problems of throughput, scalability and responsiveness, however by doing so it introduces new problems related to access and modification of the shared resources from different threads, synchronization primitives enforce correct shared resource access and modification in concurrent environment.&nbsp;C# and .NET provide a plethora of synchronization primitives such as: Monitor, Mutex, Semaphore &amp; SemaphoreSlim, Manual &amp; AutoResetEvent, Interlocked, SpinWait &amp; SpinLock, Barrier and others.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses Interlocked for simple atomic operations&nbsp;</li><li>Uses Monitor or lock keyword for exclusive access to shared resource(s)&nbsp;</li><li>Uses Mutex, Semaphore, derivates of EventWaitHandle for inter-process synchronization when necessary&nbsp;</li><li>Uses&nbsp;ReaderWriterLockSlim to solve readers-writers concurrency problem&nbsp;</li><li>Uses other synchronizations primitives when appropriate: Barrier, CountdownEvent, SpinLock, SpinWait, Manual &amp; AutoResetEvent&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What are the available synchronization primitives in C# &amp; .NET?&nbsp;</li><li>When to use named system synchronization handles?&nbsp;</li><li>What is readers-writers concurrency problem and how to solve it?&nbsp;</li><li>What are the threading best practices?&nbsp;</li><li>What are the common synchronization issues and how to avoid or resolve them: race condition, deadlock, livelock?&nbsp;</li></ul><p>&nbsp;</p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.icomparable-1?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "e1b78e1e-e6f3-4492-80e5-08dbe4480a0a",
+            "Name": "IComparable<T> Interface"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "f5f33722-0bbd-440d-80e7-08dbe4480a0a",
+            "Name": "IComparer<T> Interface"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "208001e5-334e-4b9f-80e1-08dbe4480a0a",
+            "Name": "IEnumerable<T> Interface"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerator-1?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "fda2d460-3e7d-44ac-80e3-08dbe4480a0a",
+            "Name": "IEnumerator<T> Interface"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "598af04c-be0b-460f-80e9-08dbe4480a0a",
+            "Name": "IEqualityComparer<T> Interface"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "8fade760-6ce4-4dd1-b231-ed9a621f16cb",
+        "Name": "Uses advanced iterators to traverse through different types of collections",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>There are multiple use cases when using collections (a.k. compound data types), such as index-based storage (e.g. array) or key-value(e.g. dictionary). The initial use case is simply to store the basic language types, such as numbers and strings, in the collection for further reusability. However, in date-to-date business problems, it is not enough just to store data. There are multiple cases where it's required to sort, search and filter through the collection. In the situations mentioned previously, it is important to use built-in language iterators, methods, and techniques to simplify interaction with collections and deliver a fast and reliable solution.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Implements &amp; uses user-defined IEnumerable&lt;T&gt; implementations&nbsp;</li><li>Implements &amp; uses user-defined IComparable&lt;T&gt; implementations&nbsp;</li><li>Implements &amp; uses user-defined IComparer&lt;T&gt;&nbsp;implementations in custom sorting scenarios&nbsp;</li><li>Implements &amp; uses user-defined IEqualityComparer&lt;T&gt; implementations in custom object equality checking&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What are IEnumerable and&nbsp;IEnumerable&lt;T&gt; interfaces and how to use them? What is the difference between them?&nbsp;</li><li>What are IEnumerator&nbsp;and&nbsp;IEnumerator&lt;T&gt; interfaces&nbsp;and how to use them? What is the difference between them?&nbsp;</li><li>What is the&nbsp;IAsyncEnumerable&lt;T&gt; interface and how to use it?&nbsp;</li><li>How to create an iterator? What is the yield contextual keyword and how to use it with an iterator?&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/accessing-custom-attributes",
+            "EducationTime": 0,
+            "Id": "0090449c-8ecc-4c46-80f3-08dbe4480a0a",
+            "Name": "Accessing Custom Attributes"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/dynamically-loading-and-using-types",
+            "EducationTime": 0,
+            "Id": "39a691c0-7971-465b-80ed-08dbe4480a0a",
+            "Name": "Dynamically Loading and Using Types"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/emitting-dynamic-methods-and-assemblies",
+            "EducationTime": 0,
+            "Id": "c5937869-213e-4467-80f5-08dbe4480a0a",
+            "Name": "Emitting Dynamic Methods and Assemblies (including sub-sections)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/attributes/",
+            "EducationTime": 0,
+            "Id": "5458eed0-3134-4127-80f1-08dbe4480a0a",
+            "Name": "Extend metadata using attributes (including sub-sections)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/get-type-member-information",
+            "EducationTime": 0,
+            "Id": "2e95cf00-ff8d-446f-80ef-08dbe4480a0a",
+            "Name": "How to: Get type and member information by using reflection"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/metadata-and-self-describing-components",
+            "EducationTime": 0,
+            "Id": "7f1b366e-a669-45fa-80f7-08dbe4480a0a",
+            "Name": "Metadata and Self-Describing Components"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/viewing-type-information",
+            "EducationTime": 0,
+            "Id": "6e2d938d-2571-40df-80eb-08dbe4480a0a",
+            "Name": "Viewing Type information"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b295768a-188e-4ffc-a2c7-0479f1333855",
+        "Name": "Uses language metaprogramming techniques",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Metaprogramming, at its core, is a powerful technique that allows to analyze and modify application&nbsp;behavior on the fly. However, such a technique comes with a cost, and the main areas of impact are readability, maintainability, and testability of the&nbsp;source code.&nbsp;Metaprogramming should be only applied in business use cases when it's strictly necessary or required to use it. In C# programming world this approach is also known as Reflection.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Retrieves metadata about types, methods, attributes, etc. during runtime&nbsp;</li><li>Creates own and/or uses existing metadata elements via attributes&nbsp;</li><li>Dynamically loads types and/or creates their instances&nbsp;</li><li>Invokes methods via reflection&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>How to retrieve type and member information in runtime?&nbsp;</li><li>How to examine metadata stored in attributes?&nbsp;</li><li>How to create type instances dynamically via Activator class?&nbsp;</li><li>How to select and invoke a specific method via Type and MethodInfo classes?&nbsp;</li><li>Where metadata comes from in .NET applications?&nbsp;</li><li>What are the use cases of types from&nbsp;System.Reflection.Emit namespace?&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1?view=net-6.0",
+            "EducationTime": 0,
+            "Id": "d7c4db13-f20c-493b-8102-08dbe4480a0a",
+            "Name": "ArrayPool<T> Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/background-gc",
+            "EducationTime": 0,
+            "Id": "e1ce785d-a507-42bb-80ff-08dbe4480a0a",
+            "Name": "Background garbage collection"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals",
+            "EducationTime": 0,
+            "Id": "53aead76-9c25-44da-80f9-08dbe4480a0a",
+            "Name": "Fundamentals of garbage collection"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.gc?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "5c9c3aa0-8bd3-4c07-8104-08dbe4480a0a",
+            "Name": "GC Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose",
+            "EducationTime": 0,
+            "Id": "35e4c992-2148-4c96-8103-08dbe4480a0a",
+            "Name": "Implement a Dispose method"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-6.0",
+            "EducationTime": 0,
+            "Id": "aa77ac77-01c7-433c-8100-08dbe4480a0a",
+            "Name": "Memory management and garbage collection (GC) in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/memory-and-spans/memory-t-usage-guidelines",
+            "EducationTime": 0,
+            "Id": "a960e8c3-3c4a-4502-80fb-08dbe4480a0a",
+            "Name": "Memory<T> and Span<T> usage guidelines"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://devblogs.microsoft.com/premier-developer/understanding-different-gc-modes-with-concurrency-visualizer/",
+            "EducationTime": 0,
+            "Id": "c625a610-434c-437d-8101-08dbe4480a0a",
+            "Name": "Understanding different GC modes with Concurrency Visualizer"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/weak-references",
+            "EducationTime": 0,
+            "Id": "cfa1e006-bb54-47cf-80fd-08dbe4480a0a",
+            "Name": "Weak References"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/workstation-server-gc",
+            "EducationTime": 0,
+            "Id": "5a161969-7364-4841-80fe-08dbe4480a0a",
+            "Name": "Workstation and server garbage collection"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/write-safe-efficient-code",
+            "EducationTime": 0,
+            "Id": "38d3f8c8-31e3-46e0-80fc-08dbe4480a0a",
+            "Name": "Write safe and efficient C# code"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "546cf24b-1ed8-4a84-8955-e9ce99044763",
+        "Name": "Uses memory management techniques",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>We need language memory management techniques to effectively manage the allocation and deallocation of memory used by our programs, which can help prevent memory leaks, segmentation faults, and other memory-related errors that can cause crashes or unexpected behaviour. Effective memory management can also help optimize the performance of our programs by minimizing memory usage and reducing overhead.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Implements IDisposable interface in accordance with best practices&nbsp;</li><li>Uses Garbage Collector (GC) methods&nbsp;</li><li>Uses ref, readonly structs to mitigate heap allocations and copying of values&nbsp;</li><li>Uses Memory&lt;T&gt;, Span&lt;T&gt; and their derivatives to work on continuous blocks of memory&nbsp;</li><li>Uses WeakReference when applicable&nbsp;</li><li>Uses ArrayPool&lt;T&gt;, MemoryPool&lt;T&gt; to rent and return short-lived arrays and memory blocks&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>How GC works?&nbsp;</li><li>How to implement Dispose method?&nbsp;</li><li>How and when to use ref, readonly structs?&nbsp;</li><li>When to use Memory&lt;T&gt; and Span&lt;T&gt;?&nbsp;</li><li>What is a WeakReference and when to use it?&nbsp;</li><li>What are the different GC modes and how they differ: workstation, server?&nbsp;</li></ul><p><br></p><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b2812098-135c-4602-909c-49f5274090bc",
+        "Name": "Evaluates and integrates new features of a programming language into the system",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Programming languages evolve over time, introducing new features that improve performance, maintainability, and developer productivity. Evaluating these features is critical to ensure they are beneficial for the system’s architecture and workflows. This task involves understanding new language updates, analyzing their impact, and safely integrating them into existing codebases to enhance solution capabilities. Careful evaluation avoids potential risks of incompatibility or performance degradation while ensuring teams adopt language innovations effectively.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "5ae3bc21-e205-4a8f-b5fb-e6eda7b4cf6c",
+        "Name": "Designs and implements distributed systems using language patterns and techniques",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Modern software systems often require distributed architectures to handle scalability, resilience, and performance demands. This task involves using advanced programming language capabilities, such as concurrency models, asynchronous processing, and messaging patterns, to design and implement distributed systems. Proper use of these techniques ensures efficient communication, fault tolerance, and high availability across distributed components. This job helps meet the challenges of managing data consistency, resource allocation, and coordination in complex systems.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "6e663ba3-db58-49e7-bb9d-e3b97b899997",
+        "Name": "Optimizes multi-language interoperability in complex application environments",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Many large-scale systems use multiple programming languages for different components to leverage their strengths. Optimizing the interoperability between these languages ensures seamless communication, data exchange, and performance efficiency. This task involves solving challenges like integrating language runtimes, managing memory safety across boundaries, and ensuring minimal performance overhead when languages interact. Effective optimization of multi-language environments improves system flexibility and reduces technical barriers in complex applications.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "27e56ff0-a3c5-4d64-b0ce-2a35b52437a6",
+        "Name": "Combines and optimizes multiple programming paradigms to improve solution qualities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Different programming paradigms, such as functional, procedural, and object-oriented, offer unique benefits for solving specific problems. Combining these paradigms effectively within a system improves code performance, scalability, and maintainability. This task involves identifying where each paradigm fits best, designing hybrid solutions, and optimizing their usage for real-world challenges. Proper paradigm combination helps developers reduce complexity, improve adaptability, and achieve better solution outcomes.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "e2fba226-f6a2-4f8b-96d6-150b1baf32c7",
+        "Name": "Introduces novel methodologies for debugging and performance profiling at the language level",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>As systems grow in size and complexity, traditional debugging and profiling methods may fall short. This task involves creating new methodologies and tools for analyzing code execution, identifying bottlenecks, and diagnosing errors at the programming language level. Novel approaches, such as real-time tracing, advanced logging, or memory profiling, enable developers to understand system behavior better and improve performance. These methods enhance system reliability, reduce downtime, and streamline problem resolution for complex applications.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "74b625a2-f9e2-4b0d-b5e6-82c80b2fc7e1",
+        "Name": "Implements language-based domain-specific languages to address problem-solving in complex domains",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Complex problem domains often require specialized tools and workflows. Domain-Specific Languages (DSLs) provide a way to simplify problem-solving by offering tailored syntax and capabilities specific to a domain. This task involves designing, implementing, and integrating DSLs using programming language capabilities to address challenges in areas like configuration management, data transformation, or analytics. Proper use of DSLs reduces development effort, improves system clarity, and empowers domain experts to contribute efficiently.</p><p></p>"
+      }
+    ]
+  }
+]

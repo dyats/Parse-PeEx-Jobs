@@ -1,4 +1,6 @@
-﻿public class ReviewJob
+﻿namespace ParseJobs.Models;
+
+public class ReviewJob
 {
     public bool IsNew { get; set; }
     public object[] EvaluationMarks { get; set; }

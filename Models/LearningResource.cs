@@ -1,4 +1,6 @@
-﻿public class LearningResource
+﻿namespace ParseJobs.Models;
+
+public class LearningResource
 {
     public bool IsDeactivated { get; set; }
     public string Type { get; set; }

@@ -1,4 +1,6 @@
-﻿public class Job
+﻿namespace ParseJobs.Models;
+
+public class Job
 {
     public string JobLevelName { get; set; }
     public bool IsJobLevelNew { get; set; }

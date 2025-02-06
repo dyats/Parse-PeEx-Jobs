@@ -6,9 +6,9 @@ namespace ParseJobs.Models;
 [JsonConverter(typeof(StringEnumConverter))]
 public enum PositionEnum
 {
-    Trainee,
-    Junior,
-    Middle,
-    Senior,
-    Lead
+    Trainee = 0,
+    Junior  = 1,
+    Middle  = 2,
+    Senior  = 3,
+    Lead    = 4
 }

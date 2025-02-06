@@ -13,9 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Data\aggregated-jobs.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="Data\competencies.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -46,18 +43,18 @@
     <None Update="Data\jobs.competency9.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-	  <None Update="Data\jobs.competency10.json">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Data\jobs.competency11.json">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Data\jobs.competency12.json">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Data\jobs.competency13.json">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
+	<None Update="Data\jobs.competency10.json">
+		<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</None>
+	<None Update="Data\jobs.competency11.json">
+		<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</None>
+	<None Update="Data\jobs.competency12.json">
+		<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</None>
+	<None Update="Data\jobs.competency13.json">
+		<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</None>
   </ItemGroup>
 
 </Project>

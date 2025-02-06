@@ -1,0 +1,581 @@
+[
+  {
+    "JobLevelName": "Trainee Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ac78d654-1dd1-4384-883a-079afa1d3f75",
+        "Name": "Creates components and modules using basic design techniques",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">When starting to work with any programming language or some ready solution such as frameworks, the developer unintentionally begins following the different design techniques. Concepts such as abstraction, inheritance, and polymorphism are core when it comes to object-oriented languages, and the majority of best practices and recommendations are related to or based on them. However, simply following best practices and guides without understanding practical applicability could cause more harm than good and cost a lot of time and effort to address generated issues because of the upsends of understanding.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.baeldung.com/cs/cohesion-vs-coupling",
+            "EducationTime": 0,
+            "Id": "0557ef65-ab7f-4745-893b-08dae8b13480",
+            "Name": "Difference Between Cohesion and Coupling"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://brainbell.com/php/composition-and-aggregation.html",
+            "EducationTime": 0,
+            "Id": "409848dd-2e9c-432c-4583-08dbbf59defb",
+            "Name": "OOP Composition and Aggregation"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "938a5299-62ba-4403-9b0f-10bdde48cceb",
+        "Name": "Creates reusable structures by applying design strategies and methodologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Reusability is a very significant and essential concept in software development. Whether the developer is working on a small-size library or a large enterprise application, reusability is key to success, no one what’s to have multiple pieces doing similar or, in some cases, the same job. Without following principles and best practices of reusability, the application would end up with many additional issues, starting from messy and repeatable code and huge size files ending up with the performance issue because of the lack of optimisation. However, creating such reusable pieces is not just a simple matter of removing them from the general flow and isolating them in separate modules. But instead, performing the design work by thinking upfront about how this piece of functionality will be used, for example, how it should be modified or extended, or how other functionality should use this by inheritance, composition or aggregation.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.guru99.com/functional-vs-non-functional-requirements.html",
+            "EducationTime": 0,
+            "Id": "05b10654-da2b-4952-8941-08dae8b13480",
+            "Name": "Functional Vs. Non Functional Requirements: Differences"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Book",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.oreilly.com/library/view/software-requirements/9780735679658/",
+            "EducationTime": 0,
+            "Id": "a3f27d86-aa52-4d27-893d-08dae8b13480",
+            "Name": "Software Requirements"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/software_engineering/software_requirements.htm",
+            "EducationTime": 0,
+            "Id": "ebeeb5cb-304c-4214-893f-08dae8b13480",
+            "Name": "Software Requirements"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "12e66db0-bb77-4583-a2db-8b605339f46b",
+        "Name": "Implements solutions based on different requirement types",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p>Following the specific technology's best practices and community recommendations is just one part of developing a solution for the client. As secure, modifiable, or easy-to-read code could be, it can't guarantee that the client would be satisfied with the proposed solution. The developer could ensure that the task's goals are achieved by only the fulfillment of both technical and requirements provided by the client. To ensure that implementation is what the business desires, the developer must follow different requirements from various sources, including but not limited to documentation, diagrams, different notes from stakeholders, verbal requirements, and explanations from the stakeholders.</p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.educba.com/process-of-reverse-engineering/",
+            "EducationTime": 0,
+            "Id": "a6c9fed8-b410-40a9-894c-08dae8b13480",
+            "Name": "Process of Reverse Engineering"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.javatpoint.com/software-engineering-requirement-engineering",
+            "EducationTime": 0,
+            "Id": "1a83630f-3103-42e6-8948-08dae8b13480",
+            "Name": "Requirement Engineering"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.softwaretestinghelp.com/requirements-elicitation-techniques/",
+            "EducationTime": 0,
+            "Id": "17f0413c-951b-43c8-894a-08dae8b13480",
+            "Name": "Top 10 Most Common Requirements Elicitation Techniques"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7c2a75eb-d481-4d00-a026-99029bbd5711",
+        "Name": "Collects data using requirements elicitation techniques and methodologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Requirements elicitation is concerned with the origins of software requirements and how the software engineer can collect them. It is the first stage in building an understanding of the problem the software is required to solve. Requirements have many sources in typical software, and all potential sources must be identified and evaluated (for example, domain knowledge, stakeholders, goals, business rules, and operational and organizational environments). One of the fundamental principles of a reasonable requirements elicitation process is effective communication between the various stakeholders. The developer should use techniques for getting the correct information from stakeholders like interviews, prototypes, facilitated meetings, observations, user stories, scenarios, brainstorming, etc. This communication continues through the entire Software Development Life Cycle (SDLC) process with different stakeholders at different points in time.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://refactoring.guru/refactoring/smells",
+            "EducationTime": 0,
+            "Id": "3bb335a2-dc59-4cfc-45d7-08dbbf59defb",
+            "Name": "Code Smells Refactoring"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f",
+            "EducationTime": 0,
+            "Id": "4cde0b39-12fd-45e4-8944-08dae8b13480",
+            "Name": "DRY, KISS & YAGNI Principles"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.boldare.com/blog/solid-cupid-grasp-principles-object-oriented-design/",
+            "EducationTime": 0,
+            "Id": "3f7a6fa0-5396-4310-8943-08dae8b13480",
+            "Name": "SOLID, CUPID & GRASP – three (more) principles that every developer should know about"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ea0c7c19-a650-4b25-970e-dd6b3ab031fc",
+        "Name": "Refactors and restructures software components and modules using community-recommended practices and methodologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p>During the active phase of development, the developers usually generate some tech debt due to development activities. Tech debt is typical in any application, and the only difference between the good and bad quality of the applications is how the team or developers address them. The primary purpose of refactoring is to manage technical debt and avoid it further down the road. By applying technics, best practices, and methodologies, the refactoring transforms hard-to-read and maintained mess into clean code with a simple design that, in the long term, could save a lot of time and effort in future endeavors.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://refactoring.guru/design-patterns/creational-patterns",
+            "EducationTime": 0,
+            "Id": "777e076c-ec58-4d9b-8946-08dae8b13480",
+            "Name": "Creational design patterns"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "01131ff3-726f-4bae-85de-d94c054bf2b8",
+        "Name": "Uses design patterns to create new structures based on requirements",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">On the low level – all applications are built using algorithms and data structures combined together. Structurization of data in the application, creating deeply nested structures, and working with these structures are common tasks for every developer. For such everyday routine tasks, developers use design patterns. Design patterns are typical solutions to commonly occurring problems in software design. Structural design patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.conceptatech.com/blog/how-to-define-stakeholders-for-your-software-development-project",
+            "EducationTime": 0,
+            "Id": "befecaeb-35fe-4f53-8950-08dae8b13480",
+            "Name": "How To Define Stakeholders For Your Software Development Project"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.mobindustry.net/blog/stakeholders-in-the-software-development-process-identifying-and-distributing-responsibilities/",
+            "EducationTime": 0,
+            "Id": "650dcb47-fe77-4a82-4595-08dbbf59defb",
+            "Name": "Stakeholders in the Software Development Process: Identifying and Distributing Responsibilities"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://project-management.com/understanding-responsibility-assignment-matrix-raci-matrix/",
+            "EducationTime": 0,
+            "Id": "b7a6fa72-2e35-43ad-894e-08dae8b13480",
+            "Name": "Understanding Responsibility Assignment Matrix (RACI Matrix)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://ecomputernotes.com/software-engineering/softwarerequirement",
+            "EducationTime": 0,
+            "Id": "34affd85-a45b-4ffb-8952-08dae8b13480",
+            "Name": "What is Software Requirement? Types of Requirements."
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://devsquad.com/blog/who-are-a-software-projects-stakeholders",
+            "EducationTime": 0,
+            "Id": "53a137e9-27a2-41fb-4593-08dbbf59defb",
+            "Name": "Who Are a Software Project's Stakeholders?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "c7b05b8e-4d8e-4810-b7ca-a02af4c31f95",
+        "Name": "Uses different requirement sources for solution implementation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Requirements analysis is a necessary process and involves techniques to deal with several problems with requirements in their “raw” form after they have been collected from the customers. Problems with raw requirements might be that they don’t always make sense, they often contradict one another and could not always be obvious, and they may be inconsistent, incomplete, vague, or just wrong. They may interact and are dependent on each other. Communication and collaboration with stakeholders are critical in the scope of the requirements processes. Stakeholders are those who are or might be interested in the system/functionality the developer will build and who will be affected by the system.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://refactoring.guru/design-patterns/behavioral-patterns",
+            "EducationTime": 0,
+            "Id": "23e086ca-14da-4c78-8954-08dae8b13480",
+            "Name": "Behavioral Design Patterns"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc",
+            "EducationTime": 0,
+            "Id": "71932c8f-261e-4b9d-4591-08dbbf59defb",
+            "Name": "Design Patterns in Object Oriented Programming"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.patterns.dev/posts/introduction/",
+            "EducationTime": 0,
+            "Id": "1adfd728-fec5-441b-8956-08dae8b13480",
+            "Name": "Introduction to Design Patterns"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "76dc0769-fda2-4417-b5a4-5e6adf90f5be",
+        "Name": "Distributes responsibility between structures using design patterns",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p>All applications are built on a low level using algorithms and data structures combined. Creating relations between data structures, and programming behaviors, and optimising responsibilities between application objects are common tasks for every developer. To optimise and standardise such everyday routine tasks, developers use design patterns. Design patterns are specific solutions to commonly occurring problems in software design. Behavioral patterns are concerned with algorithms and the assignment of responsibilities between objects.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc",
+            "EducationTime": 0,
+            "Id": "71932c8f-261e-4b9d-4591-08dbbf59defb",
+            "Name": "Design Patterns in Object Oriented Programming"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://refactoring.guru/design-patterns/structural-patterns",
+            "EducationTime": 0,
+            "Id": "d5a94e08-4149-4a2e-8958-08dae8b13480",
+            "Name": "Structural design patterns"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "c9c803ce-a05b-4c11-94e9-c685adb6cba9",
+        "Name": "Ensures efficient and flexible composition of structures with design patterns",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p>All applications are built on a low level using algorithms and data structures combined. Creating instances of data structures, filling data arrays, and creating deeply nested structures are common tasks for every developer. For such everyday routine tasks, developers use design patterns. Design patterns are typical solutions to commonly occurring problems in software design. Creational design patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.researchgate.net/publication/284732880_Analyzing_the_Impact_of_Requirement_Changing_on_Software_Design",
+            "EducationTime": 0,
+            "Id": "86b6b5a6-96d5-4b39-8964-08dae8b13480",
+            "Name": "Analyzing the Impact of Requirement Changing on Software Design"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/",
+            "EducationTime": 0,
+            "Id": "00d39006-a9d0-4d81-8962-08dae8b13480",
+            "Name": "Software Engineering | Coupling and Cohesion"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.altexsoft.com/blog/engineering/what-software-quality-really-is-and-the-metrics-you-can-use-to-measure-it/",
+            "EducationTime": 0,
+            "Id": "08865243-694c-4906-8960-08dae8b13480",
+            "Name": "What Software Quality (Really) Is and the Metrics You Can Use to Measure It"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "498fa503-af91-4fba-9675-917912fdc7af",
+        "Name": "Evaluates and modifies software design to ensure software quality",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Software design is not unchangeable, as everything else in software engineering could change and, in some cases, should change to satisfy different needs. The reason for changes, adjustments, or even rework could be different. For instance, changes in feature requirements, growth of the market and domain, changes in quality attributes priority, additional introduced constraints, and sometimes just the need to improve the design quality because of the previous mistakes with implementation. However, to properly facilitate changes to the software design, the current structure should be evaluated based on the new requirement and communicated with the involved stakeholders to provide adjustments that would be beneficial in the longer term.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.lucidchart.com/blog/how-to-create-software-design-documents",
+            "EducationTime": 0,
+            "Id": "82fcdcbc-c836-4aaa-895e-08dae8b13480",
+            "Name": "How to create software design documents"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/uml/index.htm",
+            "EducationTime": 0,
+            "Id": "477cd6d1-805c-4c74-895c-08dae8b13480",
+            "Name": "UML"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Video",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.youtube.com/watch?v=WnMQ8HlmeXc",
+            "EducationTime": 0,
+            "Id": "346a150f-ba78-486d-3933-08dbbf59defb",
+            "Name": "UML - youtube.com"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b5da6d02-8d8e-4b82-9a40-5d37bc997c57",
+        "Name": "Uses methodologies and technics to document design",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Application design is a complex task of representing different points of view in the scope of application documentation. In general, the application design documentation is concerned with gathering all requirements together and compiling different views on the application that will be needed during the active development, refactoring, and maintenance phases. The idea of such documentation is not to make comprehensive notes of every aspect but to write down important details that will be enough to make an application that will meet stakeholders' expectations.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.getsmarter.com/blog/career-advice/10-business-process-modelling-techniques/",
+            "EducationTime": 0,
+            "Id": "95d1a4b4-49c6-4277-8966-08dae8b13480",
+            "Name": "10 Business Process Modelling Techniques Explained, With Examples"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/uml/index.htm",
+            "EducationTime": 0,
+            "Id": "477cd6d1-805c-4c74-895c-08dae8b13480",
+            "Name": "UML"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2c885b9d-703c-47cf-aeb7-d00bd6721721",
+        "Name": "Uses modelling techniques for requirements analysis",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Documentation is an important part when it comes to the requirement, with it developer can visualize the requirement for the development process or the required clarification. One of the most popular approaches, mainly but not limited to the developers, is modeling techniques. At its core, the modeling technique is an abstract visualization of the requirement, main flows, and communication between the system elements that could be represented in both formal ways, such as UML, or an informal way, just using the box and lines approach.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.techmagic.co/blog/poc-vs-prototype-vs-mvp/",
+            "EducationTime": 0,
+            "Id": "aaf9de91-0531-4120-45a1-08dbbf59defb",
+            "Name": "PoC vs Prototype vs MVP: What's the difference? How to choose?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/omarelgabrys-blog/requirements-engineering-requirements-validation-part-6-29778d7bde24",
+            "EducationTime": 0,
+            "Id": "a0dcc55a-8de4-42a0-8968-08dae8b13480",
+            "Name": "Requirements Engineering — Requirements Validation (Part 4)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.collegenote.net/curriculum/software-engineering-csit/54/314/",
+            "EducationTime": 0,
+            "Id": "5b13718d-e834-4eaa-896a-08dae8b13480",
+            "Name": "Requirements Validation"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "965c769e-5178-46bf-ac7a-0ada3079698c",
+        "Name": "Validates requirements using various methodologies and technics",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Requirements validation is the process of checking that requirements define the system that the customer wants. It overlaps with elicitation and analysis, as it is concerned with finding problems with the requirements. Requirements validation is critically important because errors in a requirements document can lead to extensive rework costs when these problems are discovered during development or after the system is in service. The cost of fixing a requirements problem by making a system change is usually much higher than repairing design or coding errors. A shift in the requirements usually means that the system design and implementation must also be changed. Furthermore, the system must then be retested. Different types of checks should be carried out during the requirements validation process on the requirements in the requirements document. These checks include validity, consistency, completeness, realism, and verifiability.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "770a50db-36d5-4205-bc38-68d5383c0abf",
+        "Name": "Drives adoption of design standards and best practices within the team",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Consistency and quality in software development rely heavily on adopting design standards and best practices. This task focuses on introducing, promoting, and ensuring adherence to proven design patterns and methodologies across the team. By driving this adoption, the engineer helps reduce technical debt, improve code maintainability, and create a unified design approach that accelerates team efficiency. Effective implementation ensures the team aligns with organizational goals and delivers scalable, high-quality solutions.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "5ae1ab26-677f-4f49-8d2a-b7d22ec06b0f",
+        "Name": "Defines and documents design processes to improve team efficiency",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Well-defined design processes help streamline development efforts, minimize errors, and ensure consistent results across the team. This task involves identifying gaps, creating structured processes, and documenting step-by-step design workflows that team members can follow. Documented processes improve collaboration, enable knowledge sharing, and act as a reference for onboarding or handling complex design scenarios. Ultimately, this improves efficiency, reduces ambiguity, and ensures predictable design outcomes.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2acf8761-bce7-4122-9818-ce3fb2079756",
+        "Name": "Validates and refines system designs to meet performance and quality goals",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>System performance and quality are critical to delivering reliable software solutions. This task involves evaluating existing system designs to identify performance bottlenecks, scalability issues, or architectural weaknesses. Through validation and refinement, the engineer ensures that designs meet defined performance metrics, quality standards, and non-functional requirements like responsiveness, resource optimization, and maintainability. This process enables robust systems capable of handling current and future workloads efficiently.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "f6890edd-6908-4880-a549-bfef1c39c305",
+        "Name": "Optimizes system performance by refining design structures",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Performance optimization ensures that systems run efficiently under various workloads and conditions. This task focuses on analyzing system design structures to identify inefficiencies and applying techniques like modularization, caching strategies, and algorithm optimization. By refining these structures, the engineer improves system responsiveness, reduces resource consumption, and enhances scalability. This optimization ensures the system delivers consistent performance in both current usage scenarios and future growth.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a1f7ced5-81f1-498d-9738-27a6509b9a66",
+        "Name": "Integrates security-by-design principles into software architecture",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Security vulnerabilities often arise when security is treated as an afterthought. This task involves embedding security considerations directly into the software architecture from the initial design phase. The engineer ensures that security-by-design principles, such as data encryption, secure access controls, and threat mitigation strategies, are applied systematically. By proactively integrating security, the system becomes resilient against common vulnerabilities, reducing risks and ensuring compliance with security standards.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "870810e5-1624-4b84-98e8-2fd670d2dcc2",
+        "Name": "Validates system designs for compliance with quality attributes",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Ensuring that system designs meet critical quality attributes, such as reliability, maintainability, and scalability, is essential for long-term success. This task involves evaluating and validating designs against predefined quality goals to ensure they align with business and technical requirements. By analyzing system behavior, structure, and constraints, the engineer confirms compliance and identifies areas for improvement. This validation helps deliver systems that meet non-functional requirements while supporting business needs.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2bba4d38-b2e2-436b-bc87-a2f6b338c3cd",
+        "Name": "Evaluates and integrates design techniques to enhance system observability",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>System observability enables teams to monitor and understand system behavior in real-time, helping detect and resolve issues efficiently. This task focuses on evaluating existing design techniques and integrating observability practices, such as logging, metrics collection, and tracing, into system architecture. By enhancing observability, the engineer ensures the system provides actionable insights, facilitates root cause analysis, and improves overall system reliability and maintainability.</p>"
+      }
+    ]
+  }
+]

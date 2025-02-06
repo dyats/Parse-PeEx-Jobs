@@ -1,0 +1,489 @@
+[
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://draft.dev/learn/technical-writer-style-guides",
+            "EducationTime": 0,
+            "Id": "8485de38-4d6d-4067-89e8-08dae8b13480",
+            "Name": "10 Technical Writing Style Guides You Can Use"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://techdifferences.com/difference-between-product-and-process.html",
+            "EducationTime": 0,
+            "Id": "4ad3cf2a-0405-4383-89ea-08dae8b13480",
+            "Name": "Difference Between Product and Process"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://documentation.suse.com/en-us/style/current/single-html/docu_styleguide/",
+            "EducationTime": 0,
+            "Id": "a02021c7-a269-4d8d-89e4-08dae8b13480",
+            "Name": "SUSE Documentation Style Guide"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/#:~:text=The%20main%20difference%20between%20process,product%20that%20is%20being%20developed.",
+            "EducationTime": 0,
+            "Id": "86235b77-6fd4-4dc4-89ec-08dae8b13480",
+            "Name": "Technical Documentation in Software Development: Types, Best Practices, and Tools"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "9e307b57-d6e3-4940-9cf7-0c8d132d2f8d",
+        "Name": "Applies software process to improve product quality and ensure efficient workflow",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Any solution, feature, or task is developed not only based on requirement and design but also created within the specified sets of the different company’s or project’s processes to form the quality culture within the development team. For example, source code should follow project standards and best practices, it should not only satisfy community recommendations but should be based on internal catalogues of the best practices that could be different and even, in some cases, conflict with official recommendations, but usually have a higher priority than community recommendation. Also, another good example could be documentation, whether or not global for the company and project or local for a specific team or application, the format should cover all suggestions established in the company or by the project.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.uptech.team/blog/software-development-methodologies",
+            "EducationTime": 0,
+            "Id": "04e9b9ab-15d4-4e90-89ee-08dae8b13480",
+            "Name": "8 Best Software Development Methodologies"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://altitudeaccelerator.ca/agile-software-development-methodologies/",
+            "EducationTime": 0,
+            "Id": "02d10a9a-0b1d-4824-89f0-08dae8b13480",
+            "Name": "Agile Software Development Methodologies: Which to Choose?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/",
+            "EducationTime": 0,
+            "Id": "e26fb22f-6ba7-4d39-89f4-08dae8b13480",
+            "Name": "Best Collaboration Tools for 2022 – Survey Results"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://zigiwave.com/jira-versus-azure-devops/",
+            "EducationTime": 0,
+            "Id": "c1e2240c-d41e-45bd-89f2-08dae8b13480",
+            "Name": "Jira vs Azure DevOps – aligning teams, projects and systems"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "1c78d29b-af34-43ce-be3b-ff043fb3a736",
+        "Name": "Uses project management tools within selected software development methodologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The main issue with the management tool is that it usually is overlooked by not technical people and is often considered a part of instruments for project or business management strictly. However, it’s generally not true, and the management tools are as essential for the technical people and the development team as it is for business. Using the management tool and following the related process established on the project or inside a team could simplify communication between stakeholders in many ways. For instance, regarding the progress, clarifying expectations related to deadlines and requirements, communicating between different teams, providing historical data for the feature analysis, and so many more that could be used in the development.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.pmi.org/learning/library/improving-estimation-process-7505",
+            "EducationTime": 0,
+            "Id": "4323d511-076a-4efa-8a1e-08dae8b13480",
+            "Name": "Estimation is not an event, it's a process!"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.projecttimes.com/articles/improving-the-estimation-process/",
+            "EducationTime": 0,
+            "Id": "7d3cb201-4106-424d-8a1c-08dae8b13480",
+            "Name": "Improving The Estimation Process"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "4008e780-85e8-449f-b321-2ee1cb53f4c8",
+        "Name": "Adjusts an estimation process using the data gathered from the requirements elicitation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">As with any other process, estimation should be tracked, analyzed, revised, and improved when needed. The estimation process should always be as efficient and effective as possible and as the business requires. No processes could be established forever and never be modified. The application starts to scale, the team's member count increases, improvement of the team's technical level, and changes in the business goals or the project SDLC model are just a few reasons that could influence the decision to adjust the estimation process. Improvement of the estimation process should not be random or only based on community recommendations and best practices. But also, it must include the business requirement, different stakeholders' needs, opinions, and experience to ensure that modification of estimation would be genuinely beneficial for everyone and not only for a limited group.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.mindtools.com/pages/article/newTMC_07.htm",
+            "EducationTime": 0,
+            "Id": "26a74d00-33f7-4d33-8a0c-08dae8b13480",
+            "Name": "Risk Analysis and Risk Management"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.sciencedirect.com/topics/computer-science/security-risk-management",
+            "EducationTime": 0,
+            "Id": "f111b1ca-6c8c-4524-8a0a-08dae8b13480",
+            "Name": "Security Risk Management"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://searchcompliance.techtarget.com/definition/risk-management#:~:text=Risk%20management%20is%20the%20process,errors%2C%20accidents%20and%20natural%20disasters.",
+            "EducationTime": 0,
+            "Id": "f435106b-fabb-4043-8a08-08dae8b13480",
+            "Name": "What is risk management and why is it important?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a8ea58ce-2577-4567-acd0-bb2a522709a2",
+        "Name": "Contributes to a risk management process to detect and mitigate potential issues",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Risk influences everything in the development process, for example, risk affects the estimation process, requirement gathering, testing, release planning, and even business strategy itself. Risk management processes are developed and analyzed on every single level starting from business and ending up by the development team. Companies could analyze risks in the market, and some regulation risks, whereas the development team could be more local and understand the risk of the application in terms of the review process, testing process, or development planning. The development team and developers understand the potential technical issues and risks that could lead to possible high threats, for example, security issues because of the review process, quality drops regarding documentation or expectations, team composition risks, and others. This knowledge and experience could be shared to improve the risk analysis or the risk resolution process and create a complete picture for the business regarding all risks.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developers.google.com/style/",
+            "EducationTime": 0,
+            "Id": "111a9cce-d5f3-46cf-422f-08dbbf59defb",
+            "Name": "developer documentation style guide - google.com"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.masterclass.com/articles/how-to-create-a-style-guide#what-to-include-in-a-style-guide",
+            "EducationTime": 0,
+            "Id": "75b0e682-b8a1-40e9-8a06-08dae8b13480",
+            "Name": "How to Create a Style Guide: 5 Components of a Style Guide"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "da76a4f7-f7e9-49cb-b9da-e3bda0340aa7",
+        "Name": "Contributes to a standards selection process",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Company and project standards decide how to build the application, what community best practices and recommendations are not suitable for reaching the goals, how the formal and informal documentation looks, and how the review and quality process should be documented. The standard selection process is constant and not established just once. Application growth, technology evolution, and the specific issues uncovered are just a few examples that could force the business to invest in standard modification. The developers and development teams are knowledge keepers of the best practices and recommendations and usually have different experiences in various domains and technologies. Moreover, having previous experience with what would work and what wouldn’t are the core stakeholders when it comes to the company or project standard selection.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://adr.github.io/",
+            "EducationTime": 0,
+            "Id": "597a8ea6-0065-4eab-89f8-08dae8b13480",
+            "Name": "Architectural Decision Records"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.altexsoft.com/blog/software-requirements-specification/",
+            "EducationTime": 0,
+            "Id": "55e52e5b-590d-4a67-89f7-08dae8b13480",
+            "Name": "How to Write Software Requirements Specifications: Best Practices and SRS Tools"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.javatpoint.com/software-requirement-specifications",
+            "EducationTime": 0,
+            "Id": "0d307796-8ecd-4242-89f6-08dae8b13480",
+            "Name": "Software Requirement Specifications"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://relevant.software/blog/software-requirements-specification-srs-document/",
+            "EducationTime": 0,
+            "Id": "baaca466-f0c6-4e81-89f5-08dae8b13480",
+            "Name": "Your 2022 Guide to Writing a Software Requirements Specification (SRS) Document"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b3e641f0-f931-4cb8-b750-c350fc83f209",
+        "Name": "Creates and maintains documentation for software requirements specification",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">There are many ways and formats to describe requirements and write them into a specification document. A requirements document should conform to project or company standards and be understandable, consistent, and complete. Software requirements are often written in natural language, but in the software requirements specification, this may be supplemented by formal or semiformal descriptions, graphical notations, appropriate intuitive diagrams, and tables, mathematical specifications. The general rule is that notations should be used that allow the requirements to be described as precisely as possible, be clear, unambiguous, easy to understand, complete, and consistent.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.ibm.com/garage/method/practices/discover/paying-back-technical-debt/",
+            "EducationTime": 0,
+            "Id": "46eab830-6c51-4b51-89fe-08dae8b13480",
+            "Name": "Paying Back Technical Debt"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Book",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "",
+            "EducationTime": 0,
+            "Id": "7e58646a-4cdc-4c47-89fc-08dae8b13480",
+            "Name": "Sustainable Software Architecture: Analyze and Reduce Technical Debt by Carola Lilienthal"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://martinfowler.com/bliki/TechnicalDebt.html",
+            "EducationTime": 0,
+            "Id": "015dc28c-8ba6-4e71-8a00-08dae8b13480",
+            "Name": "Technical Debt"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "cb4d5a3a-fea2-449d-8182-7e874e2a9dcd",
+        "Name": "Establishes or refines a technical debt policy",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p>The policy of technical debt would decide a lot when developing new features or solutions for any application. Technical debt policy would determine what kind of risk the business is willing to take when developing a solution should the development team spend more time on investigation, reviews, and development, or should the development team deliberately ignore some risks, concerns, and bugs to deliver the solution as soon as possible. As a business usually doesn’t see all the risks and issues regarding the development process and, in some cases, mainly focuses on small short-term benefits, it is the job of the development team to provide the business with detailed and analyzed information on why the development team could not ignore some of the issues and concerns and offer suggestions that would benefit more in the long term.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.ibm.com/topics/what-is-requirements-management",
+            "EducationTime": 0,
+            "Id": "0d367f04-ad8a-47ee-89fa-08dae8b13480",
+            "Name": "How do requirements management work?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.batimes.com/articles/the-requirements-process/",
+            "EducationTime": 0,
+            "Id": "18e6ee9f-8b90-4cc9-89f9-08dae8b13480",
+            "Name": "The Requirements Process"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "02a4cc8a-b5aa-415f-83aa-9f6e099993e1",
+        "Name": "Establishes or refines requirements elicitation process",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Modifying or establishing a new process is not random; it is not enough to start adjusting the requirement process because of community recommendations or best practices. Every project could be distinct, with different domains, specifics, limitations, goals, and technical priorities. Without understanding all of the above, developers could not provide any helpful advice, even if the best practices state that changing something could bring benefit for an actual project and a specific application, it could be useless or even harmful. The process of adjusting requirements should be the set of actions, investigations, and analyses with the involvement of different stakeholders and a clear understanding of business goals and the application domain.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://blog.bit.ai/quality-management-plan/",
+            "EducationTime": 0,
+            "Id": "ae145829-9119-4101-8a1a-08dae8b13480",
+            "Name": "Quality Management Plan: What is it and How to Create it?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/#:~:text=The%20main%20difference%20between%20process,product%20that%20is%20being%20developed.",
+            "EducationTime": 0,
+            "Id": "86235b77-6fd4-4dc4-89ec-08dae8b13480",
+            "Name": "Technical Documentation in Software Development: Types, Best Practices, and Tools"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.interviewbit.com/blog/test-plan-vs-test-strategy/",
+            "EducationTime": 0,
+            "Id": "9e322ba0-9181-4566-8a16-08dae8b13480",
+            "Name": "Test Plan vs Test Strategy: What’s The Difference?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.stepsize.com/blog/the-engineers-complete-guide-to-code-quality",
+            "EducationTime": 0,
+            "Id": "5b0227c6-06aa-496e-8a12-08dae8b13480",
+            "Name": "The Engineer’s Complete Guide to Code Quality"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.softwaretestinghelp.com/software-testing-qa-checklists/",
+            "EducationTime": 0,
+            "Id": "85f26309-2b1d-4973-8a18-08dae8b13480",
+            "Name": "The QA Software Testing Checklists"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "e4700b39-cf57-4fc9-9db5-881c24a39a9a",
+        "Name": "Improves a quality management process by contributing to a quality documentation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Whether or not the application is big or small, whether or not the business is an enterprise or start-up, the quality is a concern for everyone. Bad quality of the deliverables or one of the business flow not only means trouble for the development team, but for the business as a whole, any big issue could cost a significant amount of money or the company’s reputation. Investing in the quality policy and related documentation, especially documentation that provides information about how to test, is crucial for any project and team desiring to succeed. Even though the process of creating such documentation would be driven by the quality or business team in some cases, it doesn’t suggest that development should not participate. In reality, the development team is one of the main stakeholders regarding the quality of the application and the features that would be delivered. They are essential knowledge keepers who can provide a better inside into the technical constraints and risks that could arise should the company decide to change or create a specific quality policy.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.launchdarkly.com/guides/best-practices/deployment-strategies",
+            "EducationTime": 0,
+            "Id": "3c343e9a-0f68-4a4c-8a0e-08dae8b13480",
+            "Name": "Deployment and release strategies"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://monday.com/blog/rnd/agile-release-planning/",
+            "EducationTime": 0,
+            "Id": "ed32127d-8be7-43e7-8a10-08dae8b13480",
+            "Name": "Everything you need to know about Agile release planning"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "81bec81b-ccc8-4e71-8a40-0bbff78eafd4",
+        "Name": "Improves application delivery by contributing to a release process",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Holding the source code on the local machine or somewhere in the repository does not bring any value, anything developed should be deployed and be available for the end users to access. The release process itself is no trivial matter and different from application to application, from the cloud solution to the cloud solution, and a lot of the various issues, limitations, and risks should be considered during this process. For instance, when working with the releases, the developer should understand that even if the source code and the feature work correctly locally, it's not guaranteed to behave correctly after the release. Or deployment could fail, both new instance and old crash, or there is no versioning strategy and, as a result, no chance to quickly restore to the previous version. The mentioned issues above are just a few things that could arise within the release process and they should be considered by the development team and brought up to the respective stakeholders.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "028082c9-ec26-4c21-8807-01fc41c07408",
+        "Name": "Leads continuous improvement initiatives for software delivery processes from the engnineering team perspective",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Continuous improvement in software delivery processes ensures that engineering teams deliver high-quality solutions efficiently and reliably. This involves identifying bottlenecks, inefficiencies, or challenges in current workflows and implementing changes that lead to measurable improvements in delivery speed, quality, and team collaboration. Examples include refining CI/CD pipelines, improving team communication practices, and adopting tools that enhance development and deployment workflows.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "27a045fe-e6e0-42c3-9375-a02f834e0565",
+        "Name": "Contributes to project management processes allignment with business goals within the team",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Aligning project management processes with business goals helps ensure that team efforts are directed toward achieving strategic objectives. This involves understanding business priorities and translating them into actionable engineering tasks, timelines, and deliverables. By doing so, the team can better meet stakeholder expectations, reduce resource waste, and ensure that technical solutions provide maximum value to the organization.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "c7af306d-2e77-4f06-ba5b-48bb87345ae1",
+        "Name": "Develops and implements Secure Development Life Cycle standards",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Secure Development Life Cycle (SDLC) standards integrate security considerations into all stages of software development. This ensures that vulnerabilities are identified and mitigated early, reducing risks to the system and users. Key activities include defining secure coding practices, integrating security checks into CI/CD pipelines, and establishing protocols for regular audits and updates to address emerging threats.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "56c11b5c-e47b-4c07-80a6-aa34f1f5622f",
+        "Name": "Validates technical solution is in compliance with security standards and certifications",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Compliance with security standards and certifications ensures that technical solutions meet industry and regulatory requirements. This involves implementing measures such as encryption, access controls, and vulnerability scanning to protect sensitive data and systems. Additionally, it includes auditing and validating solutions to maintain adherence to certifications such as ISO 27001, GDPR, or PCI DSS, ensuring trust and reliability for stakeholders.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "f36b588e-959a-4a8b-b869-39f1f570f05c",
+        "Name": "Contributes to the definition and alignment of cross-functional requirements with full traceability",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Defining and aligning cross-functional requirements ensures that all stakeholders have a shared understanding of the goals and constraints of a solution. Full traceability links requirements to business objectives, technical designs, and testing outcomes, ensuring consistency throughout the project lifecycle. This improves collaboration, minimizes misunderstandings, and ensures the final product meets both technical and business expectations.</p><p></p>"
+      }
+    ]
+  }
+]

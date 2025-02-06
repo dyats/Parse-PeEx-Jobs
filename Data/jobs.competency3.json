@@ -1,0 +1,1266 @@
+[
+  {
+    "JobLevelName": "Trainee Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/tools/",
+            "EducationTime": 0,
+            "Id": "4173987c-21e3-4442-8106-08dbe4480a0a",
+            "Name": ".NET CLI overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/tools/global-tools-how-to-create",
+            "EducationTime": 0,
+            "Id": "beb8580f-68ce-4d87-8108-08dbe4480a0a",
+            "Name": "Tutorial: Create a .NET tool using the .NET CLI"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "75227c37-b746-4b82-aab4-277bcd08c4bb",
+        "Name": "Manages applications with framework command-line interfaces",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>CLI stands for the command-line interface. It is a program that allows users to type text commands instructing the computer to do specific tasks. Modern frameworks and libraries have CLI tools, which would enable managing applications in the fastest, most straightforward, and based on community best practices and recommendations.</p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses basic 'dotnet' commands to build, publish, test, migrate, run application.</li><li>Uses project modification 'dotnet' commands to add/remove references.</li><li>Uses nuget commands to work with packages.</li><li>Uses workload management commands to search, install, update, uninstall workloads.</li><li>Uses tool management commands to install, update, run specified .net tools.</li><li>Uses advanced commands to work with servers, certificates, msbuild projects.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>How to write a custom dotnet cli tool?</li><li>Understanding various commands arguments.</li><li>Where and how&nbsp;'dotnet' can&nbsp;commands be run.</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/error-handling?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "ace0afa2-8d09-469d-810a-08dbe4480a0a",
+            "Name": "Handle errors in ASP.NET Core"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "65154408-8a28-4a55-a23f-3455c55f22a7",
+        "Name": "Handles exceptions using framework capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>Defensive programming techniques are a crucial part of any application and error handling is one of the most important techniques. Errors occur in various situations and frameworks provide instruments to handle them in an appropriate application way to achieve better availability of the entire system.</p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses the Developer Exception page and its ordering in a middleware pipelines</li><li>Uses&nbsp;UseExceptionHandler middleware via lambda as an alternative to the exception page</li><li>Uses&nbsp;UseStatusCodePages middleware to overwrite HTTP status codes and response</li><li>Uses ExceptionFilters and its configuration level</li><li>Handles errors with Custom Middleware</li></ul><p><br></p><p><strong> Knowledge</strong></p><p><br></p><ul><li>What is stack trace?</li><li>When and how to use UseStatusCodesPages?</li><li>What is the difference between ExceptionFilter and Custom middleware in terms of handling exceptions? Which types of exceptions can be caught by each of them?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.twilio.com/blog/introduction-asp-net-core-razor-pages",
+            "EducationTime": 0,
+            "Id": "89af85cd-adec-4df1-8114-08dbe4480a0a",
+            "Name": "Getting Started with ASP.NET Core Razor Pages"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-7.0&tabs=visual-studio",
+            "EducationTime": 0,
+            "Id": "a9cad9cc-015e-49e1-810c-08dbe4480a0a",
+            "Name": "Introduction to Razor Pages"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "df563527-b6d1-4dfb-8110-08dbe4480a0a",
+            "Name": "Layout"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "5a91aed2-0ca4-43eb-8112-08dbe4480a0a",
+            "Name": "Partial views"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "1184fdc0-7082-4de9-810e-08dbe4480a0a",
+            "Name": "Razor syntax reference"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "933fa1ab-60ed-40c3-88f2-e73625cd50db",
+        "Name": "Optimises a development of an application using template engines",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Description</strong></p><p><br></p><p>Template engines are tools that allow to separate the presentation logic from the application logic in web applications. They provide a way to generate dynamic web pages by combining pre-designed templates with data and logic from the application. .NET has built-in Razor template engine that replaced old ASPX syntax.</p><p><br></p><p><strong>Skills</strong></p><ul><li>Creates pages using Razor syntax.</li><li>Binds data using Model binding, ViewBag or ViewData.</li><li>Uses Partial Views and Layouts to create reusable components.</li><li>Creates or uses existing HTML helpers.</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>Difference between Razor Pages and MVC.</li><li>How to enable Razor Pages.</li><li>Difference between views and layouts.</li><li>Ways to bind data to a page/view.</li><li>Purpose of HTML helpers.</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.dotnettricks.com/learn/aspnetcore/routing",
+            "EducationTime": 0,
+            "Id": "45c98ac4-6520-4dd6-8116-08dbe4480a0a",
+            "Name": "ASP.NET Core Routing"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/routing?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "8195193b-cb16-432a-8115-08dbe4480a0a",
+            "Name": "Routing in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/routing?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "a6546055-90df-45dc-8117-08dbe4480a0a",
+            "Name": "Routing to controller actions in ASP.NET Core"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "0e17669b-c908-4a0e-aa09-c5350e62d7dd",
+        "Name": "Uses framework capabilities to build basic navigation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>The interactions that let users move between, inside, and outside of the various pieces of content in your application and system are referred to as navigation. Maintaining and extending navigation principles on large-scale and complex software is tough when related logic is spread across multiple UI classes, modules, and components. That's why frameworks across different platforms and SDKs provide isolated, clear, and uniform ways of implementing navigation. They help application engineers to extract, implement, maintain, and extend navigation principles in a single, uniform way.</p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses&nbsp;conventional routes.</li><li>Uses&nbsp;attribute routes.</li><li>Specifies route optional parameters, default values, and constraints.</li><li>Resolves ambiguous actions.</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What are route constraints?</li><li>Understanding&nbsp;route templates.</li><li>Understanding route template precedence and endpoint selection order.</li></ul>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-7.0&tabs=visual-studio",
+            "EducationTime": 0,
+            "Id": "62574b27-1d20-46af-811a-08dbe4480a0a",
+            "Name": "Enforce HTTPS in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "1cf7ecbc-f8b8-4e4f-8119-08dbe4480a0a",
+            "Name": "Introduction to authorization in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "f67e3c1b-89be-4923-8118-08dbe4480a0a",
+            "Name": "Overview of ASP.NET Core authentication"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "12a71946-96e1-40a0-9626-1b360c002590",
+        "Name": "Applies framework security practices",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>Security is aimed to protect parts of an application from unauthorized access. The objects for protection might be routes, controllers, services, templates, sessions, resources on any kind and others.</p><p>Typically applications use the concept of User object that permissions and restrictions apply to. Along with that there is User Provider defined whose purpose is to provide setting and retrieving user data from persistent storage. login, API, certificate,&nbsp;login attempts, CSRF</p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses framework authorization mechanisms - middleware, filters, attributes.</li><li>Uses recommended ways to access database.</li><li>Safely stores secrets</li><li>Uses recommended libraries for encryption</li><li>Validates and sanitizes user input</li><li>Uses escaping and encoding of user input</li><li>Uses logging best practices to avoid exposing sensitive data in logs</li><li>Avoids exposing exception details in production&nbsp;environment</li><li>Enforces HTTPS in production</li><li>Uses CORS configuration on prod environments</li><li>Uses anti-forgery tokens</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What is Authentication?</li><li>What is the difference between cookie-based authentication and token-based authentication?</li><li>What are same-site cookies?</li><li>What is Password Authentication?</li><li>What is&nbsp;Windows Authentication?</li><li>What is&nbsp;OAuth&nbsp;Authentication?</li><li>What&nbsp;is&nbsp;Certificate&nbsp;Authentication?</li><li>What is multi-factor Authentication?&nbsp;</li><li>What is Authorization?</li><li>What is Role-based Authorization?</li><li>What is Claims-based Authorization?</li><li>What is Resource-based Authorization?</li><li>What is View-based Authorization?</li><li>What is Role-based Authorization?</li><li>What is XSS attack?</li><li>What is SQL injection?</li><li>What is XSRF attack?</li><li>Ways to store secrets in ASP.NET Core?</li><li>What are best practices for logging sensitive data?</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.debugger?view=net-7.0",
+            "EducationTime": 0,
+            "Id": "79201f40-9603-4476-8198-08dbe4480a0a",
+            "Name": "Debugger class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/visualstudio/debugger/write-better-code-with-visual-studio?view=vs-2019",
+            "EducationTime": 0,
+            "Id": "9319c8b0-b257-4ae4-4f2e-08d7f177ea83",
+            "Name": "Debugging techniques and tools"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/error-handling?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "ace0afa2-8d09-469d-810a-08dbe4480a0a",
+            "Name": "Handle errors in ASP.NET Core"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "3bb50d7b-f7f8-463a-af4b-a92252978ff7",
+        "Name": "Debugs applications using advanced framework debugging tools",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>Debugging is a methodical process of finding and reducing the number of bugs or faults in a program. The purpose of debugging is to find out why a program doesn’t work or produces a wrong result or output. Except for elementary programs, debugging is always necessary. Debugging involves many activities and can be static, dynamic, or postmortem. All three techniques are used at various stages of program development</p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses&nbsp;System.diagnostics.debugger to communicate with a debugger</li><li>Uses AddProblemDetails extension to report errors for Web API calls</li><li>Uses UseDeveloperExceptionPage to display details about unhandled exceptions</li><li>Uses&nbsp;AddDatabaseDeveloperPageExceptionFilter to&nbsp;capture database-related exceptions (Entity Framework)</li><li>Uses&nbsp;CaptureStartupErrors to capture errors on startup</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What are the main debugging techniques?</li><li>What are the benefits of using System.Diagnostics.Debugger</li><li>What are common approaches to expose errors details</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.c-sharpcorner.com/article/asp-net-core-middleware/",
+            "EducationTime": 0,
+            "Id": "ecba8a8d-3b2d-472c-819c-08dbe4480a0a",
+            "Name": "ASP.NET Core - Middleware"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.c-sharpcorner.com/article/asp-net-core-middleware/",
+            "EducationTime": 0,
+            "Id": "0862676f-110f-4410-819e-08dbe4480a0a",
+            "Name": "ASP.NET Core - Middleware2"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "98f05aa1-659f-4110-819a-08dbe4480a0a",
+            "Name": "ASP.NET Core Middleware"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.ibm.com/topics/middleware",
+            "EducationTime": 0,
+            "Id": "f08b8b31-72f2-4226-81a0-08dbe4480a0a",
+            "Name": "What is middleware?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "93526797-ac70-473a-a290-8c70f362a277",
+        "Name": "Extends basic server capabilities with middleware",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>Middleware is software that enables one or more kinds of communication or connectivity between applications or application components in a distributed network. By making it easier to connect applications that weren't designed to connect with one another, and providing functionality to connect them in intelligent ways, middleware streamlines application development and speeds time to market. ASP.NET Core introduced a new concept called Middleware. A middleware is nothing but a component (class) which is executed on every request in ASP.NET Core application. Middleware is a core functionality of&nbsp;<a href=\"http://asp.net/\" rel=\"noopener noreferrer\" target=\"_blank\">Asp.net</a>&nbsp;Core. In the classic ASP.NET, HttpHandlers and HttpModules were part of the request pipeline. Middleware is similar to HttpHandlers and HttpModules where both needs to be configured and executed in each request.</p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses in-line-style middleware</li><li>Uses factory-style middleware</li><li>Uses convention-style middleware</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What is middleware</li><li>What's a terminal middleware? Provide examples of the out-of-the-box terminal and non-terminal middleware (Asp.net&nbsp;core)</li><li>What is a Web API filter</li><li>Understanding the difference between Middleware and Filter</li><li>What is ObjectPoool and how it benefits the application</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "48959cb4-940b-48e7-81a2-08dbe4480a0a",
+            "Name": "Globalization and localization in ASP.NET Core"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "babbc84f-883e-4f2b-be37-e918877c7c58",
+        "Name": "Handles internationalisation with framework capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>Typically, the software runs on many devices in many regions. Software should handle text, audio files, numbers, currency, and graphics in ways appropriate to the locales where it is used to reach the most users. There are many localization caveats to face, such as bidirectional script support (RTL and LTR), encoding, regions, date, time &amp; currency formats, decimal formats, measurement units, and telephone number formats. Various frameworks provide features to simplify &amp; cover these tasks.</p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses IStringLocalizer and IHtmlLocalizer to make the app's content localizable.</li><li>Uses&nbsp;IViewLocalizer to localize Views.</li><li>Sets up SupportedCultures and SupportedUICultures.</li><li>Works with .resx files.</li><li>Implements a strategy to select the language/culture for each request.</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>Understanding globalization and localization terms.</li><li>Understanding resource file naming.</li><li>How to set the culture programmatically?</li><li>What is a&nbsp;satellite assembly?</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "98f05aa1-659f-4110-819a-08dbe4480a0a",
+            "Name": "ASP.NET Core Middleware"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.linkedin.com/pulse/aspnet-core-mvc-common-base-controller-fabio-mariano/",
+            "EducationTime": 0,
+            "Id": "69b53abf-03ed-47ce-81aa-08dbe4480a0a",
+            "Name": "Common base controller"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://en.wikipedia.org/wiki/Cross-cutting_concern",
+            "EducationTime": 0,
+            "Id": "10db0131-7098-4044-81a8-08dbe4480a0a",
+            "Name": "Cross-cutting concern"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "87fb783d-8ce0-45e9-81a6-08dbe4480a0a",
+            "Name": "Dependency injection in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "48b84e6e-4cfd-4445-81a4-08dbe4480a0a",
+            "Name": "Filters in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/advanced/app-parts?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "9c423d51-37bb-46c0-81ac-08dbe4480a0a",
+            "Name": "Share controllers, views, Razor Pages and more with Application Parts"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "0816537f-40bf-46b3-ada0-960ffe6c19a5",
+        "Name": "Reuses code using framework capability",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>While working on a significant feature or with the expansion of an application and due to the growth of the source code and component's library, the development team could face many new issues and challenges. One of such significant concerns is addressing code reusability, reducing the amount of duplication in the code, and decreasing maintainability costs.</p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses service provider</li><li>Applies cross-cuttings concerns</li><li>Uses a common base controller to share a logic</li><li>Uses middleware to share an application logic</li><li>Uses filters to share an application logic</li><li>Uses Application Parts to share controllers between multiple apps</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What is a service provider</li><li>Understanding&nbsp;cross-cuttings concerns</li><li>What is an Application Part and what problem does it solve</li><li>Understanding middleware/filters</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://dotnettutorials.net/lesson/lazy-loading-in-entity-framework/",
+            "EducationTime": 0,
+            "Id": "ba593f31-496f-4c81-81b2-08dbe4480a0a",
+            "Name": ".Net Lazy Loading"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nhibernate.info/doc/nhibernate-reference/architecture.html",
+            "EducationTime": 0,
+            "Id": "3f2c6087-1f65-46ea-81b6-08dbe4480a0a",
+            "Name": "Architecture"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://dotnettutorials.net/lesson/dbcontext-in-entity-framework/",
+            "EducationTime": 0,
+            "Id": "ca72841b-afda-4008-81b0-08dbe4480a0a",
+            "Name": "DbContext Class"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.learndapper.com/non-query",
+            "EducationTime": 0,
+            "Id": "9a63aac2-33d5-407d-81bc-08dbe4480a0a",
+            "Name": "Executing Non-Query Commands"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nhibernate.info/doc/howto/various/lazy-loading-eager-loading.html",
+            "EducationTime": 0,
+            "Id": "fcd92ca8-259a-44ab-81b8-08dbe4480a0a",
+            "Name": "Lazy loading - eager loading"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nhibernate.info/doc/nhibernate-reference/querylinq.html",
+            "EducationTime": 0,
+            "Id": "074cb750-b8a6-4e59-81b4-08dbe4480a0a",
+            "Name": "Linq Queries"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/ef/core/querying/",
+            "EducationTime": 0,
+            "Id": "cc32fc79-3213-4a01-81ae-08dbe4480a0a",
+            "Name": "Querying Data"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.learndapper.com/dapper-query",
+            "EducationTime": 0,
+            "Id": "91cf7aaf-8c4d-43d4-81ba-08dbe4480a0a",
+            "Name": "Querying Data With Dapper"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/",
+            "EducationTime": 0,
+            "Id": "8ca4de3b-8d63-4a9e-3ceb-08dbbf59defb",
+            "Name": "SQL Tutorial - w3schools.com"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "c3a683d1-7f45-4367-a4e5-e3d4c128d283",
+        "Name": "Uses engines for database interaction",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>Persistent data storage is an important part of real-world applications, and Database Management Systems (DBMS) play a crucial role in storing and retrieving data. A database engine (DB engine) is the software that powers a database management system (DBMS) and is responsible for managing the storage and retrieval of data from a database. Work with DBMS can be organized with different levels of abstraction, from direct connection and manipulating data using raw query language and abstractions to programming language structures like ORM.</p><p><br></p><p><strong>Skills</strong></p><p><br></p><p>Entity Framework Core</p><ul><li>Uses LINQ to query data from the database.</li><li>Uses&nbsp;<span style=\"color: rgb(0, 0, 0);\">DbContext&nbsp;to interact with database and perform CRUD operations.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses lazy loading to load related entities on demand.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses DbSet.SqlQuery() method to write raw SQL queries when it's required.</span></li></ul><p><br></p><p>NHibernate</p><ul><li>Uses LINQ to query data from the database.</li><li>Uses&nbsp;<span style=\"color: rgb(33, 33, 33);\">Session objects&nbsp;</span><span style=\"color: rgb(0, 0, 0);\">to interact with database and perform CRUD operations</span><span style=\"color: rgb(33, 33, 33);\">.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses lazy loading to load related entities on demand.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses&nbsp;ISession.CreateSQLQuery()&nbsp;method to write raw SQL queries when it's required.</span></li></ul><p><br></p><p>Dapper</p><ul><li>Uses querying methods (Query, Query&lt;T&gt;, etc) to map the data into a&nbsp;<span style=\"color: rgb(51, 51, 51);\">strongly typed object.</span></li><li><span style=\"color: rgb(51, 51, 51);\">Executes Non-Query commands to perform Insert/Update/Delete.</span></li><li><span style=\"color: rgb(51, 51, 51);\">Writes raw&nbsp;</span><span style=\"color: rgb(0, 0, 0);\">SQL queries</span></li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><p>Entity Framework Core</p><ul><li><span style=\"color: rgb(0, 0, 0);\">What is the database setup and configuration process</span></li><li><span style=\"color: rgb(0, 0, 0);\">Lazy loading pitfalls</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding Entity lifecycle</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding code/model/database first approaches.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding tables relationships in database.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Pros and cons of using Cache</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding SQL</span></li></ul><p><br></p><p>NHibernate</p><ul><li><span style=\"color: rgb(0, 0, 0);\">What is the database setup and configuration process</span></li><li><span style=\"color: rgb(0, 0, 0);\">Lazy loading pitfalls</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding Entity lifecycle</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding tables relationships in database.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Pros and cons of using Cache</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding SQL</span></li></ul><p><br></p><p>Dapper</p><ul><li><span style=\"color: rgb(0, 0, 0);\">What is the database setup and configuration process</span></li><li><span style=\"color: rgb(0, 0, 0);\">What are the different ways that Dapper supports for mapping stored procedures or functions to an entity.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding tables relationships in database.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding SQL</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.stevejgordon.co.uk/how-is-the-asp-net-core-middleware-pipeline-built",
+            "EducationTime": 0,
+            "Id": "ee5ee0fc-d4a7-471d-81be-08dbe4480a0a",
+            "Name": "How is the ASP.NET Core middleware pipeline built?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/routing?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "8195193b-cb16-432a-8115-08dbe4480a0a",
+            "Name": "Routing in ASP.NET Core"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b0977bc7-21d9-43db-bba7-02ab6fed5cd8",
+        "Name": "Uses framework capabilities to build advanced navigation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(22, 22, 22);\">Routing is responsible for matching incoming HTTP requests and dispatching those requests to the app's executable endpoints.&nbsp;</span><span style=\"color: rgb(23, 43, 77);\">Endpoints</span><span style=\"color: rgb(22, 22, 22);\">&nbsp;are the app's units of executable request-handling code. Endpoints are defined in the app and configured when the app starts. The endpoint-matching process can extract values from the request's URL and provide those values for request processing. Using endpoint information from the app, routing is also able to generate URLs that map to endpoints.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses route matching middleware</li><li><span style=\"color: rgb(0, 0, 0);\">Uses endpoints to run a delegate associated with it</span></li><li><span style=\"color: rgb(0, 0, 0);\">Specifies route matching middleware to be executed after custom middleware</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses route templates</span></li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What are route templates?</li><li>What is endpoint metadata?</li><li><code>UseRouting</code><span style=\"color: rgb(22, 22, 22);\">&nbsp;and&nbsp;</span><code style=\"color: rgb(22, 22, 22);\">UseEndpoints</code><span style=\"color: rgb(22, 22, 22);\">&nbsp;middleware</span></li><li><span style=\"color: rgb(22, 22, 22);\">Request handling pipeline and request delegate</span></li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/troubleshoot/developer/webapps/iis/www-administration-management/http-status-code",
+            "EducationTime": 0,
+            "Id": "02189a84-a7a2-4a9e-81c4-08dbe4480a0a",
+            "Name": ".Net - HTTP status codes"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/request-response?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "d3ad489f-661e-46ae-81c0-08dbe4480a0a",
+            "Name": "Request and response operations in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/request-features?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "096aa9d5-4b44-4456-81c6-08dbe4480a0a",
+            "Name": "Request Features in ASP.Net Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "5a47dc85-40dc-4e8c-81c2-08dbe4480a0a",
+            "Name": "Write custom ASP.Net Core middleware"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "70ba5150-78fc-4a68-b58e-8a3e0a75abac",
+        "Name": "Uses framework HTTP clients for API communication",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(22, 22, 22);\">The request-handling pipeline is composed of a series of middleware components. Each component performs operations on an&nbsp;</span><span style=\"color: rgb(23, 43, 77);\">HttpContext</span><span style=\"color: rgb(22, 22, 22);\">&nbsp;and either invokes the next middleware in the pipeline or terminates the request. Each separate middleware allows accessing and handling different request metadata (headers, cookies, route parameters, headers, request body).&nbsp;</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses HttpRequestHeaders to add, remove or modify headers for the HTTP request</li><li>Uses AddXmlSerializerFormatters to format response in XML format</li><li>Uses RespectBrowserAcceptHeader property to instantiate content negotiation process</li><li>Creates custom formatters for a type that is not “in the box” (JSON, XML).</li><li>Uses consume and produce filters to control request/response format type</li><li>Works with files content in HTTP Request</li><li>Creates&nbsp;custom middleware to handle request metadata</li><li>Works with HttpContext and Request Features</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>Uses Middleware to handle requests and responses</li><li>Common HTTP request headers and their meaning</li><li>Classification of HTTP response status codes and their indication</li><li>Accessing HTTP Context in Custom Components</li><li>What are the common Request-Features interfaces?</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/validation?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "4fe66aac-3dbc-485e-81cc-08dbe4480a0a",
+            "Name": "Add validation to an ASP.NET Core MVC app"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "6a1572f2-1040-45ae-81c8-08dbe4480a0a",
+            "Name": "Custom Model Binding in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/previous-versions/aspnet/cc668224(v=vs.100)",
+            "EducationTime": 0,
+            "Id": "11fab81d-233c-441d-81dc-08dbe4480a0a",
+            "Name": "Customize Data Field Validation in the Data Model Using Custom Attributes"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf",
+            "EducationTime": 0,
+            "Id": "1d26667b-cb77-418f-81de-08dbe4480a0a",
+            "Name": "Methodology for data validation 1.0"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-2.1",
+            "EducationTime": 0,
+            "Id": "c920198f-7027-4464-4dfc-08d7f177ea83",
+            "Name": "Model Binding in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "9c97de25-f802-4047-81ca-08dbe4480a0a",
+            "Name": "Model validation in ASP.NET Core MVC and Razor Pages"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/views/working-with-forms?view=aspnetcore-7.0#the-validation-summary-tag-helper",
+            "EducationTime": 0,
+            "Id": "67e3d6f1-40c7-46a6-81d0-08dbe4480a0a",
+            "Name": "Tag Helpers in forms in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/views/working-with-forms?view=aspnetcore-7.0#the-validation-message-tag-helper",
+            "EducationTime": 0,
+            "Id": "c8d621bc-96a7-4314-81d2-08dbe4480a0a",
+            "Name": "The Validation Message Tag Helper"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/visualstudio/data-tools/validate-data-in-datasets?view=vs-2022&tabs=csharp",
+            "EducationTime": 0,
+            "Id": "fe31f6a4-ea8c-48ba-81d6-08dbe4480a0a",
+            "Name": "Validate data in datasets"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.c-sharpcorner.com/UploadFile/puranindia/validation-controls-in-Asp-Net/",
+            "EducationTime": 0,
+            "Id": "76ca4061-a174-4821-81d4-08dbe4480a0a",
+            "Name": "Validation Controls In ASP.NET"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/validation?view=aspnetcore-7.0&tabs=visual-studio",
+            "EducationTime": 0,
+            "Id": "f8609e8f-3640-4d70-81ce-08dbe4480a0a",
+            "Name": "Validation tutorial series on Razor Pages"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.precisely.com/blog/data-quality/data-validation-vs-data-verification",
+            "EducationTime": 0,
+            "Id": "956de8f6-7d18-4181-81da-08dbe4480a0a",
+            "Name": "Validation vs. Verification: What’s the Difference?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.safe.com/what-is/data-validation/",
+            "EducationTime": 0,
+            "Id": "3e289e2d-1542-4517-81d8-08dbe4480a0a",
+            "Name": "What is Data Validation?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ac1ec249-d1ed-452b-80b8-6909a70bec48",
+        "Name": "Validates data with framework",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>In an application or system, data validation is meant to offer specific, well-defined guarantees for the fitness and consistency of the data. Different approaches may be used to establish and design data validation rules, which can then be implemented in different contexts. It uses routines, often called \"validation rules\" and \"validation constraints.\" The automatic capabilities of a data dictionary or the explicit application program validation logic of the computer and its application may be used to apply the rules.</p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses&nbsp;Model Binding to convert and validate data.</li><li>Uses ModelStateDictionary to access payload.</li><li>Uses built-in data annotation attributes for validation.&nbsp;</li><li>Creates custom validation logic via custom attributes or IValidatableObject &amp;&nbsp;IClientModelValidator&nbsp;interfaces.</li><li>Uses validation tag helpers.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What's data validation?&nbsp;Why validate?</li><li>Where can we use validation?</li><li>What is&nbsp;ModelState?</li><li>How can we build validation rules?</li><li>What does&nbsp;Model Binding mean?</li><li>How to build custom validation logic?</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://neosmart.net/blog/2019/sqlite-cache-for-asp-net-core/",
+            "EducationTime": 0,
+            "Id": "bc17d25a-9186-451b-81ea-08dbe4480a0a",
+            "Name": "A persistent cache for ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "def65acb-bda0-4989-81e2-08dbe4480a0a",
+            "Name": "Cache in-memory in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "3abe7b43-e692-4c88-81e4-08dbe4480a0a",
+            "Name": "Distributed caching in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://redis.io/docs/about/",
+            "EducationTime": 0,
+            "Id": "f77e7548-eefc-408c-81e6-08dbe4480a0a",
+            "Name": "Introduction to Redis"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.alachisoft.com/ncache/dot-net-support.html",
+            "EducationTime": 0,
+            "Id": "8d9e737e-62bb-465a-81e8-08dbe4480a0a",
+            "Name": "NCache - 100% .NET"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/performance/caching/overview?view=aspnetcore-7.0#output-caching",
+            "EducationTime": 0,
+            "Id": "eb3da18d-84a6-4e20-81ec-08dbe4480a0a",
+            "Name": "Output caching"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/performance/caching/overview?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "aa56822e-7e47-4cec-81e0-08dbe4480a0a",
+            "Name": "Overview of caching in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "5d08fd0d-d8ed-4c0f-81ee-08dbe4480a0a",
+            "Name": "Response caching"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "1b4c45de-73af-415d-8597-dbb9e2eb61b8",
+        "Name": "Applies caching techniques to increase the performance of data retrieving",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Real-world applications face many challenges, one of which is performance. In this context, caching techniques can help solve many challenges from various perspectives.&nbsp;</span><span style=\"color: rgb(55, 65, 81);\">Caching is a technique used to increase the performance of data retrieval by storing frequently accessed data in a temporary storage location, known as a cache. When a data request is made, the cache is checked first to see if the requested data is already stored there.&nbsp;Using caching can greatly improve the performance of data retrieval and overall website performance.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses Caching Middleware.</li><li><span style=\"color: rgb(0, 0, 0);\">Uses&nbsp;In-Memory cache.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses Distributed cache.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses&nbsp;Persistent in-process cache (db, file).</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses Output caching.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses Response caching.</span></li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>How and when to use cache.</li><li>What is the caching middleware, and when to use it.</li><li>How and when to apply different caching techniques.</li><li>What are common cache&nbsp;issues?</li><li>Understanding cache penetration, invalidation, avalanche&nbsp;causes and solutions.</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/performance/overview?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "01140cca-22a8-40e1-81f2-08dbe4480a0a",
+            "Name": "ASP.Net Core performance"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "f3a04261-3b3a-4c53-81f4-08dbe4480a0a",
+            "Name": "Memory and GC"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/request-response?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "d3ad489f-661e-46ae-81c0-08dbe4480a0a",
+            "Name": "Request and response operations in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/extensions/channels",
+            "EducationTime": 0,
+            "Id": "2055e769-73bf-4ba8-81f0-08dbe4480a0a",
+            "Name": "System.Threading.Channels library"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "5dd08c0e-b77d-434d-a41f-69b411d2e7ce",
+        "Name": "Applies performance optimisation techniques using framework capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(22, 22, 22);\">ASP.NET Core apps should be designed to process many requests simultaneously. Asynchronous APIs allow a small pool of threads to handle thousands of concurrent requests by not waiting on blocking calls. Rather than waiting on a long-running synchronous task to complete, the thread can work on another request.</span></p><p><span style=\"color: rgb(22, 22, 22);\">A common performance problem in ASP.NET Core apps is blocking calls that could be asynchronous. Many synchronous blocking calls lead to&nbsp;</span>Thread Pool starvation (no available threads to process a request)<span style=\"color: rgb(22, 22, 22);\">&nbsp;and degraded response times.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses Channels to communicate with background workers (for specific tasks)</li><li>Works with compression of requests/responses</li><li>Uses&nbsp;<span style=\"color: rgb(22, 22, 22);\">Rate Limiter</span>&nbsp;middleware (Limit requests per time, token bucket, concurrency)</li><li><span style=\"color: rgb(0, 0, 0);\">Uses&nbsp;caching&nbsp;to minimize bandwidth usage and improve response time</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses ObjectPool to reuse objects in memory</span></li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What is a Channel? When channel should be used?</li><li>What are the typical channel patterns?</li><li>When and how to apply different caching approaches?</li><li>Application scaling&nbsp;<span style=\"color: rgb(68, 68, 68);\">techniques.</span></li><li>Understanding memory management and garbage collection techniques.</li><li>Common diagnostic tools and their usage.</li><li>What is the difference between performance and load testing?</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/content-negotiation",
+            "EducationTime": 0,
+            "Id": "687e1ff8-4bee-4b05-81f6-08dbe4480a0a",
+            "Name": "Content Negotiation in ASP.NET Web API"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/web-api/advanced/custom-formatters?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "a4148fcb-c5cc-453c-81f8-08dbe4480a0a",
+            "Name": "Custom formatters in ASP.NET Core Web API"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "6a1572f2-1040-45ae-81c8-08dbe4480a0a",
+            "Name": "Custom Model Binding in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "48b84e6e-4cfd-4445-81a4-08dbe4480a0a",
+            "Name": "Filters in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-2.1",
+            "EducationTime": 0,
+            "Id": "c920198f-7027-4464-4dfc-08d7f177ea83",
+            "Name": "Model Binding in ASP.NET Core"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "5ab7f072-46c5-43ae-8c5b-0ee7527e2168",
+        "Name": "Extends application functionality using framework capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">The .NET Framework offers various capabilities that can be leveraged to extend the functionality of applications. Filters enable you to inject logic at different stages of request processing, response modification techniques allow you to customize the output sent back to clients, and model binding simplifies the handling of HTTP request data.&nbsp;The combination of these capabilities enables the creation of highly customizable applications tailored to clients' specific needs, without resorting to code hacks or workarounds that can lead to code complexity and maintenance issues.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Writes custom filters to achieve specific needs</li><li>Modifies&nbsp;request/response directly to achieve specific goals</li><li>Customizes model binding&nbsp;behavior</li><li>Uses&nbsp;custom formatters to extend content types support</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What is Authorization filter?</li><li>What is Resource filter?</li><li>What is Action filter?</li><li>What is endpoint filter?</li><li>What is exception filter?</li><li>What is result filter?</li><li>What is model state?</li><li>What is model binding?</li><li>How to restrict sources of model binding?</li><li>How to bind complex objects using conventions?</li><li>How to implement own custom model binder?</li><li>What is content type?</li><li>How content negotiation is performed between client and server?</li><li>How to implement custom formatter?</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "0e2bcf49-7b5f-4d24-81fa-08dbe4480a0a",
+            "Name": "Overview of ASP.NET Core SignalR"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://ably.com/blog/the-realtime-api-family",
+            "EducationTime": 0,
+            "Id": "eca14e75-015e-43fa-81fe-08dbe4480a0a",
+            "Name": "The Realtime API Family"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "2a075db9-a53a-4f2e-81fc-08dbe4480a0a",
+            "Name": "WebSockets support in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/",
+            "EducationTime": 0,
+            "Id": "db97f1c4-81f1-4fb4-8200-08dbe4480a0a",
+            "Name": "What is web socket and how it is different from the HTTP?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b51dcc26-ab61-4604-9357-fd7db32c6742",
+        "Name": "Manages advanced communication protocols with a framework",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Real-time API allows two-way communication between client and server, where data can be pushed from the server to clients in real-time. This is particularly useful for applications that require real-time updates, such as chat applications, stock market tickers, and multiplayer games. .NET provides several technologies for building real-time APIs, including SignalR, WebSockets, and Server-Sent Events (SSE).</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Configures the SignalR or WebSocket middleware.</li><li>Creates SignalR hubs.</li><li>Implements logic to handle incoming messages and broadcast them to connected clients.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What is a real-time API, and how is it different from a traditional REST API?</li><li>What technologies are commonly used to implement real-time .NET API?</li><li>How to send a message from the server to client?</li><li>What transport protocol does SignalR use?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/difference-between-session-and-cookies/",
+            "EducationTime": 0,
+            "Id": "e1f0fd47-c7e6-48d3-8206-08dbe4480a0a",
+            "Name": "Difference between Session and Cookies"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/app-state?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "95e8b0b7-9601-4ae6-8202-08dbe4480a0a",
+            "Name": "Session and state management in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/state-management-in-asp-net",
+            "EducationTime": 0,
+            "Id": "da0e96de-ce85-440a-8204-08dbe4480a0a",
+            "Name": "What Is State Management: Applications, Types, Example and More"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a84a3944-d038-4e63-9e4e-9ccf69964ba6",
+        "Name": "Manages sessions using framework",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">A session is a series of consecutive requests made in one browser over a period of time. It can be used to store some temporary data that should be available while the user is working with the application and does not require permanent storage.&nbsp;Sessions can be vulnerable to security threats, such as session hijacking and cross-site scripting attacks, so it's important to use secure session management techniques and follow best practices for web application security to prevent such threats.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Enables and configures sessions in a Startup.</li><li>Stores and retrieves data from a session in a Controller or View.</li><li>Properly handles session timeouts. (Mostly redirect to login page).</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What is session state and how does it differ from other types of state management?</li><li>Difference between Session and Cookies.</li><li>Advantages and disadvantages of using session state.</li><li>How to Set and Get session values.</li><li>What are known session attacks and how to prevent them</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-7.0&tabs=visual-studio",
+            "EducationTime": 0,
+            "Id": "df3c910a-be3e-4323-8208-08dbe4480a0a",
+            "Name": "Background tasks with hosted services in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/medialesson/run-and-manage-periodic-background-tasks-in-asp-net-core-6-with-c-578a31f4b7a3",
+            "EducationTime": 0,
+            "Id": "ca0a7316-a59d-4201-820a-08dbe4480a0a",
+            "Name": "Run and manage periodic background tasks in ASP.NET Core 6 with C#"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "00051084-328b-4ca1-9b56-e20829255fbb",
+        "Name": "Manages task scheduling and long-running background processing with a framework",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Software systems typically need to manage the execution of work by unattended background operations: monitoring, logging, long-running tasks, batch processing, etc. This task covers the activities related to implementing and consuming these capabilities.&nbsp;Scheduled tasks can be created using IHostedService interface from .NET Core framework. It provides a convenient way to define and manage background tasks, ensuring proper lifecycle management and integration with the hosting environment.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Creates scheduled tasks using IHostedService.</li><li>Handles tasks overlapping and race conditions.</li><li>Implements scheduled tasks error handling and retry policies.</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>How to schedule task using IHostedService?</li><li>What is IHostedService lifetime? What will be with task when the main application is shut down?</li><li>What is cron expression?</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/generate-consume-asynchronous-stream",
+            "EducationTime": 0,
+            "Id": "e777fbe5-e983-417b-820c-08dbe4480a0a",
+            "Name": "Generate and consume async streams."
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://codewithmukesh.com/blog/pagination-in-aspnet-core-webapi/",
+            "EducationTime": 0,
+            "Id": "7fbdf979-44eb-4230-820e-08dbe4480a0a",
+            "Name": "How to Implement Pagination in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "5b58751c-a3ae-4ffa-8210-08dbe4480a0a",
+            "Name": "Response caching in ASP.NET Core"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "41885b22-fe01-4d3b-944e-fb4241e54956",
+        "Name": "Uses framework to handle large datasets",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Modern web applications have to process a huge amount of user input data.&nbsp;</span><span style=\"color: rgb(55, 65, 81);\">Handling big data loads can be a complex and challenging task, but the framework can provide several tools and patterns that can be used to make the process more manageable.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses async streams for handling big data loading.</li><li><span style=\"color: rgb(0, 0, 0);\">Uses pagination to get&nbsp;data partially.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses&nbsp;</span><span style=\"color: rgb(22, 22, 22);\">caching for frequently accessed data.</span></li><li><span style=\"color: rgb(22, 22, 22);\">Uses response compression&nbsp;to reduce the size of the payload.</span></li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What is pagination?</li><li>How to work with async streams?</li><li>When to use&nbsp;response&nbsp;caching and&nbsp;compression?</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://procodeguide.com/programming/async-web-api-with-aspnet-core/",
+            "EducationTime": 0,
+            "Id": "19d7dfe2-663f-42dc-8216-08dbe4480a0a",
+            "Name": "Asynchronous APIs"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/best-practices?view=aspnetcore-3.1#avoid-blocking-calls",
+            "EducationTime": 0,
+            "Id": "5712086a-060e-455a-8214-08dbe4480a0a",
+            "Name": "Avoid blocking calls"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://azure.microsoft.com/en-US/products/functions/",
+            "EducationTime": 0,
+            "Id": "431cb084-f125-4dfa-4141-08dbbf59defb",
+            "Name": "Azure Functions - microsoft.com"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-7.0&tabs=visual-studio",
+            "EducationTime": 0,
+            "Id": "df3c910a-be3e-4323-8208-08dbe4480a0a",
+            "Name": "Background tasks with hosted services in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://en.wikipedia.org/wiki/Distributed_computing",
+            "EducationTime": 0,
+            "Id": "d919cf41-cd4f-4aad-8212-08dbe4480a0a",
+            "Name": "Distributed computing"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "73ba628c-6388-4c17-8bb5-0e2a4c615f07",
+        "Name": "Uses framework to perform high-performance computing tasks",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>Real-world applications face a lot of high-load computation tasks that require handling them appropriately, taking into account some performance implications. Modern web development has a lot of proven techniques for handling such kinds of tasks via parallelising computation using various instruments.</p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses background services&nbsp;for high-load computation tasks.</li><li>Uses a serverless cloud approach for high-load computation tasks.</li><li>Uses Distributed computing for high-load computation tasks.</li><li>Uses asynchronous APIs and Task-based approach.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><strong><span class=\"ql-cursor\">﻿</span></strong></p><ul><li>How to use&nbsp;background tasks with hosted services<em>.</em></li><li>What are the&nbsp;applicability and limitations&nbsp;of&nbsp;Distributed computing.</li><li>What are the&nbsp;applicability and limitations&nbsp;of&nbsp;Serverless computing.</li><li>How to avoid blocking calls.</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "7dc7c64c-0422-4355-8218-08dbe4480a0a",
+            "Name": "Configuration in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://jayanttripathy.com/ihostingenvironment-and-iwebhostenvironment-in-asp-net-core/",
+            "EducationTime": 0,
+            "Id": "96036bfc-63d2-40a4-821c-08dbe4480a0a",
+            "Name": "IHostingEnvironment and IWebHostEnvironment in ASP.Net Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.linkedin.com/pulse/managing-configuration-multiple-environments-visual-studio-ziv-ben-or/",
+            "EducationTime": 0,
+            "Id": "4c491d4c-2d30-4fc6-8220-08dbe4480a0a",
+            "Name": "Managing configuration with multiple environments in Visual Studio - the right way!"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.jetbrains.com/help/rider/Running_LaunchSettings.html#main-options",
+            "EducationTime": 0,
+            "Id": "f77a94a6-c4cc-4d29-8222-08dbe4480a0a",
+            "Name": "Run and debug .NET Core and ASP.NET Core apps with launch profiles"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://jayanttripathy.com/ihostingenvironment-and-iwebhostenvironment-in-asp-net-core/",
+            "EducationTime": 0,
+            "Id": "6b5cbae8-da65-4bd5-821a-08dbe4480a0a",
+            "Name": "Use multiple environments in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://aspnetcore.readthedocs.io/en/stable/fundamentals/environments.html",
+            "EducationTime": 0,
+            "Id": "65cad14a-0625-463a-821e-08dbe4480a0a",
+            "Name": "Working with Multiple Environments"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "abddbac8-b7fc-414b-a16e-6d038bb6fc85",
+        "Name": "Works with process and environment using framework capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>Process is a container for running programs and managing system resources, like CPU, memory, I/O. In general, a .NET application typically runs as a single process that contains runtime environment provided by CLR.</p><p>The Environment concept refers to the set of variables, settings, and resources in which an application is executed. Environment is commonly used for tasks such as retrieving configuration settings, reading environment variables, checking version of the operating system, and using this information to adjust application behavior.</p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Works with multiple environments(for tests, integration, deployment and etc)</li><li>Sets&nbsp;environment variables via automated build tools or build configuration files.&nbsp;</li><li>Uses Environment.GetEnvironmentVariable to retrieve environment specific values.</li><li>Uses IWebHostEnvironment interface as a parameter in Startup constructor or to access properties such as WebRootPath or ContentRootPath.</li><li>Uses appsettings.{Environment}.json files for configuration.</li><li>Builds middleware pipeline according to the environment.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What Is “Environment” in Software Development?</li><li>Ways to set and get environment variables.</li><li>What is the IWebHostEnvironment interface used for?</li><li>How to configure different settings and middleware for Development and Production?</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "162b084f-9f89-45f0-bd29-cec577516974",
+        "Name": "Develops custom diagnostics and profiling tools for framework-based applications",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Custom diagnostics and profiling tools help engineers monitor application behavior, detect bottlenecks, and identify performance issues during development and production. By creating tailored tools for specific frameworks, engineers gain deeper insights into system performance, memory usage, and execution time. These tools enable faster debugging and optimization of complex applications, ensuring stability, efficiency, and maintainability.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "1b133040-47ec-4f17-9839-6921e909ee7c",
+        "Name": "Designs and enforces observability and monitoring strategies for framework-based solutions",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Observability and monitoring are essential for maintaining system health, reliability, and performance. By designing and implementing observability strategies, engineers can capture logs, metrics, and traces to understand how the system behaves in real-world scenarios. This allows teams to detect and respond to issues proactively, ensuring applications meet performance expectations and service-level agreements (SLAs).</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7d3a6053-33cb-4fdf-b116-2f027e167a55",
+        "Name": "Implements framework-agnostic solutions for system portability and maintainability",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Framework-agnostic solutions reduce dependencies on a specific framework, making applications easier to migrate, maintain, and extend. By abstracting framework-specific details, engineers can improve the portability of applications across platforms and environments. This approach ensures long-term flexibility, reduces technical debt, and allows teams to adopt new frameworks or technologies when required.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "f4b73f8e-d45a-4694-927d-e1306acf4246",
+        "Name": "Develops framework-based disaster recovery and rollback strategies for critical applications",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Disaster recovery and rollback strategies are crucial for minimizing downtime and ensuring data integrity in critical systems. By leveraging framework capabilities, engineers design solutions to recover from system failures, rollback to stable versions, and restore operations quickly. These strategies help maintain business continuity, reduce risks, and protect applications in production environments.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "8b44c9c2-5e29-47fc-ac38-918f32583325",
+        "Name": "Leads framework adoption strategies and guides migration to next-generation frameworks",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Adopting or migrating to next-generation frameworks is essential for leveraging new capabilities and improving system performance. Engineers lead this process by evaluating new frameworks, creating migration plans, and ensuring a smooth transition with minimal disruption. This role focuses on reducing technical debt, enhancing application scalability, and aligning technology choices with business goals.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a8641b13-450c-422b-98a8-302b4b35181d",
+        "Name": "Creates custom plugins or tools to enhance framework capabilities and developer productivity",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Custom plugins and tools extend the functionality of existing frameworks to meet unique project requirements or improve developer workflows. By creating these enhancements, engineers enable teams to work more efficiently, automate repetitive tasks, and solve domain-specific challenges. This approach increases productivity, reduces errors, and fosters innovation across projects.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2db65245-274a-46ed-8486-3cddf56ca9c2",
+        "Name": "Leads performance benchmarking and fine-tuning strategies for high-load framework-based systems",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Performance benchmarking and fine-tuning ensure that applications remain stable and responsive under high-load conditions. Engineers define metrics, test scenarios, and optimization strategies to identify bottlenecks and enhance system performance. By leveraging framework tools and profiling techniques, teams can ensure that applications scale effectively and meet performance demands in real-world use.</p><p></p>"
+      }
+    ]
+  }
+]

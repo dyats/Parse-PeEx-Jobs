@@ -1,0 +1,426 @@
+[
+  {
+    "JobLevelName": "Trainee Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SDO/Expertise+Onboarding",
+            "EducationTime": 0,
+            "Id": "5ffb7d86-34fd-49b5-b0f1-08db0dc72c31",
+            "Name": "Expertise onboarding policy"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "644be9cc-c1a7-4827-9ad5-f2ce0b9e88b8",
+        "Name": "Passes onboarding into Engineering and Technology Expertise including specialisation or practice",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Functional onboarding introduces new employees to specific tasks, responsibilities, and functions they will perform in their company role. It typically includes training concerning company policies, procedures, systems, and introductions to key personnel and resources. The goal of functional onboarding is to ensure that new employees have the knowledge and skills they need to be successful in their roles and to integrate them into the company's operations as quickly and smoothly as possible.</span></p><p><span style=\"color: rgb(23, 43, 77);\">Specifically, for the Software Development function, it provides an overview of the company's engineering ecosystem, standards, values, and communities. This is essential to achieving success within the company and is an integral part of the onboarding process.</span></p><p><br></p><p><strong style=\"color: rgb(23, 43, 77);\">Skills</strong></p><p><br></p><ul><li><span style=\"color: rgb(23, 43, 77);\">Passes functional onboarding according to the Functional Onboarding policy</span></li></ul><p><br></p><p><strong style=\"color: rgb(23, 43, 77);\">Knowledge</strong></p><p><br></p><ul><li>What is a Functional Office and its functions?</li><li>Where to find and how to use the best practices catalogue and available practices?</li><li>What communities are available within the company?</li><li>What processes are defined for professional growth?</li><li>What opportunities are available and how to take part in engineering and company life?</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/Additional+Profiles",
+            "EducationTime": 0,
+            "Id": "ba27d54e-69af-4ef9-b0eb-08db0dc72c31",
+            "Name": "Additional profiles within People Excellence"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/Job+Standard",
+            "EducationTime": 0,
+            "Id": "408097b1-c02c-4d2a-b0e9-08db0dc72c31",
+            "Name": "Job Standard within People Excellence"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/Performance+Review",
+            "EducationTime": 0,
+            "Id": "eda38221-04e4-4fbc-b0e7-08db0dc72c31",
+            "Name": "Performance Review Process within People Excellence"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/Goals+Management+in+PeEx",
+            "EducationTime": 0,
+            "Id": "4b41972e-0747-4ae3-b0ef-08db0dc72c31",
+            "Name": "Professional Development Plan as an instrument to manage professional growth"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/Promotion+criteria+for+all+associates",
+            "EducationTime": 0,
+            "Id": "3f041ef4-6991-41c9-b0ed-08db0dc72c31",
+            "Name": "Promotion as a result of regular Performance Reviews"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2e24e823-79a8-413e-99af-28cec3d4376d",
+        "Name": "Passes Performance Review according to the process definition and requirements",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Performance reviews are an essential part of the professional growth process for employees as it allows them to receive regular feedback about their performance, identify areas for improvement, and set goals for future development. By adhering to the performance review process defined by the company, employees can stay aligned with the company's expectations and goals and ensure that their career development is in line with the organization's objectives, industry standards, and engineering best practices. Additionally, performance reviews also assist managers and supervisors in providing fair and consistent evaluations and identifying areas of the company that may need improvement. Overall, performance reviews are a key tool for individual and organizational development and success.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses company guidelines and technology expertise to select relevant profiles for performance review</li><li>Filles out self-evaluation form according to the performed jobs during the review period</li><li>Preparers relevant artifacts for the review according to the job standard definition</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What is the performance review process, and why is it important?</li><li>What is a job standard?</li><li>What are additional profiles?</li><li>How does the promotion process relate to the performance review?</li><li>What is a professional development plan?</li></ul><p><br></p><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a6a891c6-8652-4819-baf7-ddc4c71b00f6",
+        "Name": "Contributes to development of Engineering and Technology jobs and skills standards",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>As a subject matter expert, contributing to Expertise Specialization people standards is a crucial step in building and maintaining a strong engineering ecosystem. These standards provide a foundation for best practices and guidelines for engineers in a specific field, keeping them up-to-date with current market trends and technologies. By participating in developing these standards, subject matter experts can share their knowledge and experience with others, which can improve the overall quality of engineering work and projects. Additionally, these standards can be used as a benchmark for professional development, as engineers can demonstrate their expertise and commitment to staying up-to-date in their field by participating in developing these standards. Overall, contributing to Expertise Specialization standards is essential for ensuring the quality and relevance of engineering work and supporting the professional development of engineers.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Defines or updates the content of jobs within the job standard&nbsp;</li><li>Defines&nbsp;or updates Knowledge Resources for jobs within the job standard&nbsp;</li><li>Defines, suggests,&nbsp;or updates&nbsp;job standard task description and structure&nbsp;</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>How the job standard is built?</li><li>What is the process of job standard improvement?</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://opensource.org/licenses",
+            "EducationTime": 0,
+            "Id": "a23dd0d3-602c-4b6e-b102-08db0dc72c31",
+            "Name": "Open Source Licenses and Standards"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://producingoss.com/",
+            "EducationTime": 0,
+            "Id": "ec90295c-8ddd-4f6a-b100-08db0dc72c31",
+            "Name": "Producing Open Source Software"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://opensource.softserveinc.com/",
+            "EducationTime": 0,
+            "Id": "731a6975-bd3d-4261-b0fe-08db0dc72c31",
+            "Name": "SoftServe Open Source"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "73432961-7753-4da4-affa-a2bba9b9a6c8",
+        "Name": "Contributes to Open Source project development",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong> &nbsp;</p><p>&nbsp;</p><p>Contributing to open source is important for several reasons. Firstly, it promotes collaboration and transparency in the technology community, allowing developers to share knowledge and build upon each other's work. Secondly, participating in open source projects can help enhance a developer's skills and increase their visibility in the tech industry. This can lead to professional growth and new career opportunities. Thirdly, contributing to open source can help build a strong sense of community and belonging among developers, as they work together towards a common goal.&nbsp;</p><p>Additionally, contributing to open source projects helps employees to develop new skills, build their professional network, and increase their visibility within the tech community. This can enhance their personal and professional growth and contribute to the company's overall success.&nbsp;</p><p>The company offers the open source community infrastructure to focus on relevant activities. As one of the software development leaders, SoftServe is driving many challenging and impactful projects with multiple long-lasting effects. At all levels, from SoftServe leaders to juniors and young talents, we are to support the open source initiative and build a culture of contributing to open-source tools or libraries, as we believe open source-derived products boost power innovations and solve unconventional problems. In addition, open source initiative is a great opportunity for everyone to integrate into a global community, exchange knowledge, and team up with people worldwide.&nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Starts open source initiatives&nbsp;</li><li>Contributes to the open source initiative by improving its codebase or introducing new functionality&nbsp;</li><li>Applies experience and knowledge of the best practices when participating in open source community discussions with the&nbsp;impact on project development&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is open source software?&nbsp;</li><li>What are the open source licenses and standards?&nbsp;</li><li>What open sources projects are placed under the company umbrella?&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/ITBP/How+to+volunteer+for+OpenTech",
+            "EducationTime": 0,
+            "Id": "6e2a0781-965d-4cb8-b104-08db0dc72c31",
+            "Name": "How to volunteer for Open Tech"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://opentech.softserveinc.com/",
+            "EducationTime": 0,
+            "Id": "2db5b06b-e220-49ad-b759-08d9dc1c28f3",
+            "Name": "Open Tech"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "d4eada11-43e3-4bc7-9795-d47242f4c363",
+        "Name": "Contributes to Open Tech project development",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Open Tech is a charity crowdsourcing platform developed and launched by SoftServe associates. It aims to unite people willing to contribute their time and skills toward finding solutions to pressing social issues.</p><p><br></p><p><strong><em>Important:</em></strong><em> Accurate time logging for the Open Tech project is mandatory and will be evaluated during the Performance Review. It is essential to provide evidence of hours worked as part of your performance assessment. Ensure your hours are meticulously recorded and verifiable. Please consult the '</em><a href=\"https://softserveinc.workplace.com/work/knowledge/3313489965619568\" rel=\"noopener noreferrer\" target=\"_blank\"><em>How to Report Hours in Open Tech project' </em></a> <em>guideline for specific instructions on logging your time. Compliance with these requirements is critical for evaluating your contributions to the project.</em></p><p><br></p><p>Open Tech essential purposes:&nbsp;</p><ul><li>Responding to social problems with technological solutions, important projects, and initiatives on the local and national levels.&nbsp;</li><li>Uniting people whose collective passion and commitment have the potential for social change.&nbsp;</li><li>Improving their professional skills and satisfying the volunteering needs locally.&nbsp;</li></ul><p>Open Tech supports:&nbsp;</p><ul><li>Nonprofits&nbsp;</li><li>Social enterprises&nbsp;</li><li>Local and national authorities&nbsp;</li><li>Education institutions&nbsp;</li><li>Our partners and clients&nbsp;</li></ul><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Contributes to the Open Tech initiative by providing an expertise&nbsp;</li><li>Improves or creates&nbsp;Open Tech project functionality&nbsp;</li><li>Improves or sets up engineering processes within the&nbsp;Open Tech project&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is Open Tech?&nbsp;</li><li>How to join the Open Tech initiative?&nbsp;</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SSITA/Guideline+for+IT+Academy+Experts",
+            "EducationTime": 0,
+            "Id": "43b50d66-d049-420f-b0fc-08db0dc72c31",
+            "Name": "IT Academy Interns Mentorship"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/NEBo+mentors",
+            "EducationTime": 0,
+            "Id": "dcb11d1c-ba9d-401a-b106-08db0dc72c31",
+            "Name": "New Experience Mentorship (NEBo)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/MO/Become+A+Mentor",
+            "EducationTime": 0,
+            "Id": "9786ceac-0aa7-408c-b105-08db0dc72c31",
+            "Name": "Personal Development Mentorship"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/UJP/University+Joint+Program",
+            "EducationTime": 0,
+            "Id": "e1d23a2b-cecc-4ede-b107-08db0dc72c31",
+            "Name": "University Joint Program Interns Mentorship"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "25b05fa8-88d0-4cbb-a99e-cf7c374b1c4c",
+        "Name": "Develops associates or candidates within Engineering and Technology specialisation profile",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Developing subordinates and colleagues is crucial for individual and organizational growth. Acting as a mentor in the company plays a key role in providing guidance, knowledge, and support to your colleagues in their career development. Mentors help engineers to identify their strengths and weaknesses, set goals, and provide feedback to improve their performance. This creates a more motivated, skilled, and productive workforce. Furthermore, mentorship also helps to foster a positive work environment where engineers feel valued, supported, and encouraged to innovate. This can lead to increased job satisfaction and better collaboration among team members. In short, mentorship is a critical aspect of professional development that contributes to the success of individuals and the company.&nbsp;</p><p>For a mentor, it is also an excellent opportunity to develop personal leadership skills and positively impact the company's engineering culture and standards.&nbsp;</p><p>The company offers such programs in which associates could enhance mentoring and coaching skills as the Apprentice Program, IT Academy, University Joint Program, and Mentorship Programs.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Contributes to any of the available programs as a mentor, coach, or trainer&nbsp;</li><li>Defines a development plan for&nbsp;mentee&nbsp;</li><li>Uses&nbsp;the defined plan to drive&nbsp;the mentorship process&nbsp;</li><li>Ensures all goals from the development plan are achieved throughout the mentorship&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Who is a mentor?&nbsp;</li><li>What are the mentor's responsibilities?&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/pages/viewpage.action?pageId=460232120",
+            "EducationTime": 0,
+            "Id": "0b1d590e-8a00-44c3-b10b-08db0dc72c31",
+            "Name": "About Technical Interview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/FSA/Technical+Interview+Expert+Involvement",
+            "EducationTime": 0,
+            "Id": "41244663-a517-48b0-b109-08db0dc72c31",
+            "Name": "Technical Interviewer Requirements"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ce5a41e8-61c1-46b1-b727-3be81d4f8242",
+        "Name": "Conducts evaluations in Job Interview events within the current competency profile on the project and company scale",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Conducting technical interviews and being a part of a technical interviewers network within the company is crucial for several reasons. Technical interviews are important for evaluating a candidate's technical skills, knowledge, and problem-solving ability. This helps the company identify the most qualified candidates for the role and ensure they have the necessary skills to succeed. Participating in technical interviews helps to keep the interviewer up to date with the latest industry trends and technologies. This can lead to personal and professional growth and provide opportunities for networking and collaboration. Being a part of a technical interviewers network can help to establish best practices and standards for conducting technical interviews, which can result in a more consistent and fair evaluation process. Participating in technical interviews provides opportunities for mentorship and coaching, as interviewers can provide feedback and guidance to candidates to help them improve their skills and knowledge. Finally, conducting technical interviews is a valuable experience for both the interviewer and the candidate, as it helps foster a sense of community and promotes mutual respect within the technology industry.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses company best practices,&nbsp;processes,&nbsp;and standards&nbsp;to conduct technical interviews as a technical interviewer on the company or project level&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is a technical interview and why is it needed?&nbsp;</li><li>How to become a technical interviewer?&nbsp;</li><li>What is the process of&nbsp;technical interviews within the company?&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/How-to+videos",
+            "EducationTime": 0,
+            "Id": "9f81e57a-14ad-4322-b10f-08db0dc72c31",
+            "Name": "Educational Videos for Experts"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/PeEx+Experts",
+            "EducationTime": 0,
+            "Id": "258a81ae-504f-4767-b10d-08db0dc72c31",
+            "Name": "PeEx Performance Review Experts"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/Performance+Review+Guidelines",
+            "EducationTime": 0,
+            "Id": "c3453963-9c5b-4e7c-b111-08db0dc72c31",
+            "Name": "Performance Review guidelines"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SPE/Performance+Review",
+            "EducationTime": 0,
+            "Id": "89721c32-2efa-4318-b113-08db0dc72c31",
+            "Name": "Performance Review Process"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "5490e1f7-9e8d-423e-aabe-64ac8a8ee8ac",
+        "Name": "Conducts evaluations in Performance Review events within the current competency profile on the project and company scale",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Conducting performance reviews for colleagues and subordinates within the company is important for several reasons:&nbsp;</p><ul><li>Regular performance reviews allow to formally assess an employee's strengths and weaknesses and set goals for further professional development. This helps ensure that the employee is on track to meet the company's expectations and reach their full potential.&nbsp;</li><li>Performance reviews can help foster a culture of continuous improvement, as employees are provided with constructive feedback and support to enhance their skills and knowledge.&nbsp;</li><li>Performance reviews can help build a more motivated and engaged workforce, as employees feel valued and supported in their professional development.&nbsp;</li><li>Performance reviews provide open and honest communication between managers and employees, which can help build trust and foster better working relationships.&nbsp;</li><li>Regular performance reviews help ensure that the company's performance and talent management practices align with its overall strategy and goals.&nbsp;</li></ul><p>By conducting a Performance Review as an evaluator, you are also growing your professional skills: technology and engineering expertise, mentorship, and leadership skills.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses company best practices, processes, and standards to conduct regular performance reviews for teammates and other engineers within the company as a member of a company's performance review evaluators network&nbsp;</li><li>Educates new evaluators within the evaluator's network&nbsp;as a&nbsp;member of a company's performance review evaluators network&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What is a performance review?&nbsp;</li><li>What are the integral parts and stages of performance review?&nbsp;</li><li>What are the evaluator's role and responsibilities?&nbsp;</li></ul><p><br></p><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SDO/Education+Guidelines",
+            "EducationTime": 0,
+            "Id": "79988fa4-4897-4f27-b117-08db0dc72c31",
+            "Name": "Educational Guidelines"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "144e689f-f209-471f-b54a-4d932fb1684a",
+        "Name": "Contributes to development of Engineering and Technology learning solutions for people professional growth",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Participation in building learning solutions and education materials for software engineers within the company is critical for several reasons:&nbsp;&nbsp;</p><ul><li>It ensures that the engineers have a deep understanding of the technologies and methodologies used in the company, which results in higher-quality software development.&nbsp;</li><li>It helps to standardize the development process, reducing the number of errors and increasing efficiency.&nbsp;</li><li>Working on learning and educational solutions helps improve and structure your professional knowledge and experience.&nbsp;</li><li>The availability of engineering educational and learning solutions provides the additional possibility for all engineers within the company to master new skills, get new professional experience, build new competency, switch primary profile or build a secondary one, and as a result, grow professionally.&nbsp;</li></ul><p>Overall, taking part in building engineering education and learning solutions is an integral part of the engineering culture within the company.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Develops and improves expertise learning&nbsp;solutions by collaborating&nbsp;with Functional Office representatives&nbsp;</li><li>Builds or improves&nbsp;learning solutions and their content by joining and participating in&nbsp;the workgroup&nbsp;</li><li>Applies experience and methodology to evaluate new learning solutions by&nbsp;joining&nbsp;and participating in&nbsp;the workgroup&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Learning solutions in development&nbsp;</li><li>How to become a contributor?&nbsp;</li></ul><p><br></p><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "LastUpdateDate": "2024-12-03T13:36:18.5315503Z",
+            "Link": "https://softserveinc.sharepoint.com/sites/SoftwareDevelopment/SitePages/Engineering-Practices.aspx",
+            "Id": "a4a61a14-01a8-4df4-b115-08db0dc72c31",
+            "Name": "Engineering Practices"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "02adf8d9-2781-4e1c-89db-712733c88072",
+        "Name": "Contributes to development of Engineering and Technology standards for processes and solutions implementation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong>&nbsp;</p><p>&nbsp;</p><p>Continuous development of software engineering standards and best practices is crucial for the company's success. It helps to ensure the quality of the software products, promote efficiency in the development process, and meet customers' changing needs. Adhering to established standards and best practices also helps minimize the risk of security vulnerabilities, and reduce the chances of errors and maintenance costs. Keeping up with the latest trends and advancements in software engineering also helps companies stay competitive and retain their position in the market. Furthermore, following well-defined standards and best practices can also improve collaboration and communication within the development team, leading to better teamwork and project outcomes. Overall, investing in the continuous development of software engineering standards and best practices can bring numerous benefits to a software development company and the engineering experts working there.&nbsp;</p><p>Participating in the development of engineering standards stimulates your professional growth and fosters technical and engineering skills.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Improves&nbsp;engineering standards by collaborating&nbsp;with Functional Office representatives&nbsp;</li><li>Improves&nbsp;the standard content by joining and participating in&nbsp;the workgroup&nbsp;</li><li>Applies experience and methodology to evaluate new solutions by&nbsp;joining&nbsp;and participating in&nbsp;the workgroup&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What engineering standards and practices are adopted within the company?&nbsp;</li><li>How to become a contributor?&nbsp;</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.softserveinc.com/display/SDO/Engineering+Communities",
+            "EducationTime": 0,
+            "Id": "b997b4ff-b03a-4280-b119-08db0dc72c31",
+            "Name": "Engineering Communities"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "4519bb83-9a4e-4102-a437-5c2afe2cbaba",
+        "Name": "Shares professional experience in context of the current competency profile at any associates gathering event on a Project or Company scale",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description </strong>&nbsp;</p><p>&nbsp;</p><p>Sharing professional knowledge and experience within the company is crucial for several reasons:&nbsp;</p><ul><li>It helps increase engineering teams' overall knowledge and skill level, improving project outcomes.&nbsp;</li><li>Presentations and speak-ups at events provide opportunities for team members to demonstrate their expertise and develop their leadership skills.&nbsp;</li><li>Sharing knowledge fosters a culture of continuous learning and collaboration within the company.&nbsp;</li><li>Presenting at external events can help establish the company as a thought leader in the industry, enhancing its reputation and attracting new business opportunities.&nbsp;</li></ul><p>Finally, being a speaker or delivering presentations can be a valuable source of individual team member's personal growth and career development.&nbsp;</p><p>&nbsp;</p><p><strong>Skills</strong>&nbsp;</p><p>&nbsp;</p><ul><li>Uses the company's opportunity to join community events&nbsp;</li><li>Uses personal experience and knowledge to provide&nbsp;feedback about the quality of topics of community events and suggest improvements&nbsp;</li><li>Creates or validates topics and presentations for community events&nbsp;</li></ul><p>&nbsp;</p><p><strong>Knowledge</strong>&nbsp;</p><p>&nbsp;</p><ul><li>What communities are represented within the company?&nbsp;</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2bf36f66-2c24-401a-ad0f-675e9a3323a2",
+        "Name": "Designs and delivers training programs for emerging technologies and practices",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Training programs for emerging technologies and practices are essential to keep the organization competitive and its associates skilled. This task involves identifying skill gaps, designing structured training programs, and delivering them effectively to enhance the team&#39;s knowledge and capabilities. The focus is on simplifying complex concepts and creating learning opportunities that align with both the organization’s strategic goals and the latest industry trends.</p><p>Training programs ensure that engineers can confidently adopt and apply new technologies, improving project outcomes and fostering a culture of continuous learning. The programs may include hands-on sessions, workshops, or collaborative learning opportunities, tailored to address the specific challenges and requirements of the organization.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "39631329-7b85-4064-b0bd-7d8ae1f381fd",
+        "Name": "Publishes and represents organizational expertise on external platforms to promote company expertise",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Showcasing organizational expertise on global platforms is crucial for building the company’s reputation as an industry leader. This task involves publishing articles, white papers, and case studies, as well as presenting at international conferences, webinars, or forums. These activities highlight the company’s innovations, engineering capabilities, and best practices, creating opportunities for collaboration and positioning the organization at the forefront of technological advancements.</p><p>By sharing insights and practical experiences, this job not only promotes the organization’s expertise but also inspires trust among clients, partners, and the broader tech community. It fosters a culture of innovation, attracts talent, and establishes the company as a thought leader in its domain.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ecb7f039-549b-4ad4-a7b9-3b22930bef93",
+        "Name": "Participates in PoC development to evaluate emerging technologies as candidates for the company engineering instrumentary",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Proof-of-Concept (PoC) development is a strategic approach to evaluating the applicability and benefits of emerging technologies for the organization. This task involves researching new tools, frameworks, or methodologies, and developing small-scale prototypes to test their capabilities in real-world scenarios. The aim is to assess whether these technologies can address specific engineering challenges, improve efficiency, or align with the organization’s goals.</p><p>Participation in PoC development ensures that the company remains competitive by adopting the best tools and practices. The outcomes of these evaluations guide decision-making, reducing risks associated with new technology adoption and providing engineers with innovative solutions to enhance their workflows.</p>"
+      }
+    ]
+  }
+]

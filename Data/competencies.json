@@ -1,0 +1,85 @@
+[
+  {
+    "Description": "Language competency refers to engineer's ability to use a programming language effectively. This includes skills and knowledge of the syntax and semantics of the language, as well as code debugging and good working experience with the language's features and capabilities.\n\nLanguage:\n\n- Main language API;\n- Packages, libraries and API shipped directly with the language;\n- Algorithms and data structure;\n- Networking with the language;\n- Debugging in language;\n- Concurrency in language.  ",
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "6bc7f146-cb0d-4a30-ae16-09ec2dc4161d",
+    "Name": "Language - C#"
+  },
+  {
+    "Description": "A library is a collection of code that provides pre-built functionality for a software application. Libraries can be used to perform a wide range of tasks, such as parsing data, making HTTP requests, and performing mathematical calculations.\nThe associates should understand how to find and use libraries relevant to the task they are trying to accomplish. They should also be familiar with the interfaces and APIs provided by the libraries and should be able to use them effectively to integrate the library's functionality into their application. In addition, they should understand any conventions or best practices associated with using libraries and be able to troubleshoot and debug issues that arise.\n\nLibraries:\n\n- Third-party libraries;\n- Standard libraries;\n- Packages, kits, extensions, small coding frameworks and similar solutions;\n- Networking with the libraries;\n- Debugging in language.",
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "64ae37a4-a9eb-4c55-af3c-051ad0c54d30",
+    "Name": "Libraries - .NET Back-End"
+  },
+  {
+    "Description": " A framework can provide a set of conventions for organizing code and pre-built functionality that can be used in the application. An associate should understand its architecture and how it is intended to be used. Also, they should be familiar with its key features, have good knowledge of any conventions or best practices associated with the framework, and troubleshoot and debug issues arising when using it.\n\nFrameworks:\n\n- Frameworks that defined the structure of the application (MV* and others);\n- Third-party solutions (packages, extensions, libraries, and others) that are a part of the framework's ecosystem;\n- First-party solutions (packages, extensions, libraries, and others) that are a part of the framework's ecosystem;\n- Concurrency via framework and ecosystem;\n- Debugging in framework;\n- Networking with the framework and related solutions.",
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "9c4b5c2e-3a96-475c-931f-a103540691c6",
+    "Name": "Framework - .NET Back-End"
+  },
+  {
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "dfbc75b2-8bf8-41a4-89c7-40efce924b2f",
+    "Name": "Markup and Styling"
+  },
+  {
+    "Description": "Code-based testing is the ability to design, write, and execute code-based tests for a software application. This can include creating unit tests, which test individual components or functions in isolation, and integration tests, which test the integration of different parts in the application. Code-based testing ensures an application functions correctly and meets the desired quality standards.\n\nCode-Based Testing:\n\n- Unit testing solutions;\n- Integration testing solutions;\n- End-to-end testing solutions;\n- Testing approaches and methodologies;\n- Third-party libraries for testing optimization.   ",
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "b8afdbc2-6155-4912-8899-a20b14c14cc5",
+    "Name": "Code-Based Testing - .NET Back-End"
+  },
+  {
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "8c640a4c-c380-4bcd-8d60-7e4170c94ffe",
+    "Name": "Design"
+  },
+  {
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "2a27c7b4-0c37-4db5-a20b-b3831cc59a9f",
+    "Name": "Data Storages"
+  },
+  {
+    "Description": " A development environment competency refers to the ability to set up, configure, and maintain the systems and tools that are used to develop software. This includes installing and configuring development tools, such as integrated development environments (IDEs), libraries, and version control systems. A person with development environment competency should have experience with different development environments, such as local development environments, virtual development environments, and cloud-based development environments. \n\nDevelopment Environment:\n\n- Version controlling tools;\n- Containerization and virtualization;\n- IDE and related plugins;\n- CI/CD and configuration.",
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "f6757440-58bc-4852-8d0c-ccf6f1a9415d",
+    "Name": "Development Environments - .NET Back-End"
+  },
+  {
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "7c004e4b-f5f7-464b-a47a-a11c116d6ae5",
+    "Name": "Cloud Environments"
+  },
+  {
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "6f3cd0ec-35ff-48a9-813b-04a0c2b78e5e",
+    "Name": "Project Process"
+  },
+  {
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "50ca1d28-3b73-49b5-bdd7-6023b90e61d8",
+    "Name": "Technical Process"
+  },
+  {
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "4ed1a0c0-e99a-4273-adee-b8a634655203",
+    "Name": "Expertise Contribution"
+  },
+  {
+    "IsNew": false,
+    "CompetencyHasSkills": false,
+    "Id": "78d9a5b4-05d2-4f38-bdcf-7793bca16672",
+    "Name": "Generative AI"
+  }
+]

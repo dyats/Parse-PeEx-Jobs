@@ -1,0 +1,228 @@
+[
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.techagilist.com/agile/scrum/planning-poker-agile-estimation-method/",
+            "EducationTime": 0,
+            "Id": "031e6868-4723-45d3-8b5e-08dae8b13480",
+            "Name": "Planning Poker – Agile Estimation Method"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.softwaretestingclass.com/software-estimation-techniques/",
+            "EducationTime": 0,
+            "Id": "4313c5d5-8853-47f3-8b58-08dae8b13480",
+            "Name": "Software Estimation Techniques – Common Test Estimation Techniques used in SDLC"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.guru99.com/an-expert-view-on-test-estimation.html",
+            "EducationTime": 0,
+            "Id": "eb5af8a8-66f1-44a7-8b5a-08dae8b13480",
+            "Name": "Software Test Estimation Techniques: Step By Step Guide"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/",
+            "EducationTime": 0,
+            "Id": "81286ac9-d047-4a3c-8b5c-08dae8b13480",
+            "Name": "Top 8 Agile Estimation Techniques (Explained with Examples)"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "13dcec76-1ca6-46a4-a784-f2949a54a004",
+        "Name": "Estimates tasks based on requirements",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The estimations are a core part of any project, any business, whether big or small. Without estimation, it is a significant risk to correctly predict how long something will take, when it will be done, and how much it will cost for the project or company because time is money for a business. As mentioned, any estimation would be converted by the business to how much a company or project needs to spend. As a result, estimations are not a process of guessing, but instead, a process of prediction based on the requirements, client expectations, scope of a task adjusted by the developer's or team's previous experience, understanding of application limitations, constraints, domain specifics, and more to give an approximate estimation as close to actual delivery date as possible. The approaches and values could be different based on project or company policies, starting with a concrete number such as hours, days, and weeks, ending with something more abstract such as a story point.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.atlassian.com/agile/software-development/technical-debt",
+            "EducationTime": 0,
+            "Id": "b5034b25-5f5b-48e1-8b60-08dae8b13480",
+            "Name": "Escaping the black hole of technical debt"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://martinfowler.com/bliki/TechnicalDebt.html",
+            "EducationTime": 0,
+            "Id": "015dc28c-8ba6-4e71-8a00-08dae8b13480",
+            "Name": "Technical Debt"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.researchgate.net/publication/286010286_Towards_an_Ontology_of_Terms_on_Technical_Debt",
+            "EducationTime": 0,
+            "Id": "fb210049-6bfc-415c-8b62-08dae8b13480",
+            "Name": "Towards an Ontology of Terms on Technical Debt"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "1fcd86ac-9b1f-4875-abb4-600487377ccc",
+        "Name": "Manages technical debt based on priorities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">There are no real applications that would not have some technical debt. Issues with technical expertise inside the team in new technology, a new domain for a team, a business ready to sacrifice part of functionality to deliver features as soon as possible, and more could create technical debt. Technical debt is usually recorded and prioritized as any other issue, and it should be addressed to avoid large backlogs and potentially buggy applications. However, before cleaning up, the development team must ensure clear communication between stakeholders on priorities and goals and analyze the reason for the technical debt. Moreover, they also need to guarantee that developers have experience dealing with technical debt without creating a new one and clarify whether or not it is already addressed in the scope of another feature.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.perforce.com/blog/qac/9-best-practices-for-code-review",
+            "EducationTime": 0,
+            "Id": "335667d4-7e4a-4e97-8b68-08dae8b13480",
+            "Name": "9 Best Practices for Code Review"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/swlh/improving-your-teams-code-review-culture-a76cc82621e6",
+            "EducationTime": 0,
+            "Id": "43eca606-4745-46f0-8b6a-08dae8b13480",
+            "Name": "Improving Your Teams Code Review Culture"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "94cabe3e-2fa5-47ae-9ec2-2fb89e118f44",
+        "Name": "Improves code review process to enhance efficiency and quality",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The core part of the code review is the code inspection of the ready-to-deploy code to detect issues, bugs, and inconsistencies based on the community's best practices or the development team's best practices. But also, the big part and the end goal of the review is to uncover potential risks and issues, for example, security risks, quality problems with the implementation, problems with the potential scalability, and so many more. A better process of review will deliver the best results. However, the process should not be just for the sake of the process. It should be based on the domain specifics, business priorities focus, and technical debt policy, as well as internal best practices and recommendations.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.academia.edu/1280889/Negotiation_in_the_Requirements_Elicitation_and_Analysis_Process_2008",
+            "EducationTime": 0,
+            "Id": "a59935eb-d584-472a-8b66-08dae8b13480",
+            "Name": "Negotiation in the Requirements Elicitation and Analysis Process"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "67ec191d-6aa7-4b93-b7fa-e11038ce0b09",
+        "Name": "Manages workload based on requirements",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The validation of the requirements and priorities of the person or the development team workload is not trivial. Each task is a priority for businesses and clients, and each feature should be delivered on time. Moreover, different clients could have different priorities and opinions on the implementation, timelines, or importance of the feature. Also, even if the requirement is established, prioritized, and estimated, a new additional requirement could arise based on end-users comments, client's business changes, or technical difficulties of the implementation discovered after the implementation started. Without the process of managing priority and requirement clarification, the developer or development team could prioritize the wrong feature, implement it incorrectly to business expectations, or take too much work and, as a result, create a delay in the delivery of the feature.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "3d2408bc-d0ca-4ac9-b1b5-9d757305e3f5",
+        "Name": "Drives changes and contributes to task estimation frameworks to ensure alignment with project and business objectives",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Accurate task estimation is crucial for delivering projects on time, within budget, and meeting business objectives. This role involves driving changes and improvements to task estimation frameworks by analyzing current practices, identifying inefficiencies, and implementing more reliable and adaptable methodologies. These changes ensure estimates account for the complexity of requirements, technical constraints, and team capabilities. By aligning estimations with project and business goals, this role helps reduce risks, improve predictability, and build stakeholder trust. It focuses on establishing frameworks that balance technical precision with business practicality.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "3ee40b28-e00a-4d06-bb97-2f0413c6d9f5",
+        "Name": "Drives changes and contributes to strategies for proactive technical debt identification and resolution",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Technical debt, when unmanaged, can hinder a system’s scalability, maintainability, and performance. This role focuses on driving changes and implementing strategies to proactively identify and address technical debt. By enhancing processes for tracking, prioritizing, and resolving technical debt, the role ensures long-term stability and efficiency of systems while maintaining agility in project delivery. It involves working closely with stakeholders to align priorities, ensuring technical debt management is integrated into the development cycle, and fostering a culture where addressing technical debt is a proactive practice rather than a reactive necessity.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "afc962d3-e8a2-4d80-a991-3f6a1c367f8c",
+        "Name": "Aligns technical processes with team goals and drives their adoption across the team",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Technical processes define the efficiency and quality of team output. This role ensures technical processes are aligned with team goals, fostering consistency, collaboration, and high standards across the team. By analyzing existing workflows and identifying gaps, this role contributes to process improvements and ensures they are adopted team-wide. These changes enhance productivity, reduce errors, and provide clarity in responsibilities and expectations. This role also encourages team members to actively participate in refining processes, ensuring buy-in and continuous improvement.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "0ea4b3e0-2e5c-46b0-869c-737f8744e123",
+        "Name": "Enforces secure SDLC processes on technical and team levels to mitigate risks and align with compliance requirements",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Secure SDLC processes are critical to building applications that are both robust and secure. This role focuses on enforcing secure development practices at every stage of the SDLC, from requirements gathering to deployment. By identifying and mitigating security risks early, this role ensures that applications meet compliance requirements and protect sensitive data. It involves defining secure coding standards, integrating automated security checks into CI/CD pipelines, and fostering a security-first mindset within the development team. This role ensures that security is not an afterthought but a foundational aspect of the software development process.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "8f66591a-1770-47e8-beb8-cb1785e92549",
+        "Name": "Ensures technical processes alignment with organizational risk mitigation strategies through process adjustment",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Technical processes play a significant role in mitigating risks at both the project and organizational levels. This role ensures that all technical processes are aligned with the organization’s risk mitigation strategies. It involves evaluating processes to identify potential vulnerabilities, implementing safeguards to reduce risks, and aligning team practices with broader organizational objectives. This role contributes to building resilient systems that can withstand technical challenges and unforeseen issues while fostering a culture of proactive risk management within the team.</p>"
+      }
+    ]
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "JobLevelName": "Trainee Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b08a5577-9ccb-4245-b5a6-504b5d30599b",
+        "Name": "Pass onboarding and educational courses of Generative AI application and usage within the role on the project and company.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "d6fc1170-e040-47b0-b7a0-57a37ce92b0e",
+        "Name": "Pass training of secure and ethical Generative AI application within the project and company.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "042e9fbc-1c91-4392-bb2b-443227f2a194",
+        "Name": "Use default functionality, commands, and prompts suggested by Generative AI tools to create outcomes.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "409cb056-f5af-481a-b39e-a26a6f59acac",
+        "Name": "Configure adopted Generative AI tools to work on daily activities and tasks.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a7026fbe-676f-491b-8efe-752b6902fa4d",
+        "Name": "Uses Generative AI chat functionality to gain project and specialization knowledge and skills",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "88864e17-694a-4bd2-abae-bb9de5aca72b",
+        "Name": "Use Generative AI tools on daily basis, integrate AI functionalities in daily processes and tasks to create outcomes.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "09031515-bc8d-4c6d-a9aa-d2709fdebb91",
+        "Name": "Apply advanced prompting techniques to increase Generative AI efficiency for tasks with complex context to create outcomes (zero-shot, chain of thought etc.).",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "59807006-dc0d-419c-a58b-648c54255e11",
+        "Name": "Apply Generative AI prompting templates defined within the project to create outcomes.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "9b58c365-c19f-4a48-8e8d-ebf9ddbd2f7d",
+        "Name": "Actively engage with the Gen AI community by participating in events and courses. Share and promote Generative AI practices and use cases.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "6f667474-95d0-4e0b-9c5a-456fce08d7c8",
+        "Name": "Refine and tune prompts for specific tasks to improve accuracy and relevance, create prompting flows having right decomposition techniques to receive right answers from model.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "1b1c581d-6b56-4ee2-9f4d-6076906bd354",
+        "Name": "Apply advanced Generative AI prompting strategies to complex tasks to create outcomes.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7954fb76-0a34-46c6-931b-c1629631a80b",
+        "Name": "Design new prompting templates for tasks within the project to create outcomes.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "268b4cf1-369f-4fdb-b8e8-a298a30135e4",
+        "Name": "Discover and document new Generative AI use cases within the specialization.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "203fe728-b946-4e94-9a41-c402830acef4",
+        "Name": "Contribute to Generative AI expertise development within the company to extend corporate knowledge base.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "671458db-2240-4c94-836e-f493c0d91aca",
+        "Name": "Craft domain-specific prompts tailored to particular industries and use multiple AI models for various tasks.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "de1a6db4-72af-44b4-998b-8ad3d78427ff",
+        "Name": "Assess and document project activities towards Generative AI applicability and optimization.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "afe4d7cd-f229-418f-a7e5-c15ec5145d79",
+        "Name": "Assess and document project processes towards Generative AI applicability and optimization.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "f23a971f-40f5-4b67-936e-196c995bb245",
+        "Name": "Select and adopt engineering metrics to measure Generative AI efficiency on the project.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "e3866083-3089-4f85-b2c8-dbad61ea21cf",
+        "Name": "Select and adopt Generative AI use cases on the project to create outcomes according to defined practices.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "660e6175-0768-4912-a740-e0366af3af70",
+        "Name": "Assess and documents project scope and initiatives against custom Generative AI solutions applicability.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "6b917829-3020-4bed-af7f-01a935312100",
+        "Name": "Contribute to the Gen AI community by sharing insights through blog posts, talks, or webinars, collaborate on open-source projects, and experiment with cutting-edge techniques.",
+        "GradeId": "00000000-0000-0000-0000-000000000000"
+      }
+    ]
+  }
+]

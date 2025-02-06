@@ -1,0 +1,722 @@
+[
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/workspaces/index.html",
+            "EducationTime": 0,
+            "Id": "6ed9278e-80ad-4419-8b76-08dae8b13480",
+            "Name": "Amazon WorkSpaces Documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/cli/index.html",
+            "EducationTime": 0,
+            "Id": "d66d00f6-1b18-45ed-8b6c-08dae8b13480",
+            "Name": "AWS Command Line Interface Documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/cli/azure/",
+            "EducationTime": 0,
+            "Id": "6548adc7-b432-42a6-8b6e-08dae8b13480",
+            "Name": "Azure Command-Line Interface (CLI) documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://azure.microsoft.com/en-us/blog/azure-virtual-desktop-the-desktop-and-app-virtualization-platform-for-the-hybrid-workplace/",
+            "EducationTime": 0,
+            "Id": "8786bc2f-10f8-4ebd-8b78-08dae8b13480",
+            "Name": "Azure Virtual Desktop"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developers.google.com/workspace/guides/get-started",
+            "EducationTime": 0,
+            "Id": "6f8fab29-72f7-473c-8b72-08dae8b13480",
+            "Name": "Develop on Google Workspace"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloud.google.com/sdk/gcloud",
+            "EducationTime": 0,
+            "Id": "97f40b50-918d-42f2-8b70-08dae8b13480",
+            "Name": "gcloud CLI overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.learningjournal.guru/article/public-cloud-infrastructure/what-is-bastion-host-server/",
+            "EducationTime": 0,
+            "Id": "315e8682-5e9e-4749-8b74-08dae8b13480",
+            "Name": "What is Bastion Host"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "36b6ab0a-3a07-4ec9-81f9-1a9dda2a7aad",
+        "Name": "Accesses cloud environment for development and debugging",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Most web applications or parts of the application ecosystem are hosted in the cloud solution. Furthermore, to optimise the cost, simplify the access to the project infrastructures, and add an extra layer of security, even the development process is moving toward the cloud environments. To standardise access and reduce the number of issues and mistakes in the cloud's environment, the cloud providers, especially the big ones, provide specific CLI for the different products. If the solution is not suitable for the project or the cloud infrastructure, the community has multiple solutions and tools to solve this.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/dns/",
+            "EducationTime": 0,
+            "Id": "4da22474-7149-4edc-b83f-08d9dc1c28f3",
+            "Name": "Azure DNS"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/best-practices.html",
+            "EducationTime": 0,
+            "Id": "2200c30d-51a4-4807-eb5e-08db2538c7d1",
+            "Name": "Best practices for Amazon Route 53"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/traffic-policies.html",
+            "EducationTime": 0,
+            "Id": "6ed41608-3e51-480d-eb58-08db2538c7d1",
+            "Name": "Creating and managing traffic policies"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/monitoring-overview.html",
+            "EducationTime": 0,
+            "Id": "e377a8d2-be7d-4cc6-eb5c-08db2538c7d1",
+            "Name": "Monitoring Amazon Route 53"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developers.google.com/speed/public-dns/docs/using",
+            "EducationTime": 0,
+            "Id": "59150285-e04e-4f0c-eb54-08db2538c7d1",
+            "Name": "Public DNS"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Tutorials.html",
+            "EducationTime": 0,
+            "Id": "355e6694-ff80-40ab-eb52-08db2538c7d1",
+            "Name": "Route 53"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/security.html",
+            "EducationTime": 0,
+            "Id": "2c8d6ede-ddcf-4542-eb5a-08db2538c7d1",
+            "Name": "Security in Amazon Route 53"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.quora.com/Whats-the-difference-between-a-load-balancer-and-Amazons-Route-53-Arent-they-effectively-the-same-in-terms-of-functionality",
+            "EducationTime": 0,
+            "Id": "b80e3488-07fd-4d24-eb56-08db2538c7d1",
+            "Name": "The difference between Load Balancer and Route 53"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "21a79658-5203-4a0e-b528-10f7b12d09e3",
+        "Name": "Configures and manages router in a cloud",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Managing and configuring cloud-based routers involves the establishment and upkeep of a router within a cloud environment to direct network traffic accurately. Tasks include setting up routing protocols, establishing virtual private networks (VPNs), and crafting firewall rules to regulate access to the cloud network. The role of the router is to correctly direct network traffic, maintaining data security and privacy throughout the process.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-tutorials.html",
+            "EducationTime": 0,
+            "Id": "66f7e223-607b-45be-eb4c-08db2538c7d1",
+            "Name": "API Gateway"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-tutorials.html",
+            "EducationTime": 0,
+            "Id": "1f0dc965-ead8-4fbb-8120-08dbe4480a0a",
+            "Name": "API Gateway Amazon"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/api-management/",
+            "EducationTime": 0,
+            "Id": "d44c050b-1be1-4457-a592-08d89ee7232c",
+            "Name": "API Management"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/OAI/OpenAPI-Specification/blob/main/versions/2.0.md",
+            "EducationTime": 0,
+            "Id": "0075a7f5-09ea-4d9a-eb50-08db2538c7d1",
+            "Name": "OpenAPI Specification"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "e21ad2bb-b97a-463a-99a5-c50b5d5fb24e",
+        "Name": "Manages API in a cloud",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Managing cloud-based APIs refers to the processes of creating, configuring, deploying, and sustaining APIs within a cloud environment. These processes can encompass a variety of tasks, including the development and configuration of API endpoints, establishing authentication and authorization protocols, monitoring API usage and performance, as well as updating or scaling the API based on requirements. These APIs serve numerous clients, such as web and mobile applications, offering access to diverse services and data housed in the cloud.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html",
+            "EducationTime": 0,
+            "Id": "3c748ec7-ef52-4354-8b8c-08dae8b13480",
+            "Name": "Amazon SQS dead-letter queues"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about",
+            "EducationTime": 0,
+            "Id": "0b313963-7876-438d-8b92-08dae8b13480",
+            "Name": "Azure Event Hub"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview",
+            "EducationTime": 0,
+            "Id": "21ac2d47-ab1d-42b0-8b90-08dae8b13480",
+            "Name": "Azure Service Bus"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloud.google.com/tasks/docs/comp-pub-sub",
+            "EducationTime": 0,
+            "Id": "05af1ff3-e269-4e53-8b8a-08dae8b13480",
+            "Name": "Choose Cloud Tasks or Pub/Sub"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://aws.amazon.com/blogs/compute/processing-satellite-imagery-with-serverless-architecture/",
+            "EducationTime": 0,
+            "Id": "443a7eff-5aea-4ff1-8b8e-08dae8b13480",
+            "Name": "Data processing using Amazon SQS and Lambda"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html",
+            "EducationTime": 0,
+            "Id": "925d16c1-7142-49ee-8b84-08dae8b13480",
+            "Name": "What is Amazon Simple Queue Service?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/sns/latest/dg/welcome.html",
+            "EducationTime": 0,
+            "Id": "40a1aafa-d01c-4593-8b86-08dae8b13480",
+            "Name": "What is Amazon SNS?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction",
+            "EducationTime": 0,
+            "Id": "a75e90c0-8d04-4965-8b88-08dae8b13480",
+            "Name": "What is Azure Queue Storage?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "cdc1fa42-3ebd-41da-a1d6-aebaeca1e28d",
+        "Name": "Manages message queuing in a cloud",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">In modern development, the two most famous approaches to building the application are to use services or microservices to achieve more independent deployment and development. One of the common challenges in an especially microservice architecture is establishing communication between the small applications in the most simple and performing way. Luckily, the cloud providers have a bunch of ready-to-use solutions. The standard solution for such challenges is a message queue that provides asynchronous indirect communication between the services and removes direct dependencies between them. Examples of message queue solutions are AWS SQS, Azure Queue Storage, and Google Task.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/",
+            "EducationTime": 0,
+            "Id": "2a04dd36-d5da-4979-8b82-08dae8b13480",
+            "Name": "Amazon S3 + Amazon CloudFront: A Match Made in the Cloud"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://akbu.medium.com/aws-s3-vs-google-cloud-vs-azure-cloud-storage-performance-ea01afae9a6b",
+            "EducationTime": 0,
+            "Id": "e4d1bbaa-4fc0-48d7-8b7a-08dae8b13480",
+            "Name": "AWS S3 vs Google Cloud vs Azure: Cloud Storage Performance"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloud.google.com/storage/docs/discover-object-storage-console",
+            "EducationTime": 0,
+            "Id": "fa600eef-2c31-4de4-8b7e-08dae8b13480",
+            "Name": "Discover object storage with the Cloud console"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction",
+            "EducationTime": 0,
+            "Id": "bbba023e-48e8-4768-8b80-08dae8b13480",
+            "Name": "Introduction to Azure Blob storage"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+            "EducationTime": 0,
+            "Id": "ee72b8e6-deac-4687-8b7c-08dae8b13480",
+            "Name": "What is Amazon S3?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a11a0ae5-dfc3-4b83-96bc-be159e9bc7b8",
+        "Name": "Stores and syncs app data in a cloud",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Designing and implementing a system that enables an application to store its data in a cloud-based storage solution and synchronize that data across multiple devices is a complex software engineering task. This involves creating a backend infrastructure that supports cloud-based storage and synchronization, setting up servers, databases, content delivery networks (CDNs), and APIs that allow the application to interact with the cloud storage solution. The engineer also needs to create client-side code that integrates with the application and handles the synchronization of data between devices, including designing data models, developing algorithms for conflict resolution, and implementing a syncing mechanism that allows changes made on one device to be propagated to all other devices. Additionally, security considerations must be taken into account, such as implementing appropriate encryption and access control mechanisms to ensure that sensitive user data is protected. By leveraging CDNs, the system can efficiently distribute data across multiple regions, providing users with faster access to data and improving the overall user experience. There are a lot of cloud software services to provide this functionality in an easy, serverless, or no-code way.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/azure-sql/?view=azuresql",
+            "EducationTime": 0,
+            "Id": "02687def-00a1-4088-8122-08dbe4480a0a",
+            "Name": "Azure  documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/",
+            "EducationTime": 0,
+            "Id": "67b13535-1891-4631-8b9c-08dae8b13480",
+            "Name": "Azure Cache for Redis Documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/cosmos-db/sql/",
+            "EducationTime": 0,
+            "Id": "dd79db1d-499e-4372-8ba4-08dae8b13480",
+            "Name": "Azure Cosmos DB SQL API documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/azure-sql/?view=azuresql",
+            "EducationTime": 0,
+            "Id": "0af7c04e-3393-40bd-8b9a-08dae8b13480",
+            "Name": "Azure SQL documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/SelectEngine.html",
+            "EducationTime": 0,
+            "Id": "1e45c8a3-4d0a-4bc7-8b98-08dae8b13480",
+            "Name": "Comparing Memcached and Redis"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloud.google.com/memorystore/docs/redis/redis-overview",
+            "EducationTime": 0,
+            "Id": "854ba2c9-671c-48f1-8ba2-08dae8b13480",
+            "Name": "Overview of Memorystore for Redis"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloud.google.com/firestore/docs/quickstarts",
+            "EducationTime": 0,
+            "Id": "68968bca-0a72-4f43-8ba0-08dae8b13480",
+            "Name": "QuickStart Firestorm"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html",
+            "EducationTime": 0,
+            "Id": "878a0432-f042-4fe3-8b96-08dae8b13480",
+            "Name": "What Is Amazon DynamoDB?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+            "EducationTime": 0,
+            "Id": "754cb8df-32c5-4aa4-eb60-08db2538c7d1",
+            "Name": "What is Amazon Relational Database Service (Amazon RDS)?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloud.google.com/sql/docs/mysql/introduction",
+            "EducationTime": 0,
+            "Id": "b23e4ebb-fe49-4b36-eb62-08db2538c7d1",
+            "Name": "What is Cloud SQL?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "3cfaf98e-e0e1-47fc-989a-e6638c3244f8",
+        "Name": "Stores data in a cloud database",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Any application doesn't matter the size at some point in time, there will be need to store some permanent data to simplify the user experience. The information stored could be different from the small amount of just some tokens to simplify the login process to complete information about clients' personal information, preferences, and many more. Some pieces of the data could be stored in the client machines, however, such persistence is temporary and could be lost for the client quickly. Most commonly, the business wants to keep the information in the cloud database to enable the data's safety, scalability, and availability when required. Based on the requirement, the database and flexibility cloud providers provide ready-to-use solutions to use and interact with, starting from simple cache storage and ending up with fully functional relational and non-relational databases.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/container-registry/",
+            "EducationTime": 0,
+            "Id": "e284266b-07d1-476e-8bae-08dae8b13480",
+            "Name": "Azure Container Registry documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/aks/",
+            "EducationTime": 0,
+            "Id": "e62a9229-c09c-48bc-8bac-08dae8b13480",
+            "Name": "Azure Kubernetes Service"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloud.google.com/kubernetes-engine/docs",
+            "EducationTime": 0,
+            "Id": "a802c91e-5b99-4e71-8baa-08dae8b13480",
+            "Name": "Google Kubernetes Engine documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html",
+            "EducationTime": 0,
+            "Id": "e4cb648d-05bd-419c-eb64-08db2538c7d1",
+            "Name": "What is Amazon EKS?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html",
+            "EducationTime": 0,
+            "Id": "c0576239-e56e-422a-8ba6-08dae8b13480",
+            "Name": "What is Amazon Elastic Container Service?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "39f88d74-9935-45ff-80ae-9d3f6b7cf439",
+        "Name": "Configures containers for a cloud deployment",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The container-based solution such as Docker is trendy in modern software development, and it is easy to use, scale, and work in day-to-day work. Moreover, the solution is not limited to the local environment, and such containers could be deployed to the clouds to support the popular solution. The big cloud creates ready-to-use services that the application could use based on the business use cases, budget constraints, maintainability costs, and flexibility needed. However, even the fact that multiple solutions exist to deal with it, as with everything else to deploy and communicate with the containers, additional configuration is required from the developer's side. Examples of ready solutions are Amazon Elastic Container Service, Azure Container Instances, and Google Kubernetes Engine.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://phoenixnap.com/blog/helm-vs-terraform",
+            "EducationTime": 0,
+            "Id": "5ad5dba7-5190-465d-8bb4-08dae8b13480",
+            "Name": "Helm vs Terraform: What Are the Differences"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.pulumi.com/docs/intro/vs/terraform/",
+            "EducationTime": 0,
+            "Id": "078e67dd-410f-4c12-8bb2-08dae8b13480",
+            "Name": "Pulumi vs. Terraform"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.freecodecamp.org/news/what-is-infrastructure-as-code/",
+            "EducationTime": 0,
+            "Id": "026745e8-6038-4a7b-eb68-08db2538c7d1",
+            "Name": "What is Infrastructure as Code?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.terraform.io/intro",
+            "EducationTime": 0,
+            "Id": "7df6f9ac-8d39-45a7-eb66-08db2538c7d1",
+            "Name": "What is Terraform?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "8e0cc944-d128-4cc3-a9ed-6492df81bbd7",
+        "Name": "Manages and provisions infrastructure through code",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The cloud infrastructure is the core of your application, and although usually the initial configuration and majority of the maintenance are done by the DevOps team, it is not uncommon for developers to make minor adjustments to the infrastructure configuration to achieve the goals of the business. There are a few ways to adjust the configuration of infrastructure. The first is through the user interface and the second is through the code and solution such as Terraform or with a native or third-party solution built for the specific programming language. While UI is the most straightforward option, it could be unsuitable for the application under development. The common reasons are that not every cloud has a UI for specific tasks or tasks requiring a more detailed configuration that UI could not support. The reasons mentioned could force the team to start the configuration through the code instead of UI. Although the configuration of infrastructure brings the extra layer of complexity, it enables more deep configuration, with even the ability more simply migrate from the cloud to the cloud.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/app-service/",
+            "EducationTime": 0,
+            "Id": "2010ddc2-a119-4f7e-8bc4-08dae8b13480",
+            "Name": "Azure App Service"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/azure-functions/",
+            "EducationTime": 0,
+            "Id": "94c27e85-ca33-4663-8bbc-08dae8b13480",
+            "Name": "Azure Functions documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview",
+            "EducationTime": 0,
+            "Id": "ade1b3e9-3220-4dbc-8bc2-08dae8b13480",
+            "Name": "Azure Logic App"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.serverless.com/blog/node-rest-api-with-serverless-lambda-and-dynamodb",
+            "EducationTime": 0,
+            "Id": "491c0caf-0c20-40e1-8bc0-08dae8b13480",
+            "Name": "Building a REST API using Serverless Framework"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.serverless.com/framework/docs",
+            "EducationTime": 0,
+            "Id": "eceb4eb2-6c0a-4c3e-8bbe-08dae8b13480",
+            "Name": "Serverless Framework Documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://azure.microsoft.com/en-us/solutions/serverless/#solutions",
+            "EducationTime": 0,
+            "Id": "cece255d-a5cf-463b-8bc6-08dae8b13480",
+            "Name": "The Azure"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+            "EducationTime": 0,
+            "Id": "b99e9b42-fea6-4735-eb6a-08db2538c7d1",
+            "Name": "What is AWS Lambda?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloud.google.com/functions/docs/writing",
+            "EducationTime": 0,
+            "Id": "cdfc98bb-5352-4b18-8bba-08dae8b13480",
+            "Name": "Writing Cloud Functions"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "51af02a7-8903-46bd-b16e-cd522df1ed86",
+        "Name": "Uses solutions to build serverless applications",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Based on the application use cases, business priorities, and budget constraints there are multiple ways to deploy the application in the cloud. Whenever the application requires the environment to scale with as minimum maintenance and configuration as possible, budget is an important constraint and the flexibility of the configuration is not an issue for business needs, solution such as serverless services are the best option available on the market. The most common examples of such services are AWS Lambdas,&nbsp;Azure Function, and GCP&nbsp;</span><span style=\"color: rgb(0, 51, 102);\">Cloud Functions.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a8fe0f4c-32b6-4231-935d-6d5d1a28d078",
+        "Name": "Contributes to design and implementation of scalable cloud solutions",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Scalable cloud solutions are critical for ensuring applications can handle growing workloads efficiently without compromising performance or cost. This task involves contributing to the design and implementation of cloud architectures that support elasticity, reliability, and scalability. Engineers collaborate with architects and stakeholders to select suitable patterns, tools, and cloud-native services that fit the business requirements. The work may include implementing auto-scaling systems, optimizing resource usage, and designing multi-region or distributed architectures to enhance application resilience and performance.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7adfa8fe-42cd-4334-9fc1-08e9e7169456",
+        "Name": "Contributes to design and implementation of secures cloud infrastructure",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Security is a foundational aspect of cloud infrastructure, protecting sensitive data and systems from unauthorized access or breaches. This task involves designing and implementing secure cloud environments by leveraging best practices, such as role-based access control (RBAC), encryption standards, and secure network configurations. Engineers ensure compliance with industry regulations and integrate security tools to monitor and prevent vulnerabilities. Common activities include setting up secure virtual private clouds (VPCs), identity and access management (IAM) policies, and automated security audits to maintain robust and compliant infrastructure.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "fb552797-fdb6-4664-80d4-26621c47e657",
+        "Name": "Contributes to implementation of cloud governance frameworks",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Cloud governance frameworks establish standards and policies for the effective use of cloud resources across an organization. This task involves contributing to the creation and implementation of governance solutions that ensure consistency, cost optimization, and compliance. Engineers collaborate with teams to define resource tagging strategies, budget controls, and access policies. Additionally, they work on integrating monitoring tools to track compliance with governance policies and provide visibility into resource utilization. This ensures cloud environments remain scalable, secure, and aligned with business objectives.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "bcf59d5a-efcf-407f-a0de-c040c4af5339",
+        "Name": "Contributes to observability pipelines and infrastructure for cloud workloads",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Observability is essential for maintaining the performance and reliability of cloud-based applications. This task involves contributing to the development of pipelines and infrastructure for collecting, processing, and visualizing logs, metrics, and traces from cloud workloads. Engineers implement tools and frameworks to enable real-time monitoring, alerting, and root-cause analysis of issues. Typical activities include setting up centralized logging solutions, configuring distributed tracing systems, and integrating dashboards for performance monitoring. These observability solutions help teams proactively detect and resolve issues, ensuring a seamless user experience.</p>"
+      }
+    ]
+  }
+]

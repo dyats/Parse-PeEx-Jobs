@@ -1,0 +1,1010 @@
+[
+  {
+    "JobLevelName": "Trainee Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/tutorial/query-documents/",
+            "EducationTime": 0,
+            "Id": "0b2a67da-a236-4311-eaba-08db2538c7d1",
+            "Name": "Query Documents"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_and_or.asp",
+            "EducationTime": 0,
+            "Id": "716fd449-5429-43f6-eab8-08db2538c7d1",
+            "Name": "SQL AND, OR and NOT Operators"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_select.asp",
+            "EducationTime": 0,
+            "Id": "13d09b5c-0b17-40dc-eab7-08db2538c7d1",
+            "Name": "SQL SELECT Statement"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_where.asp",
+            "EducationTime": 0,
+            "Id": "1f1354da-ea9f-4101-eab9-08db2538c7d1",
+            "Name": "SQL WHERE Clause"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "bd56292f-9031-4e26-92a7-3397c69bc5b6",
+        "Name": "Selects data from a database using query language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Choosing specific data from one or more sources is a pivotal function when dealing with any type of database. While the process may seem straightforward, it's crucial that data retrieval operations are optimally designed so as not to impair the performance of the associated application. Rather than selecting all data from the database, which is far from the ideal solution, the data should be extracted in a manner that focuses exclusively on the information necessary to achieve the current business objectives. Databases facilitate this through the provision of a query language, which enables the selection and retrieval of data that aligns with the predefined criteria.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/method/db.collection.deleteMany/",
+            "EducationTime": 0,
+            "Id": "2a79f03d-3941-4398-eaf6-08db2538c7d1",
+            "Name": "db.collection.deleteMany()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/method/db.collection.deleteOne/",
+            "EducationTime": 0,
+            "Id": "9356a7dd-bd42-4aa9-eaf4-08db2538c7d1",
+            "Name": "db.collection.deleteOne()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/method/db.collection.drop/",
+            "EducationTime": 0,
+            "Id": "fdf25f0a-e497-43d6-eaea-08db2538c7d1",
+            "Name": "db.collection.drop()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/method/db.collection.insertMany/",
+            "EducationTime": 0,
+            "Id": "33a605cf-0255-4aa6-eaee-08db2538c7d1",
+            "Name": "db.collection.insertMany()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/method/db.collection.insertOne/",
+            "EducationTime": 0,
+            "Id": "24cef3a4-f49d-415f-eaec-08db2538c7d1",
+            "Name": "db.collection.insertOne()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/method/db.collection.updateMany/",
+            "EducationTime": 0,
+            "Id": "11be79d9-16b2-4d2d-eaf2-08db2538c7d1",
+            "Name": "db.collection.updateMany()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/method/db.collection.updateOne/",
+            "EducationTime": 0,
+            "Id": "045b3a1b-178e-4bae-eaf0-08db2538c7d1",
+            "Name": "db.collection.updateOne()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/method/db.createCollection/",
+            "EducationTime": 0,
+            "Id": "ad70232e-8f5e-4f67-eae8-08db2538c7d1",
+            "Name": "db.createCollection()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/sql/sql-alter-command.htm",
+            "EducationTime": 0,
+            "Id": "9d9b80a1-24a1-4667-eae0-08db2538c7d1",
+            "Name": "SQL - ALTER TABLE Command"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/sql/sql-create-table.htm",
+            "EducationTime": 0,
+            "Id": "47315dcc-bd17-45cb-eadc-08db2538c7d1",
+            "Name": "SQL - CREATE Table"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/sql/sql-delete-query.htm",
+            "EducationTime": 0,
+            "Id": "ea7a41cc-5f04-4cb5-eae6-08db2538c7d1",
+            "Name": "SQL - DELETE Query"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/sql/sql-drop-table.htm",
+            "EducationTime": 0,
+            "Id": "95c06511-c25b-416b-eade-08db2538c7d1",
+            "Name": "SQL - DROP or DELETE Table"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/sql/sql-insert-query.htm",
+            "EducationTime": 0,
+            "Id": "1245bd15-49db-4f39-eae2-08db2538c7d1",
+            "Name": "SQL - INSERT Query"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/sql/sql-update-query.htm",
+            "EducationTime": 0,
+            "Id": "74af4846-3296-4a9e-eae4-08db2538c7d1",
+            "Name": "SQL - UPDATE Query"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "267b4fb6-ce53-415c-8817-b438eb921020",
+        "Name": "Creates and modifies database objects",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">While operating with a database, businesses frequently require modifications to database objects. In the context of SQL databases, statements are primarily divided into two key categories: Data Definition Language (DDL) and Data Manipulation Language (DML). DDL statements are employed to construct and alter the structure of tables or other objects within a database, whereas DML statements are used to manipulate the data residing in these tables.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.devart.com/dbforge/sql/studio/sql-server-data-generator.html",
+            "EducationTime": 0,
+            "Id": "ca956dac-2dd9-4d53-eabe-08db2538c7d1",
+            "Name": "dbForge Studio for SQL Server"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://analystanswers.com/dummy-data-definition-example-how-to-generate-it/",
+            "EducationTime": 0,
+            "Id": "46e61e82-cf94-4345-eac4-08db2538c7d1",
+            "Name": "Dummy Data: Definition, Example & How to Generate It"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://generatedata.com/",
+            "EducationTime": 0,
+            "Id": "6af84ccc-624f-4a1a-eabc-08db2538c7d1",
+            "Name": "Generate test data. Quickly."
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/spaceship/how-we-made-our-staging-environment-useful-17ae9a891507",
+            "EducationTime": 0,
+            "Id": "8bd2d629-e6f0-45d8-eac0-08db2538c7d1",
+            "Name": "How we made our staging environment useful"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.lexjansen.com/pharmasug/2010/AD/AD24.pdf",
+            "EducationTime": 0,
+            "Id": "66d7bc87-666f-4ff3-eac2-08db2538c7d1",
+            "Name": "The Super Genius Guide to Generating Dummy Data"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "55c49e81-9ba3-4471-b3af-ee9af7f510a5",
+        "Name": "Generates dummy database data for testing and development purposes",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Setting up an effective staging environment necessitates data similar to that of the production environment. This task can be challenging if the necessary data hasn't been collected yet or if it's too sensitive to use. Therefore, the generation of dummy data for development and testing becomes crucial. The automation of this dummy data creation not only boosts the quality of the product but also improves the efficiency of the entire development process.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/operator/aggregation/group/",
+            "EducationTime": 0,
+            "Id": "6c61d4c4-eef5-461e-eaca-08db2538c7d1",
+            "Name": "$group (aggregation)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/operator/aggregation/sort/ ",
+            "EducationTime": 0,
+            "Id": "1b69282a-0a13-410e-eacc-08db2538c7d1",
+            "Name": "$sort (aggregation)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/v4.0/reference/method/db.collection.group/ ",
+            "EducationTime": 0,
+            "Id": "9e27ba35-fda9-449e-eace-08db2538c7d1",
+            "Name": "db.collection.group()"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_groupby.asp",
+            "EducationTime": 0,
+            "Id": "88af60f8-b730-4ff4-eac6-08db2538c7d1",
+            "Name": "SQL GROUP BY Statement"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_orderby.asp ",
+            "EducationTime": 0,
+            "Id": "3d59f7c4-f8c2-4a39-eac8-08db2538c7d1",
+            "Name": "SQL ORDER BY Keyword"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "d065e7b5-a8f9-4131-9387-fdd8b043ffc5",
+        "Name": "Orders and groups data from a database using query language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">To streamline operations on the information within the database, the query language offers capabilities to group, order, or sort data based on specific use cases. The use of ordering operators enables the fetching of data in either ascending or descending sequence, while grouping serves to streamline the consolidation of data with identical values into summarized structures.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/operator/aggregation/",
+            "EducationTime": 0,
+            "Id": "4c3c767c-bdee-4ab9-ead4-08db2538c7d1",
+            "Name": "Aggregation Pipeline Operators"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_count_avg_sum.asp ",
+            "EducationTime": 0,
+            "Id": "92f86774-7dbd-4042-ead2-08db2538c7d1",
+            "Name": "SQL COUNT(), AVG() and SUM() Functions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_min_max.asp",
+            "EducationTime": 0,
+            "Id": "4bbef848-dd9c-4bd5-ead0-08db2538c7d1",
+            "Name": "SQL MIN() and MAX() Functions"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "d1baa921-0373-4382-bb47-036e2d1ca069",
+        "Name": "Uses database data aggregation techniques to optimise data analysis",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The aggregation function is critical in facilitating and improving certain database operations. Often used alongside other queries, aggregation is key to producing efficient outcomes. For example, it might be employed during data grouping processes to create reports expediently or derive insights from the database in the most optimal way.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/reference/operator/aggregation/unionWith",
+            "EducationTime": 0,
+            "Id": "84d69bf4-5ecb-4837-eada-08db2538c7d1",
+            "Name": "$unionWith (aggregation)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_join.asp",
+            "EducationTime": 0,
+            "Id": "fd38212b-e61e-4850-ead8-08db2538c7d1",
+            "Name": "SQL - JOIN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/sql/sql-unions-clause.htm",
+            "EducationTime": 0,
+            "Id": "7847ad8b-3dd8-4f9b-ead6-08db2538c7d1",
+            "Name": "SQL - UNIONS CLAUSE"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "73f6dfa8-b78b-4257-887c-0a66f55c1cb0",
+        "Name": "Combines multiple queries to optimise query execution",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">In real-world business scenarios, there's often a need to merge result sets from multiple data sources for the purpose of data analysis or creating a new dataset. Given that queries might refer to different tables, this combination could result in duplicate entries. As such, it's crucial to determine when and in which use cases selective application should be used to remove duplicates if needed.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.integrate.io/blog/database-schema-examples/",
+            "EducationTime": 0,
+            "Id": "577414cc-bde7-4b08-eb18-08db2538c7d1",
+            "Name": "6 Database Schema Designs and How to Use Them"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.mongodb.com/developer/how-to/polymorphic-pattern/",
+            "EducationTime": 0,
+            "Id": "9182a415-ef78-43c7-eb1e-08db2538c7d1",
+            "Name": "Building With Patterns: The Computed Pattern"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/data-modeling/",
+            "EducationTime": 0,
+            "Id": "1205f0ea-856c-49b5-eb22-08db2538c7d1",
+            "Name": "Data Models"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.lucidchart.com/pages/database-diagram/database-design",
+            "EducationTime": 0,
+            "Id": "67fe74d7-bf04-4acb-eb16-08db2538c7d1",
+            "Name": "Database Structure and Design Tutorial"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.mongodb.com/developer/article/mongodb-schema-design-best-practices/",
+            "EducationTime": 0,
+            "Id": "c1f95f8c-c330-49e6-eb1a-08db2538c7d1",
+            "Name": "MongoDB Schema Design Best Practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.mongodb.com/developer/tag/schema-design/",
+            "EducationTime": 0,
+            "Id": "d28b88f1-36ab-4f25-eb1c-08db2538c7d1",
+            "Name": "Schema Design"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/realm/schemas/",
+            "EducationTime": 0,
+            "Id": "49e9100c-093e-4ae0-eb20-08db2538c7d1",
+            "Name": "Schemas"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "92a8b64a-0892-4bac-9894-60a2eeb1b652",
+        "Name": "Implements and modifies database structure",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Database architecture is a crucial phase preceding the actual creation of a database. This step involves the design and planning of how various database components will interrelate. A well-constructed database should uphold data precision and integrity, optimize space utilization by eliminating redundant data, and ensure secure access to the data. For enhanced visual representation of a database, its structure, and relationships, developers often utilize schema diagrams and corresponding generation tools.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cloudian.com/guides/data-protection/data-protection-and-privacy-12-ways-to-protect-user-data/",
+            "EducationTime": 0,
+            "Id": "c2008069-8d51-47e1-eb28-08db2538c7d1",
+            "Name": "Data Protection and Privacy: 12 Ways to Protect User Data"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "489ff50a-3893-4247-90cd-50f1fe130359",
+        "Name": "Implements database techniques to safeguard sensitive data",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">A critical facet of database security is ensuring that sensitive information, whether within or outside the database, is secured and encrypted during read or write operations. This often pertains to client-related data such as personal information, passwords, card numbers, and so forth. There are two primary strategies that can be applied. The first is data privacy, which essentially entails defining strategies and utilizing tools to restrict who can access the information, under what conditions, and in what quantities. The second strategy is data protection, which involves implementing methodologies to secure data during interaction with the database. A common example of this is the technique known as data encryption.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.sqlshack.com/sql-server-stored-procedures-for-beginners/",
+            "EducationTime": 0,
+            "Id": "a9af28e1-7ca7-4c80-eb26-08db2538c7d1",
+            "Name": "SQL Server stored procedures for beginners"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/sql/sql_stored_procedures.asp",
+            "EducationTime": 0,
+            "Id": "9bb9e6ea-f046-4e98-eb24-08db2538c7d1",
+            "Name": "SQL Stored Procedures for SQL Server"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "63230ffa-d75b-4669-bc01-064b5607280f",
+        "Name": "Uses stored procedures to enhance database operations, security, and performance",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The utilisation of stored procedures is a crucial practice for optimising queries, enhancing security, and boosting performance in database management. Stored procedures, which are precompiled SQL statements stored in the database, allow for complex operations to be executed with a single call. This reduces network traffic and improves overall performance by reducing the amount of information sent over the network. Furthermore, they encapsulate business logic directly within the database, isolating it from application-layer code. This not only enhances security by limiting direct data manipulation but also streamlines code maintenance. Stored procedures are paramount in achieving a more efficient, secure, and high-performing database environment.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/sql/sql-transactions.htm",
+            "EducationTime": 0,
+            "Id": "b488be6a-4975-4c1c-eb2a-08db2538c7d1",
+            "Name": "SQL - Transactions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/sql-transactions/",
+            "EducationTime": 0,
+            "Id": "d6a89aa0-7577-4bfc-eb2c-08db2538c7d1",
+            "Name": "SQL | TRANSACTIONS"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/core/transactions/",
+            "EducationTime": 0,
+            "Id": "00c1c8a8-98da-49fc-eb2e-08db2538c7d1",
+            "Name": "Transactions"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "6515ef07-3c97-47d7-b6f5-591b1a63beb5",
+        "Name": "Wraps queries into transactions to ensure data consistency and integrity",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p>A transaction is a unit of work within a database that conducts single or multiple activities, potentially resulting in one or more modifications to the database - such as creating, updating, or deleting a record from a table. The primary purpose of transactions is to maintain data integrity and manage database errors. Should any errors transpire during the transaction execution, all modifications would be reverted, ensuring the prevention of database corruption.</p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.securecoding.com/blog/7-ways-to-enhance-database-security/",
+            "EducationTime": 0,
+            "Id": "ae84cfa0-a2f1-4a78-eb30-08db2538c7d1",
+            "Name": "7 Ways to Enhance Database Security"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver15",
+            "EducationTime": 11,
+            "Id": "05b26274-3b91-42c6-3b3d-08da4237636b",
+            "Name": "SQL Injection"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "0cfd564e-0669-4009-8cfd-937846cd6aa9",
+        "Name": "Applies security techniques and methodologies for database",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Database security is a significant concern in application development. Any weakness in the database layer could potentially lead to sensitive client data corruption, or in more severe cases, data leakage or the corruption of crucial information. The safeguarding of a database encompasses a range of best practices, methodologies, tools, and monitoring measures devised to uphold database security, data integrity, and availability. Data security should not only involve protective measures at the point of information storage but should also be factored in during the design stage. Additionally, once the data has been persisted in the database, ongoing monitoring is essential.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://optimizdba.com/optimizdba-database-optimization/",
+            "EducationTime": 0,
+            "Id": "d812f750-3384-4252-eb34-08db2538c7d1",
+            "Name": "3 Simple Techniques to Get Started With Database Optimization"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/core/data-model-design",
+            "EducationTime": 0,
+            "Id": "1199c7ba-2af3-4697-eb36-08db2538c7d1",
+            "Name": "Data Model Design"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/replication/",
+            "EducationTime": 0,
+            "Id": "9e5611ec-df27-4702-eb3a-08db2538c7d1",
+            "Name": "Replications"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/sharding/",
+            "EducationTime": 0,
+            "Id": "698876c2-3872-4a0b-eb38-08db2538c7d1",
+            "Name": "Sharding"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "5f5a892b-b0c6-4629-9375-9a1f6c6e3831",
+        "Name": "Applies technics for database optimisation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Database optimization refers to the process of examining the various elements of a database and adjusting them to enhance database performance. As data volume expands over time, it could potentially impact the efficiency of interaction with the database, causing queries to execute sluggishly, storage usage to escalate rapidly, or even exceed capacity limits. Database optimization encompasses the monitoring, analysis, and optimization of queries, evaluation of the database schema, as well as monitoring of load and storage usage.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://linuxize.com/post/how-to-back-up-and-restore-mysql-databases-with-mysqldump/",
+            "EducationTime": 0,
+            "Id": "02165ba5-d6a5-4945-eaf8-08db2538c7d1",
+            "Name": "How to Back Up and Restore MySQL Databases with Mysqldump"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/database-tools/mongodump/",
+            "EducationTime": 0,
+            "Id": "6de750e0-fe76-42f3-eb00-08db2538c7d1",
+            "Name": "mongodump"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/database-tools/mongorestore/",
+            "EducationTime": 0,
+            "Id": "069ce3e9-3968-43eb-eafe-08db2538c7d1",
+            "Name": "mongorestore"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html",
+            "EducationTime": 0,
+            "Id": "8e453fca-1ad4-455e-eafa-08db2538c7d1",
+            "Name": "mysqldump — A Database Backup Program"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.sqlshack.com/understanding-sql-server-backup-types/",
+            "EducationTime": 0,
+            "Id": "6ae0ca28-d662-408b-eafc-08db2538c7d1",
+            "Name": "Understanding SQL Server Backup Types"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2db8914b-27b6-45e7-a60b-eb3b88db180d",
+        "Name": "Creates and uses database dumps for data backup, exploration, and migration purposes",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">A database dump represents an export of data from the database, typically manifested as a dump file. This process is primarily employed for tasks such as creating backups, duplicating, or generating test data from the database. There are numerous methods to generate a database dump, which can vary based on the type of database and specific business requirements. These methods range from simple built-in command-line interfaces (CLIs) and commands to various user interfaces, libraries, or utility tools for the database, which can facilitate a faster, simpler, and more secure data export and import process.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://dev.mysql.com/doc/workbench/en/wb-documenting-sakila.html",
+            "EducationTime": 0,
+            "Id": "e980755c-c33b-4dcc-eb3e-08db2538c7d1",
+            "Name": "Documenting the sakila Database"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://dataedo.com/tutorials/how-to-create-er-diagram-for-mongodb",
+            "EducationTime": 0,
+            "Id": "7454efc6-ce12-4caf-eb40-08db2538c7d1",
+            "Name": "How to Create an ER Diagram for MongoDB"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.apexsql.com/sql-tools-doc.aspx",
+            "EducationTime": 0,
+            "Id": "e3a01f7f-726a-417c-eb3c-08db2538c7d1",
+            "Name": "SQL Database documentation tool"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "27db94ca-4bd7-4e59-bfad-29b84dd6cc76",
+        "Name": "Documents information about a database using specialised tools",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Documentation in software development plays a pivotal role, especially when considering application scalability, business expansion, and the hiring and onboarding of new team members. The absence of thorough documentation can lead to significant costs and time waste due to unnecessary meetings and reverse engineering efforts. Database documentation aims to offer an accessible view of information such as table schemas, database relationships, and data types. To economize time and cost, this data collection is typically automated using a range of utilities, libraries, or even pre-built solutions offered by various vendors. The resultant documentation aids in enhancing understanding, improving productivity, and facilitating smoother transitions for new team members.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://kafka.js.org/docs/introduction",
+            "EducationTime": 0,
+            "Id": "76e814ec-a311-4ede-eb04-08db2538c7d1",
+            "Name": "A Brief Intro to Kafka"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://blog.logrocket.com/kafka-vs-rabbitmq-comparing-node-js-message-brokers/",
+            "EducationTime": 0,
+            "Id": "f28c0146-4b9b-4bba-eb06-08db2538c7d1",
+            "Name": "Kafka vs. RabbitMQ: Comparing Node.js message brokers"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html",
+            "EducationTime": 0,
+            "Id": "6c97988b-42d1-49d4-eb02-08db2538c7d1",
+            "Name": "RabbitMQ tutorial"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "80af5491-731c-4838-9f1e-e7e6f56ef267",
+        "Name": "Establishes communication across applications via message brokers and message queues",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>A message broker is a software component that acts as an intermediary for passing messages between applications. It can route, buffer, and persist messages, as well as perform other message-related tasks. A message queue is a mechanism for storing messages that are sent between applications or systems so that they can be processed at a later time. A message broker uses message queues to allow different applications or services to communicate with each other asynchronously.</p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.rabbitmq.com/semantics.html",
+            "EducationTime": 0,
+            "Id": "ed2640af-8e70-4a97-eb0e-08db2538c7d1",
+            "Name": "Broker Semantics - RabbitMQ"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://kafka.js.org/docs/configuration",
+            "EducationTime": 0,
+            "Id": "5269ca40-2e22-4a9b-eb0a-08db2538c7d1",
+            "Name": "Client Configuration - KafkaJS"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/codait/handling-failure-successfully-in-rabbitmq-22ffa982b60f",
+            "EducationTime": 0,
+            "Id": "e863b30d-0738-4435-eb12-08db2538c7d1",
+            "Name": "Handling Failure Successfully in RabbitMQ"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://engineering.nanit.com/rabbitmq-retries-the-full-story-ca4cc6c5b493",
+            "EducationTime": 0,
+            "Id": "4eee0f58-58fa-4812-eb14-08db2538c7d1",
+            "Name": "RabbitMQ Retries — The Full Story"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.rabbitmq.com/reliability.html",
+            "EducationTime": 0,
+            "Id": "7021ddd1-632a-4694-eb10-08db2538c7d1",
+            "Name": "Reliability Guide - RabbitMQ"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://kafka.js.org/docs/retry-detailed",
+            "EducationTime": 0,
+            "Id": "a367215d-abbd-44ce-eb0c-08db2538c7d1",
+            "Name": "Retry Mechanism Explained - KafkaJS"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://kafka.js.org/docs/transactions",
+            "EducationTime": 0,
+            "Id": "0ad005ff-ed26-4b2d-eb08-08db2538c7d1",
+            "Name": "Transactions - KafkaJS"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2bf7f63a-c494-41dd-b06b-33b0563d5c3c",
+        "Name": "Handles data integrity in message broker",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>There are multiple ways to ensure data integrity by using message brokers. It could be achieved by using transactions, defining error-handling mechanisms, and using retry procedures. Error-checking methods and validation procedures are typically relied on to ensure the integrity of transferred data, and a retry mechanism is carried out for handling errors with defined strategies.</p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/data-access-object-pattern/",
+            "EducationTime": 0,
+            "Id": "705ff012-584c-4415-eb4a-08db2538c7d1",
+            "Name": "Data Access Object Pattern"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/mastering-software-engineering/data-access-patterns-the-features-of-the-main-data-access-patterns-applied-in-software-industry-6eff86906b4e",
+            "EducationTime": 0,
+            "Id": "a0ada0f2-671b-4030-eb48-08db2538c7d1",
+            "Name": "Data Access Patterns: The Features of the Main Data Access Patterns Applied in Software Industry"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "d1bc975f-5f5a-474c-97fa-17b5eead7dcc",
+        "Name": "Optimises data access through patterns and methodologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Data access optimization is a critical task that employs robust patterns and methodologies, such as Active Record, Data Access Object (DAO), and Repository pattern, among others, to enhance the efficiency of data retrieval and manipulation. The Active Record pattern encapsulates a row in a database table as an object, simplifying programming by offering direct, object-oriented access to data and CRUD (Create, Read, Update, Delete) operations. The DAO pattern, on the other hand, abstracts and separates low-level data access operations from high-level business services, offering a simpler API for database interactions and concealing the complexities of direct database interactions. The Repository pattern further enhances data access by providing a more abstract and business-oriented view of the data source, facilitating data operations without exposing details of the database. Through the implementation of these patterns, the process of data access is made more intuitive, efficient, and less prone to errors, thereby optimizing overall application performance.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.analyticsvidhya.com/blog/2021/10/a-detailed-guide-on-sql-query-optimization/",
+            "EducationTime": 0,
+            "Id": "b113f851-6d69-4d27-eb42-08db2538c7d1",
+            "Name": "A Detailed Guide on SQL Query Optimization"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.mongodb.com/manual/tutorial/optimize-query-performance-with-indexes-and-projections/",
+            "EducationTime": 0,
+            "Id": "007d5814-db63-49ad-eb46-08db2538c7d1",
+            "Name": "Optimize Query Performance"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://blog.quest.com/sql-server-execution-plan-what-is-it-and-how-does-it-help-with-performance-problems",
+            "EducationTime": 0,
+            "Id": "63310486-9ccd-45b9-eb44-08db2538c7d1",
+            "Name": "SQL Server execution plan — what is it and how does it help with performance problems?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "60150da9-6c68-4e94-a680-0f1ff140e9aa",
+        "Name": "Optimises query performance using query techniques and methodologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Leveraging a database for data storage involves using a query language to interface with and draw out valuable information. As the data volume increases, leading to greater complexity in the database, the need for query optimization becomes a high priority for efficient data handling. The aim of query optimization is to devise strategies that minimize query response time, prevent undue resource usage, and detect poor query performance.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "61ac5c45-f943-4ba5-a271-1ec14270d326",
+        "Name": "Contributes to database security strategies to meet compliance and regulatory standards",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Database security strategies aim to protect sensitive data from unauthorized access, breaches, or corruption. This involves implementing encryption, authentication, and access control measures while ensuring compliance with regulatory standards such as GDPR, HIPAA, or PCI DSS. By addressing vulnerabilities and enforcing security protocols, organizations safeguard data integrity and maintain customer trust, even as their systems scale or become more complex.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "9439b4b4-062c-47fb-a35e-728ac15acf5e",
+        "Name": "Contributes to data synchronization strategies design across multiple data stores, including relational and NoSQL systems",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Data synchronization ensures consistency and reliability across distributed databases, enabling seamless access to accurate information from multiple sources. This job involves creating strategies to synchronize relational and NoSQL systems, addressing challenges such as latency, data conflicts, and scalability. Proper synchronization supports real-time analytics, backup processes, and multi-region deployments, ensuring business-critical data is always up to date and accessible.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "89afce51-25d5-4b92-9aa5-9a22296dabc3",
+        "Name": "Optimizes data flow in high-throughput environments using message queue patterns and methodologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Message queues facilitate efficient data transfer between applications in high-throughput environments. Optimizing data flow involves selecting appropriate patterns and methodologies, such as topic-based routing, load balancing, or rate limiting. This ensures minimal latency, reduced processing bottlenecks, and system reliability, even under heavy loads. Proper optimization enhances the performance and resilience of distributed systems, supporting dynamic business operations.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "94db502e-ec17-4446-87a8-d079dd106e8a",
+        "Name": "Contributes to disaster recovery strategies, including automated backups and failover mechanisms",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Disaster recovery strategies minimize downtime and data loss during system failures or outages. This job involves designing automated backup processes, ensuring frequent and reliable data copies are available for restoration. Failover mechanisms redirect traffic to alternative systems in case of disruptions, ensuring uninterrupted operations. These strategies are essential for maintaining business continuity and protecting critical systems from unexpected failures.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2a895cf5-487e-4b3c-97c5-ec81429a627f",
+        "Name": "Solves performance bottlenecks in distributed database systems through profiling and optimization techniques",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Distributed database systems can face performance bottlenecks due to inefficient queries, poor indexing, or high resource contention. Profiling identifies root causes by analyzing query execution plans, resource usage, and data access patterns. Optimization techniques such as index tuning, partitioning, or caching improve system responsiveness and scalability. Addressing these challenges ensures high performance and supports the demands of complex, large-scale applications.</p>"
+      }
+    ]
+  }
+]

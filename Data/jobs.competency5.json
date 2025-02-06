@@ -1,0 +1,660 @@
+﻿[
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.browserstack.com/guide/tdd-vs-bdd-vs-atdd",
+            "EducationTime": 0,
+            "Id": "27a50058-7e84-418d-8a20-08dae8b13480",
+            "Name": "BDD vs TDD vs ATDD : Key Differences"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ed49166f-8c6e-4322-8208-57d4a2d824e9",
+        "Name": "Applies community-recommended practices and methodologies for automated testing",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Automation testing is a process that ensures that the developed functionality is working as expected and gives solid ground for the next developing cycle whether or not the same team continues working on functionality or another team picks it up. Simply creating the tests and not thinking about the distant future, not working on readability for non-technical people or writing it after the functionality is finished could work for some time in the application lifecycle; however, as the application starts to grow, the amount of new features increases the need to plan not only the source code upfront but the tests itself is crucial for the speed and quality of the future functionality. The most common community recommendation is Test-driven development(TDD), behavioural-driven development(BDD) and acceptance test-driven development(ATDD).</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Optimises automation testing using best practices and methodology(e.g. TDD)</li><li>Uses approaches and methodology to create human-readable tests(e.g. BDD)</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>Difference between TDD, BDD and ATDD and when to apply each.</li><li>How TDD would affect the quality of the future deliverables</li><li>How to create tests that are readable for non-technical people.</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.nunit.org/articles/nunit/writing-tests/attributes/category.html",
+            "EducationTime": 0,
+            "Id": "cfb746ac-4b8f-451b-82b6-08dbe4480a0a",
+            "Name": "Categorizing unit tests: NUnit:"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://hamidmosalla.com/2020/03/01/xunit-part-7-categorizing-tests-with-xunit-trait/",
+            "EducationTime": 0,
+            "Id": "a07b4987-2484-40ae-82b8-08dbe4480a0a",
+            "Name": "Categorizing unit tests: XUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/tutorials/testing-with-cli",
+            "EducationTime": 0,
+            "Id": "48080415-da63-46de-82ae-08dbe4480a0a",
+            "Name": "Organizing and testing projects"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.nunit.org/articles/nunit/technical-notes/usage/Parameterized-Tests.html",
+            "EducationTime": 0,
+            "Id": "f494056b-a836-45cd-82b2-08dbe4480a0a",
+            "Name": "Parameterized Tests - NUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://xunit.net/docs/getting-started/netcore/cmdline",
+            "EducationTime": 0,
+            "Id": "b69b33e0-62ab-4605-82b4-08dbe4480a0a",
+            "Name": "Parameterized Tests - XUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.nunit.org/articles/nunit/writing-tests/TestContext.html",
+            "EducationTime": 0,
+            "Id": "23bcb3ed-11c2-4d0d-82ba-08dbe4480a0a",
+            "Name": "Shared context: NUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://xunit.net/docs/shared-context",
+            "EducationTime": 0,
+            "Id": "6a80d9f3-541f-46ea-82bc-08dbe4480a0a",
+            "Name": "Shared context: XUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/testing/",
+            "EducationTime": 0,
+            "Id": "6aae1c83-d484-479f-82b0-08dbe4480a0a",
+            "Name": "Testing in .NET"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "4b1af730-d6ea-451a-8996-ac289654a03d",
+        "Name": "Structures tests using framework capabilities",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Maintainability and readability are vital attributes when writing tests. Test frameworks and libraries allow creating a block for groping several tests. Such grouping provides multiple benefits, first of all, it's more structured and readable tests in terms of hierarchy, and secondly, reducing the duplication of some work by moving parts of code that need to be executed in each test to the framework's helpers that hook into the test or test group lifecycle.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses attributes for grouping tests logically</li><li>Uses framework capabilities for running any jobs before and after test</li><li>Uses parameterized tests</li><li>Uses shared context between tests</li><li>Uses execution options to run a group of tests</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What are a test case and test suite?</li><li>How to share data between tests?</li><li>How to use before and after test hooks and what problems do they solve?</li><li>How to run a limited set of tests via the command line?</li><li>How to assign a group or a scope for a test?</li><li>How to skip test execution?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://en.wikipedia.org/wiki/Assertion_(software_development)",
+            "EducationTime": 0,
+            "Id": "d673b6f3-a095-45ba-82aa-08dbe4480a0a",
+            "Name": "Assertion (software development)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://xunit.net/docs/comparisons",
+            "EducationTime": 0,
+            "Id": "63351d28-ac2d-4ed0-82a6-08dbe4480a0a",
+            "Name": "Comparing xUnit to other frameworks"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.nunit.org/articles/nunit/writing-tests/assertions/assertion-models/classic.html",
+            "EducationTime": 0,
+            "Id": "df95f0cd-b9fa-4cd5-82ac-08dbe4480a0a",
+            "Name": "Constraint Model (Assert.That)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/visualstudio/test/using-the-assert-classes?view=vs-2022",
+            "EducationTime": 0,
+            "Id": "d8cae7c0-31c1-4d53-82a8-08dbe4480a0a",
+            "Name": "Use Assert classes for unit testing"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "9e3d84c8-4ea5-47b8-a10d-40b1e22ab890",
+        "Name": "Uses assertions to validate test outcomes",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">When creating a unit test, the goal is to check if the built functionality behaves in a stable and expected way. There are many use cases developers would want to check, for example, UI components rendering specific elements, the calculation working as expected, the condition returning the correct boolean value, and so many more. Many ready-to-use solutions could be applied to ensure a cleaner and more readable test for the various data types for the different use cases.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses specific overloads of asserts to verify expected outcomes instead of generic Assert.Equals e.g., IsTrue(x) vs Equals(true, x)</li><li><span style=\"color: rgb(0, 0, 0);\">Uses corresponding asserts to verify exceptional behavior e.g. Assert.Throws</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses collections-specific asserts when verifying collection data e.g., Assert.Contains</span></li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li><span style=\"color: rgb(0, 0, 0);\">What are matchers (assertions) and what data types they can check?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What exceptions do matchers provide?</span></li><li><span style=\"color: rgb(0, 0, 0);\">How to create custom assertion?</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.imperva.com/learn/data-security/data-masking/",
+            "EducationTime": 0,
+            "Id": "74ea33a1-d71f-414b-82a2-08dbe4480a0a",
+            "Name": ".Net - Data masking"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/AutoFixture/AutoFixture",
+            "EducationTime": 0,
+            "Id": "121b683e-ca16-463d-4f36-08d7f177ea83",
+            "Name": "AutoFixture"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/bchavez/Bogus",
+            "EducationTime": 0,
+            "Id": "d5bea14c-9ecc-4ff4-82a4-08dbe4480a0a",
+            "Name": "Bogus"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "31be5a6c-abd6-43ee-a448-e623a0084f04",
+        "Name": "Uses dummy data for testing",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">In some cases, while writing tests or even developing a solution, the developer must not simply ignore some part of the functionality but test it with some input. However, a variety of reasons stoping the developer from using actual data, for instance, the reason such as API is simply not available or ready, and it's generally not a good idea to use production data in the tests. For such challenges, various tools, approaches, libraries and even whole dummy API simplify such process.</span></p><p><br></p><p><strong style=\"color: rgb(23, 43, 77);\"><span class=\"ql-cursor\">﻿</span></strong><strong>Skills</strong></p><ul><li>Uses dummy data and fixtures to represent input and output test data</li><li>Uses data generators to create fake data</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li><span style=\"color: rgb(32, 33, 36);\">How to organize fake data, when should it create, how to share it between tests?</span></li><li><span style=\"color: rgb(32, 33, 36);\">How to determine what kind of fake data your tests need?</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/@tasdikrahman/f-i-r-s-t-principles-of-testing-1a497acda8d6",
+            "EducationTime": 0,
+            "Id": "6103c164-f199-4562-454f-08dbbf59defb",
+            "Name": "F.I.R.S.T principles of testing"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/software-engineering-seven-principles-of-software-testing/?ref=lbp",
+            "EducationTime": 0,
+            "Id": "daf8c276-a863-4a1b-4557-08dbbf59defb",
+            "Name": "Seven Principles of software testing"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialspoint.com/software_testing_dictionary/unit_testing.htm",
+            "EducationTime": 0,
+            "Id": "f2d680ff-f15f-424d-454d-08dbbf59defb",
+            "Name": "Software Testing Dictionary"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/software-testing-techniques/",
+            "EducationTime": 0,
+            "Id": "5d08bdaf-1d07-4167-4555-08dbbf59defb",
+            "Name": "Software Testing Techniques"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.softwaretestinghelp.com/software-testing-techniques-2/",
+            "EducationTime": 0,
+            "Id": "1a89682b-3b0c-48bb-4551-08dbbf59defb",
+            "Name": "Software Testing Techniques with Examples"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "http://www.softwaretestingstuff.com/2010/09/unit-testing-best-practices-techniques.html",
+            "EducationTime": 0,
+            "Id": "25c557a4-da68-4bc5-4553-08dbbf59defb",
+            "Name": "Unit Testing - Best Practices & Techniques"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.xenonstack.com/insights/what-is-unit-testing",
+            "EducationTime": 0,
+            "Id": "c28c02e1-d82f-4cc7-4ab6-08d7f177ea83",
+            "Name": "Unit Testing Techniques and Best Practices"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "8d17698d-3c57-4b33-b67f-fd1caa8dab3c",
+        "Name": "Validates individual components of software in isolation by using unit tests",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Unit tests are typically automated tests written and run by software developers to ensure that an application unit meets its design and behaves as intended. Unit testing is a type of testing that focuses on testing individual units independently from other parts of an application. Unit tests help maintain and safely change existing functionality, improving the quality of a product by finding issues in a very early phase.&nbsp;</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Creates code to test unit or function that are based on input and output data</li><li>Creates&nbsp;code to test user interface component</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">What are Black-, White- and Gray-box testing?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What are Regression and Smoke testing, when they are used?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What are Static and Dynamic testing approaches, when they're applied?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Different unit test techniques overview, what problems do they solve(e.g.&nbsp;User Story Testing, Statement Coverage,&nbsp;Use Case Testing)&nbsp;</span></li><li>What is the difference between component and unit testing?</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2007/september/unit-testing-exploring-the-continuum-of-test-doubles",
+            "EducationTime": 0,
+            "Id": "0c6a0ecc-f91a-4cd9-82c0-08dbe4480a0a",
+            "Name": "Exploring The Continuum Of Test Doubles"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.telerik.com/blogs/mocking-best-practices",
+            "EducationTime": 0,
+            "Id": "9ce67bd6-9a55-4ec0-82c2-08dbe4480a0a",
+            "Name": "Mocking Best Practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://martinfowler.com/bliki/TestDouble.html",
+            "EducationTime": 0,
+            "Id": "2332f4b4-21f8-414a-82be-08dbe4480a0a",
+            "Name": "TestDouble"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "f366bc55-6a12-46d7-b0a7-bd92ce88385d",
+        "Name": "Isolates the system under test from external dependencies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">In many cases, when composing tests, they should be decoupled from their dependencies. The most popular use cases are, for example, some part of code hasn't been written, there is no proper context, or the test should be focused only on selected units without interaction with external modules. Using fakes, stubs, or mocks allows using objects that have similar interfaces and behavior but without actual implementation under the hood.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses dummy data and fixtures to represent input and output test data</li><li>Uses framework or library capabilities for mocking external properties</li><li>Uses mock for functions, classes, properties, and modules to decouple from dependencies</li><li>Uses data generators to create fake data</li><li>Sets up pre-conditions using mocked objects</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li><span style=\"color: rgb(32, 33, 36);\">How to determine what kind of fake data your tests need?</span></li><li><span style=\"color: rgb(32, 33, 36);\">What is the difference between dummy data, fixtures, stubs, mocks, test doubles, spies?</span></li><li><span style=\"color: rgb(32, 33, 36);\">What kind of object should be mocked?</span></li><li><span style=\"color: rgb(32, 33, 36);\">How to organize fake data, when should it create, how to share it between tests?</span></li><li><span style=\"color: rgb(32, 33, 36);\">How to mock private methods and final classes?</span></li><li><span style=\"color: rgb(32, 33, 36);\">What services do you know that allow generating fake data?</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://methodpoet.com/integration-test-best-practices/",
+            "EducationTime": 0,
+            "Id": "719df9df-95df-4c7a-82c6-08dbe4480a0a",
+            "Name": "5 Qualities Your Best Integration Tests Should Have"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.guru99.com/integration-testing.html",
+            "EducationTime": 0,
+            "Id": "5822fd7c-5f3d-4c0d-8a55-08dae8b13480",
+            "Name": "Integration Testing: What is, Types with Example"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/software-engineering-integration-testing/",
+            "EducationTime": 0,
+            "Id": "64e67b64-1a09-445a-82c4-08dbe4480a0a",
+            "Name": "Software Engineering | Integration Testing"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://syrett.blog/the-dos-and-donts-of-integration-testing/",
+            "EducationTime": 0,
+            "Id": "661b8aa5-862a-41a5-82c8-08dbe4480a0a",
+            "Name": "The do’s and don’ts of integration testing"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b86fdd5a-8add-43b5-ae7c-d1ca90b0fd75",
+        "Name": "Validates the proper interaction and functionality of components with integration tests",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Integration testing is a process of testing multiple modules together and the communication between themes. This type of testing aims to verify interaction and correct behavior between various components. Various integration test strategies with pros and cons could be applied for different test case scenarios, for example, approaches like the big bang, incremental, top-down, bottom-up, and sandwich.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Creates code to test interfaces between modules</li><li>Uses different approaches for writing integration tests</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li><span class=\"ql-cursor\">﻿</span>What is the difference between integration and unit testing?</li><li>What problems does integration testing solve?</li><li><span style=\"color: rgb(0, 0, 0);\">What are the main guidelines for integration testing?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Why do we need positive and negative integration testing?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What are Top-Down, Bottom-Up and Sandwich approaches?</span></li><li>How to figure out what test level do you need?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://dredd.org/en/latest/index.html",
+            "EducationTime": 0,
+            "Id": "992c7186-aeb1-4cdd-456b-08dbbf59defb",
+            "Name": "Dredd  documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.pact.io/",
+            "EducationTime": 0,
+            "Id": "618150b7-f01a-44e7-4569-08dbbf59defb",
+            "Name": "Pact  documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://spring.io/projects/spring-cloud-contract",
+            "EducationTime": 0,
+            "Id": "637d48f0-7295-42a6-eab6-08db2538c7d1",
+            "Name": "Spring Cloud Contract documentation"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ec4633aa-c955-4f67-93f4-db066695c596",
+        "Name": "Verifies pre-defined agreements between components using contract tests",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(55, 65, 81);\">Contract testing plays an important role in the software development process, as they help ensure that different software components and systems can communicate and interact with each other correctly and that the APIs' functionality, reliability, and security are maintained.&nbsp;Contract testing is a method to ensure that different systems or components that interact with each other via APIs comply with the agreed-upon contract or API specification. This testing involves testing the interactions between the API's in isolation, without needing the systems that depend on each other.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Setups contract testing environment</li><li>Creates code to test contracts between services/APIs</li><li>Uses different approaches for writing contract tests</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li>What is the difference between integration and contract testing?</li><li>What problems does contract testing solve?</li><li>Understand the difference between consumer-driven, provider-driven, schema-driven, and hybrid approaches.</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.sonarqube.org/latest/",
+            "EducationTime": 0,
+            "Id": "b7ba4e04-decc-4823-82cc-08dbe4480a0a",
+            "Name": ".Net SonarQube"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/coverlet-coverage/coverlet",
+            "EducationTime": 0,
+            "Id": "310423c2-9363-4393-82ca-08dbe4480a0a",
+            "Name": "Coverlet"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.jetbrains.com/help/dotcover/Getting_Started_with_dotCover.html",
+            "EducationTime": 0,
+            "Id": "55449c8d-74ec-48ec-82d2-08dbe4480a0a",
+            "Name": "dotCover"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/additional-tools/dotnet-coverage",
+            "EducationTime": 0,
+            "Id": "6049ec7c-357a-4cab-82d0-08dbe4480a0a",
+            "Name": "dotnet-coverage utility"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.bullseye.com/minimum.html",
+            "EducationTime": 0,
+            "Id": "efca592e-924d-426c-4ac6-08d7f177ea83",
+            "Name": "Minimum Acceptable Code Coverage"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.automatetheplanet.com/types-of-code-coverage-examples-in-c/",
+            "EducationTime": 0,
+            "Id": "69683c16-9845-497a-82ce-08dbe4480a0a",
+            "Name": "Types of Code Coverage"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "97531142-bad3-4a08-a95e-0d48fbaa0247",
+        "Name": "Configures and maintains code coverage reports",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><span style=\"color: rgb(23, 43, 77);\">Code coverage reports let to analyze how much code is tested. It shows not only a general percentage of the coverage but also more detailed statistics - the percentage of coverage by branches, statements, functions, and lines. Code coverage helps to measure the efficiency of tests, identify parts with absent or low testing rates and deliver software with better quality. The minimum percentage of test coverage should be defined individually per project by considering the balance between effort to write tests for increasing percentages.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses&nbsp;various code coverage tools to collect coverage information.</li><li>Exports code coverage reports to different formats.</li><li>Excludes/Includes specific modules and types from/to code coverage reports.</li><li>Configures and uses a threshold for code coverage.</li><li>Merges results from different runs to a single report.</li><li>Injects code coverage collecting to CI/CD process.</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li><span style=\"color: rgb(0, 0, 0);\">What is the purpose of code coverage?</span></li><li>How to setup different types of code coverage reports?</li><li>How to set code coverage threshold?</li><li>What is&nbsp;<span style=\"color: rgb(32, 33, 36);\">CRAP</span>&nbsp;index and how to determine whether particular method needs covering?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-code-coverage?tabs=windows#code-coverage-tooling",
+            "EducationTime": 0,
+            "Id": "b1cc4dbb-d936-45f2-82da-08dbe4480a0a",
+            "Name": "Code coverage tooling"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.nunit.org/articles/nunit/running-tests/Console-Command-Line.html",
+            "EducationTime": 0,
+            "Id": "5a13ef5c-28b8-400e-82e0-08dbe4480a0a",
+            "Name": "Command-line options nUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.nunit.org/articles/nunit/running-tests/Console-Command-Line.html",
+            "EducationTime": 0,
+            "Id": "796bec0f-9330-4afc-82e2-08dbe4480a0a",
+            "Name": "Command-line options xUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.nunit.org/articles/nunit/getting-started/installation.html",
+            "EducationTime": 0,
+            "Id": "e9e7ffad-616d-4337-82d6-08dbe4480a0a",
+            "Name": "Getting Started with NUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://xunit.net/docs/getting-started/netcore/cmdline",
+            "EducationTime": 0,
+            "Id": "def7c31a-8c39-4071-82d8-08dbe4480a0a",
+            "Name": "Getting Started with XUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.devexpress.com/CodeRushForRoslyn/401723/configuration-options/unit-testing/test-runner",
+            "EducationTime": 0,
+            "Id": "c72a25e3-2c28-4a26-82d4-08dbe4480a0a",
+            "Name": "Guide - Test runner"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.nunit.org/articles/nunit/running-tests/Console-Command-Line.html",
+            "EducationTime": 0,
+            "Id": "0846e4f9-3800-4bdc-82dc-08dbe4480a0a",
+            "Name": "Running Tests in Parallel nUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://xunit.net/docs/running-tests-in-parallel",
+            "EducationTime": 0,
+            "Id": "e677a7e8-c88a-4532-82de-08dbe4480a0a",
+            "Name": "Running Tests in Parallel xUnit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.testim.io/blog/unit-testing-best-practices/",
+            "EducationTime": 0,
+            "Id": "3f7aa109-7636-4887-29cb-08da1ebdde76",
+            "Name": "Unit Testing Best Practices"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "4136ca4a-3afe-4c74-bbc6-67105618a4dd",
+        "Name": "Configures tools to execute tests",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><span style=\"color: rgb(23, 43, 77);\">Testing is an essential part of software development automating that brings more quality to the product and reduces maintenance costs. Various frameworks and libraries for unit, integration and E2E testing cover projects needs to reach various testing and quality goals. Proper test framework configuration based on the community best practices and recommendations and includes project specifics and limitation makes that process more effective.</span></p><p><br></p><p><strong>Skills</strong></p><ul><li>Uses test framework API for running tests</li><li>Creates and uses the basic configuration for test execution</li></ul><p><br></p><p><strong>Knowledge</strong></p><ul><li><span style=\"color: rgb(0, 0, 0);\">What general options can be used in command line?</span></li><li><span style=\"color: rgb(0, 0, 0);\">How to organize testing environment?</span></li><li><span style=\"color: rgb(0, 0, 0);\">How to set common configuration options:&nbsp;bootstrap, whitelist, paths, suites, groups of tests, coverage reports, dependencies, criteria and others?</span></li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "72c16af2-9170-4638-aae3-10b8a20aab19",
+        "Name": "Creates PoC testing solutions to evaluate new testing frameworks and methodologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Proof-of-Concept (PoC) testing solutions allow teams to evaluate the applicability and effectiveness of new testing frameworks and methodologies before adopting them. By creating small, experimental test solutions, engineers can identify how new tools fit project requirements, improve testing workflows, and solve existing limitations. PoC testing solutions enable teams to stay innovative, optimize testing processes, and select the most efficient and reliable frameworks for current and future projects.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "c258f787-ccb7-43cb-975f-f0ec71f4d9c8",
+        "Name": "Monitors and optimizes testing processes to ensure scalability and maintainability",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>As applications grow in size and complexity, testing processes can become bottlenecks affecting development speed and efficiency. Monitoring testing workflows helps identify performance issues, flaky tests, or inefficiencies in execution. Optimization efforts, such as improving test suite performance, reducing test execution time, and ensuring maintainable test structures, enable testing processes to scale alongside the application. This ensures continuous, reliable feedback without compromising speed or quality.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7a36e5ec-d198-487b-8727-5c14cc75eb32",
+        "Name": "Validates system resilience and fault tolerance using tailored testing techniques",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Resilience and fault tolerance testing ensure that systems remain stable and functional under unexpected failures or disruptions. Techniques like chaos testing, fault injection, and failure simulation validate how well an application can recover from component crashes, latency spikes, or network issues. By identifying weak points in the system, engineers can build safeguards to improve overall reliability, ensuring the system meets resilience goals and maintains user trust.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "dba76fba-871f-4b95-8ca4-44d1ab08ef71",
+        "Name": "Ensures security of code through tailored testing techniques",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Security testing aims to identify vulnerabilities and weaknesses in code that could be exploited. Advanced techniques such as fuzz testing, static and dynamic code analysis, and automated vulnerability scanning help validate software security at all stages of development. These practices ensure that sensitive data is protected, code adheres to security standards, and potential risks are mitigated before production, reducing exposure to security breaches and compliance issues.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ae6308b0-fbdf-4836-979b-7a5db64d7d19",
+        "Name": "Ensures compliance with industry standards and regulations through specialized testing",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Compliance testing validates that software meets industry-specific standards and regulations, such as GDPR, HIPAA, or PCI DSS. Specialized tests are designed to ensure that data privacy, security controls, and operational processes comply with legal and organizational requirements. By incorporating automated compliance checks into the development lifecycle, teams reduce the risk of non-compliance, avoid penalties, and ensure software aligns with business and regulatory needs.</p><p></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "5593a14f-523c-4b64-8c14-8ceca299458c",
+        "Name": "Validates system behavior under extreme conditions using load and stress testing",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Load and stress testing simulate high-traffic scenarios or extreme conditions to validate system performance, scalability, and reliability. Load testing evaluates how well the system handles expected traffic, while stress testing pushes the system beyond its limits to identify bottlenecks or failure points. These tests ensure that the application can scale effectively under peak usage, deliver a consistent user experience, and recover gracefully when facing heavy loads.</p><p></p>"
+      }
+    ]
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries#.net",
+            "EducationTime": 0,
+            "Id": "e8ec9e96-d6b7-47ca-822c-08dbe4480a0a",
+            "Name": "API Quickstart"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://chartio.com/learn/marketing-analytics/how-to-add-google-analytics-tracking-to-a-website/",
+            "EducationTime": 0,
+            "Id": "db8f5e81-2ba8-409d-822e-08dbe4480a0a",
+            "Name": "How to Add Google Analytics Tracking to a Website"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "2312070a-0bfa-4d31-8c1c-6594d2d72697",
+        "Name": "Collects analytics using analytics libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Analytic events are typically used in applications to gather information about how users interact with the software, such as clicks on buttons, page views, or form submissions. By tracking these events, developers can gain insights into user behavior and make informed decisions about how to improve the application.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><p>Google analytics</p><ul><li>Sets up the Google Analytics tracking code in the application.</li><li>Creates code to track a GA event.</li><li>Uses Google Tag Assistant to verify that the tracking code is working correctly.</li><li>Uses Google Analytics Debug mode to troubleshoot issues.</li></ul><p><br></p><p>Meta Pixel</p><ul><li>Sets up the Meta Pixel code in the application.</li><li>Creates code to track an event.</li><li>Uses Meta Events Manager.</li></ul><p><br></p><p>Mixpanel</p><ul><li>Installs and configures the Mixpanel SDK in an application.</li><li>Creates code to track an event.</li><li>Uses the Mixpanel dashboard.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><p>Google analytics</p><ul><li>What is the process for adding the Google Analytics tracking code to a web application?</li><li>How to set up Google Analytics goals and conversions?</li><li>How to use Google Tag Manager to track events?</li></ul><p><br></p><p>Meta Pixel</p><ul><li><span style=\"color: rgb(55, 65, 81);\">What are the different types of events that can be tracked using Meta Pixel?</span></li><li>How to set up conversion tracking with Meta Pixel?</li><li>How to configure custom variables in Meta Pixel?</li></ul><p><br></p><p>Mixpanel</p><ul><li>How is the Mixpanel SDK installed and configured in an application?</li><li>How to define and track custom events?</li><li>What is Mixpanel's Data Export API and how can it be used?</li><li>How to access and analyze data using Mixpanel's web interface?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.dotnetnakama.com/blog/enriched-web-api-documentation-using-swagger-openapi-in-asp-dotnet-core/",
+            "EducationTime": 0,
+            "Id": "f13af231-12f1-4e48-8232-08dbe4480a0a",
+            "Name": "Enriched Web API Documentation using Swagger/OpenAPI"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/Redocly/redoc",
+            "EducationTime": 0,
+            "Id": "13508b96-8aa6-4323-8234-08dbe4480a0a",
+            "Name": "Generate interactive API documentation from OpenAPI definitions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-7.0&tabs=visual-studio",
+            "EducationTime": 0,
+            "Id": "bc013945-514a-4806-8236-08dbe4480a0a",
+            "Name": "NSwag"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore",
+            "EducationTime": 0,
+            "Id": "d8658d5e-a5ee-41a9-8230-08dbe4480a0a",
+            "Name": "Using Swashbuckle in AspNetCore"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "098b3a4d-81bd-477b-9ff9-d0d37ee345c0",
+        "Name": "Generates documentation through libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(28, 30, 33);\">OpenAPI documents allow you to convert the metadata about your API into some other readable format.&nbsp;</span><span style=\"color: rgb(22, 22, 22);\">The OpenAPI specification is a document that describes the capabilities of your API. The document is based on the&nbsp;</span><span style=\"color: rgb(28, 30, 33);\">XML</span><span style=\"color: rgb(22, 22, 22);\">&nbsp;and attribute annotations within the controllers and models. It's the core part of the OpenAPI flow and is used to drive toolings such as SwaggerUI, Doxygen, and NSwag.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses Data Annotation attributes to specify contract details in OpenAPI specification.</li><li>Uses Produce attributes to describe the response types.</li><li>Uses Produce attributes to describe the response code.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">What is OpenAPI specification?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Which are supported formats? (JSON or YAML)</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.hangfire.io/en/latest/best-practices.html",
+            "EducationTime": 0,
+            "Id": "225ec34b-b46b-497a-8238-08dbe4480a0a",
+            "Name": "Hangfire - Best Practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.hangfire.io/en/latest/configuration/index.html",
+            "EducationTime": 0,
+            "Id": "738afedf-4449-44ba-823a-08dbe4480a0a",
+            "Name": "Hangfire -Configuration"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.hangfire.io/en/latest/background-processing/configuring-degree-of-parallelism.html",
+            "EducationTime": 0,
+            "Id": "2c6d080b-addf-4645-823c-08dbe4480a0a",
+            "Name": "https://docs.hangfire.io/en/latest/configuration/index.html"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://blog.harveydelaney.com/implementing-job-chaining-in-quartz-net/",
+            "EducationTime": 0,
+            "Id": "ed9ac38c-976d-49a3-8244-08dbe4480a0a",
+            "Name": "Implementing Durable Job Chaining in Quartz.NET"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.quartz-scheduler.net/documentation/quartz-2.x/tutorial/job-stores.html",
+            "EducationTime": 0,
+            "Id": "d14432c2-5b64-4271-8246-08dbe4480a0a",
+            "Name": "Job stores"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.quartz-scheduler.net/documentation/quartz-2.x/tutorial/advanced-enterprise-features.html",
+            "EducationTime": 0,
+            "Id": "55fa3507-8d6f-4acd-8248-08dbe4480a0a",
+            "Name": "Quartz.NET Clustering"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.hangfire.io/en/latest/background-processing/running-multiple-server-instances.html",
+            "EducationTime": 0,
+            "Id": "35438bf4-cca8-4611-8240-08dbe4480a0a",
+            "Name": "Running Multiple Server Instances"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://codeopinion.com/scaling-hangfire-process-more-jobs-concurrently/",
+            "EducationTime": 0,
+            "Id": "266bb2cf-3926-4ada-823e-08dbe4480a0a",
+            "Name": "Scaling Hangfire: Process More Jobs Concurrently"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.quartz-scheduler.net/documentation/quartz-2.x/tutorial/trigger-and-job-listeners.html",
+            "EducationTime": 0,
+            "Id": "50585dad-8475-493f-8242-08dbe4480a0a",
+            "Name": "TriggerListeners and JobListeners"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7c835fc8-903a-4863-9d34-5e8e568d5bfb",
+        "Name": "Manages task scheduling and long-running background processing with libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Task scheduling is the process of executing tasks in a planned manner based on such factors like priority and dependencies. Long-running background processing involves executing time-consuming tasks asynchronously while the main application continues&nbsp;its operation. Task scheduling and long-running background processing work together to effectively manage and execute tasks without blocking the main execution thread. This approach ensures a responsive user interface and the continuous operation of critical components in an application.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><p>Hangfire</p><ul><li>Configures infrastructure.</li><li>Creates a background or recurring job.</li><li>Handles job continuations.</li><li>Uses job filters.</li><li>Configures and customizes Dashboard UI.</li></ul><p><br></p><p>Quartz.NET</p><ul><li>Creates and schedules a job.</li><li>Creates a&nbsp;<span style=\"color: rgb(35, 38, 41);\">chain of jobs.</span></li><li>Uses JobDataMap.</li><li>Utilizes listeners to perform event-based actions.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><p>Hangfire</p><ul><li>What is Hangfire job?</li><li>How to create and execute background job?</li><li>What is JobContext?</li><li>Where job status, retries, and failed jobs can be tracked?</li><li>What are the available storage types in Hangfire? What information is stored there?</li><li>What are Hangfire's mechanisms for handling exceptions and failures?</li><li>How to process jobs in a separate service?</li><li>How to scale the execution of jobs?</li></ul><p><br></p><p>Quartz.NET</p><ul><li>How to schedule a job to run at a specific time?</li><li>Difference between a Job and a Trigger.</li><li>How to pass data or parameters to a job?</li><li>What are the different types of triggers available?</li><li>What is the purpose of listeners?</li><li>How Quartz.NET supports job persistence and reliability?</li><li>What is the role of the JobExecutionContext and what information does it provide?</li><li>How to use a different job store?</li><li>How clustering works?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://gist.github.com/alfonsogarciacaro/69f863f2f7d278be011a9f3f8dc8f08c",
+            "EducationTime": 0,
+            "Id": "cd2b6f36-0c83-4391-824a-08dbe4480a0a",
+            "Name": ".NET DateTime pitfalls"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/standard/datetime/",
+            "EducationTime": 0,
+            "Id": "8188fb4a-6c0e-4428-824c-08dbe4480a0a",
+            "Name": "Dates, times, and time zones"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "http://www.kspace.pt/DateTimeExtensions/",
+            "EducationTime": 0,
+            "Id": "7020824c-519b-40ec-824e-08dbe4480a0a",
+            "Name": "DateTimeExtensions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nodatime.org/1.2.x/userguide/index",
+            "EducationTime": 0,
+            "Id": "72973296-5fda-469e-8250-08dbe4480a0a",
+            "Name": "Noda time documentation"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "75ae5c1e-ebe6-417d-93c7-64cb30e377a7",
+        "Name": "Manipulates date and time with libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Date &amp; Time operations are typical routines in everyday software engineering. Working with calendars, dates, and time has many pitfalls and concepts. Manual implementation attempts are typically bound to fail. At the same time, multiple modern software development kits, frameworks, and libraries provide easy-to-use APIs, abstractions, and infrastructure to describe and operate with the concepts like interval, period, duration, date, time, timezone, local date &amp; time, calendar, etc. Moreover, they are frequently providing capabilities to format and parse them.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses libraries to work with different sources of date and time data.</li><li><span style=\"color: rgb(0, 0, 0);\">Performs advanced date-time operations. works with&nbsp;intervals, periods, durations, time zones, and calendars.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Formats date-time data with custom and standard formats like ISO 8601.</span></li></ul><p><br></p><p><strong>Knowledge</strong></p><p><strong></strong></p><ul><li>What are the capabilities of working with the date and time offered in the latest .NET versions?</li><li>What libraries can be used as a replacement of .NET date and time features?</li><li>Understanding .NET DateTime pitfalls.</li><li>What features can 3-rd party date-time libraries offer?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection",
+            "EducationTime": 0,
+            "Id": "ca4c540e-2674-4d37-8252-08dbe4480a0a",
+            "Name": ".NET dependency injection"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialsteacher.com/core/dependency-injection-in-aspnet-core",
+            "EducationTime": 0,
+            "Id": "cd63f146-610e-4324-8258-08dbe4480a0a",
+            "Name": "ASP.NET Core - Dependency Injection"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://autofac.org/apidoc/html/62C594FF.htm",
+            "EducationTime": 0,
+            "Id": "71840995-40ce-4c95-825e-08dbe4480a0a",
+            "Name": "Autofac API Documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.tutorialsteacher.com/ioc/dependency-injection",
+            "EducationTime": 0,
+            "Id": "993bfd8b-15a1-40ea-8256-08dbe4480a0a",
+            "Name": "Dependency Injection in .Net"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://autofac.readthedocs.io/en/latest/getting-started/index.html",
+            "EducationTime": 0,
+            "Id": "aa0a77f4-f882-4771-825a-08dbe4480a0a",
+            "Name": "Getting Started | Autofac"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection-usage",
+            "EducationTime": 0,
+            "Id": "f771d982-0326-42ff-8254-08dbe4480a0a",
+            "Name": "Tutorial: Use dependency injection in .NET"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://autofac.readthedocs.io/en/latest/index.html",
+            "EducationTime": 0,
+            "Id": "2505ceaf-ac02-475d-825c-08dbe4480a0a",
+            "Name": "Welcome to Autofac’s documentation"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "ad64c3f8-9ec0-4cfd-90de-fcb142bb83b0",
+        "Name": "Reuses and manages dependencies through dependency injection libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>In software engineering, dependency injection is a design pattern in which an object or function receives other objects or functions that it depends on. A form of inversion of control, dependency injection aims to separate the concerns of constructing objects and using them, leading to loosely coupled programs. Typically, specialized libraries and frameworks help engineers to implement dependency injection principles in their software systems.</p><p><br></p><p><strong>Skills</strong></p><p><br></p><p>.NET dependency injection</p><ul><li>Uses IServiceProvider for built-in IoC Container in ASP.Net Core.</li><li>Defines service lifetimes.</li><li>Uses three different ways to inject and access the registered services in the DI container.</li></ul><p><br></p><p>Autofac</p><p>1.Uses NuGet package to download Autofac IoC container.</p><p>2.At application startup</p><ul><li class=\"ql-indent-1\">Creates a&nbsp;<code>ContainerBuilder</code>.</li><li class=\"ql-indent-1\">Registers components.</li><li class=\"ql-indent-1\">Setups the container and stores it for later use.</li></ul><p>3.During application execution</p><ul><li class=\"ql-indent-1\">Creates a lifetime scope from the container.</li><li class=\"ql-indent-1\">Uses the lifetime scope to resolve instances of the components.</li></ul><p><br></p><p>Unity</p><ul><li>Defines how to use Unity in your application.</li><li>Uses NuGet package to download Unity IoC container.</li><li>Creates instance(s).</li><li>Defines the&nbsp;Type Mapping.</li><li>Defines service lifetimes.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><p>.NET dependency injection</p><ul><li><span style=\"color: rgb(0, 0, 0);\">When to use .NET dependency injection?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding&nbsp;multiple constructor discovery rules.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding service lifetimes.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding&nbsp;&nbsp;</span><span style=\"color: rgb(22, 22, 22);\">different ways to implement DI.</span></li></ul><p><br></p><p>Autofac</p><ul><li><span style=\"color: rgb(0, 0, 0);\">What's Autofac? When to use Autofac?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding service lifetimes.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding </span><span style=\"color: rgb(22, 22, 22);\">different ways to implement DI.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding </span><span style=\"color: rgb(22, 22, 22);\">work with the object(s)&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">to be disposed of.</span></li></ul><p><br></p><p>Unity</p><ul><li><span style=\"color: rgb(0, 0, 0);\">What's Unity? When to use&nbsp;</span><span style=\"color: rgb(31, 35, 40);\">Unity</span><span style=\"color: rgb(0, 0, 0);\">?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding service lifetimes.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding </span><span style=\"color: rgb(22, 22, 22);\">different ways to implement DI.</span></li><li>Specifying Values for Injection.</li><li>How to resolve arrays and enumerations of types?</li><li><span style=\"color: rgb(0, 0, 0);\">Understanding&nbsp;</span><span style=\"color: rgb(51, 51, 51);\">strategies to allow deferred resolution of types.</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/ef/core/modeling/",
+            "EducationTime": 0,
+            "Id": "1ab22869-ebd0-4adc-8266-08dbe4480a0a",
+            "Name": "Creating and Configuring a Model"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/dapper-net/custom-columns-mapping-1cd45dfd51d6",
+            "EducationTime": 0,
+            "Id": "0d3111dd-0da8-4a1e-8274-08dbe4480a0a",
+            "Name": "Custom Columns Mapping"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://code-maze.com/dapper-migrations-fluentmigrator-aspnetcore/",
+            "EducationTime": 0,
+            "Id": "af199c3a-43dd-4294-8276-08dbe4480a0a",
+            "Name": "Dapper Migrations"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.learndapper.com/relationships#:~:text=complex%20SQL%20statements.-,Dapper%20SplitOn,-Dapper%20supports%20multi",
+            "EducationTime": 0,
+            "Id": "005d1318-be2e-4e04-8272-08dbe4480a0a",
+            "Name": "Dapper SplitOn"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://dapper-tutorial.net/transaction",
+            "EducationTime": 0,
+            "Id": "a0069e96-4b4e-4a16-8278-08dbe4480a0a",
+            "Name": "Dapper Transaction"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/managing?tabs=dotnet-core-cli",
+            "EducationTime": 0,
+            "Id": "ac169796-c8d8-45c9-8264-08dbe4480a0a",
+            "Name": "Managing Migrations"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nhibernate.info/doc/nhibernate-reference/mapping-attributes.html",
+            "EducationTime": 0,
+            "Id": "128d1d58-97e0-48b0-826a-08dbe4480a0a",
+            "Name": "Mapping attributes"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli",
+            "EducationTime": 0,
+            "Id": "559701da-3dad-4182-8260-08dbe4480a0a",
+            "Name": "Migrations Overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nhibernate.info/doc/nhibernate-reference/architecture.html",
+            "EducationTime": 0,
+            "Id": "0ac17fbb-f224-4c7e-826e-08dbe4480a0a",
+            "Name": "NHibernate Architecture"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli",
+            "EducationTime": 0,
+            "Id": "8c4c023a-4083-483f-8262-08dbe4480a0a",
+            "Name": "Scaffolding"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nhibernate.info/doc/nhibernate-reference/toolsetguide.html#toolsetguide-s1",
+            "EducationTime": 0,
+            "Id": "423239a5-a249-4f5f-826c-08dbe4480a0a",
+            "Name": "Toolset Guide"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nhibernate.info/doc/nhibernate-reference/transactions.html",
+            "EducationTime": 0,
+            "Id": "c0003bfe-7ba4-485d-8270-08dbe4480a0a",
+            "Name": "Transactions And Concurrency"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/ef/core/saving/transactions",
+            "EducationTime": 0,
+            "Id": "75b6b9aa-f624-4689-8268-08dbe4480a0a",
+            "Name": "Using Transactions"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "dfd37781-1e09-4c4c-ae25-103604b51fdd",
+        "Name": "Simplifies database management using libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">In computer science, Object-Relational Mapping /&nbsp;Object-Document Mapping (ORM / ODM) is a programming technique used with object-oriented programming languages to transform data across type systems. This creates, in effect, a \"virtual object database\" that can be used from within the programming language. ORM / ODM frequently requires less coding than conventional methods of communication between an object-oriented language and a relational database. The high degree of abstraction that hides what is actually happening in the implementation code is the main cause of ORM / ODM tool drawbacks.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><p>Entity Framework Core</p><ul><li>Uses EF Migrations to manage database schemas.</li><li>Uses Scaffolding&nbsp;to manage database schemas.</li><li>Uses data annotations or fluent Api to customize the models.</li><li>Defines&nbsp;and configures database relations&nbsp;(one-to-one, one-to-many, many-to-many)</li><li>Manages&nbsp;database transactions</li></ul><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">NHibernate</span></p><ul><li><span style=\"color: rgb(33, 33, 33);\">Uses&nbsp;</span><span style=\"color: rgb(0, 0, 0);\">NHibernate&nbsp;tools to manage database schemas.</span></li><li>Uses mapping by code to customize the models.</li><li><span style=\"color: rgb(0, 0, 0);\">Defines&nbsp;and configures database relations&nbsp;(one-to-one, one-to-many, many-to-many)</span></li><li><span style=\"color: rgb(0, 0, 0);\">Manages&nbsp;database transactions</span></li></ul><p><br></p><p><span style=\"color: rgb(41, 41, 41);\">&nbsp;Dapper</span></p><ul><li><span style=\"color: rgb(41, 41, 41);\">Uses Dapper SplitOn to&nbsp;</span><span style=\"color: rgb(51, 51, 51);\">map a single row to multiple objects.</span></li><li><span style=\"color: rgb(51, 51, 51);\">Uses FluentMigrator&nbsp;to manage database schemas.</span></li><li><span style=\"color: rgb(51, 51, 51);\">Uses&nbsp;</span><span style=\"color: rgb(41, 41, 41);\">custom mapping or FluentMap extension to customize the models.</span></li><li><span style=\"color: rgb(41, 41, 41);\">Manages&nbsp;database transactions</span></li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><p>Entity Framework Core</p><ul><li><span style=\"color: rgb(0, 0, 0);\">Understanding database schema migration</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding Entity lifecycle</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding code/model/database first approaches.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding tables relationships in database.</span></li><li><span style=\"color: rgb(0, 0, 0);\">When to use transactions?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding Transaction Isolation Levels</span></li></ul><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">NHibernate</span></p><ul><li><span style=\"color: rgb(0, 0, 0);\">Understanding database schema migration</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding Entity lifecycle</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding tables relationships in database.</span></li><li><span style=\"color: rgb(0, 0, 0);\">When to use transactions?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding&nbsp;Transaction Isolation Levels</span></li></ul><p><br></p><p><span style=\"color: rgb(41, 41, 41);\">&nbsp;Dapper</span></p><ul><li><span style=\"color: rgb(0, 0, 0);\">Understanding database schema migration</span></li><li><span style=\"color: rgb(0, 0, 0);\">What is Multi Mapping?</span></li><li><span style=\"color: rgb(0, 0, 0);\">When to use transactions?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Understanding&nbsp;Transaction Isolation Levels</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://jonathancrozier.com/blog/calling-all-apis-how-to-use-flurl-with-c-sharp",
+            "EducationTime": 0,
+            "Id": "04af4d41-1e8c-43b8-827c-08dbe4480a0a",
+            "Name": "Calling all APIs… How to use Flurl with C#"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.c-sharpcorner.com/article/easily-use-flurl-testable-httpclient/",
+            "EducationTime": 0,
+            "Id": "577425c6-f25a-4f26-827a-08dbe4480a0a",
+            "Name": "Easily Use Flurl Testable HttpClient"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://rezaulhasan0168.medium.com/executable-tutorial-api-testing-using-restsharp-2f814bccd8ea",
+            "EducationTime": 0,
+            "Id": "66c79f75-0569-4816-828a-08dbe4480a0a",
+            "Name": "Executable Tutorial: API Testing using RestSharp And SpecFlow"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://reactiveui.github.io/refit/",
+            "EducationTime": 0,
+            "Id": "182c03a8-c074-4506-827e-08dbe4480a0a",
+            "Name": "Refit"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.c-sharpcorner.com/article/restsharp-in-net-6-0/",
+            "EducationTime": 0,
+            "Id": "2b8cf9b8-9743-4856-8286-08dbe4480a0a",
+            "Name": "RestSharp In .NET 6.0"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://restsharp.dev/",
+            "EducationTime": 0,
+            "Id": "b3b9120c-d1af-49a6-8284-08dbe4480a0a",
+            "Name": "RestSharp, REST API client library"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://codetosolutions.com/blog/10/use-refit-library-to-call-rest-api-endpoint-in-c%23-and-asp.net-core",
+            "EducationTime": 0,
+            "Id": "05d9903a-a0af-4e9c-8282-08dbe4480a0a",
+            "Name": "Use Refit Library to Call Rest Api Endpoint in C# and Asp.net Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://code-maze.com/using-refit-to-consume-apis-in-csharp/",
+            "EducationTime": 0,
+            "Id": "6e57b66b-5c0f-4ebc-8280-08dbe4480a0a",
+            "Name": "Using Refit to Consume APIs in C#"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://code-maze.com/aspnetcore-using-restsharp-consume-api/",
+            "EducationTime": 0,
+            "Id": "ae24ac86-be1a-4db4-8288-08dbe4480a0a",
+            "Name": "Using RestSharp To Consume APIs in C#"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7df71bd7-37ef-4731-9a53-daed1900a7db",
+        "Name": "Uses HTTP client libraries for API communication",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">An HTTP client can be incorporated into the project to facilitate communication between a software application and an API over the HTTP protocol. The HTTP client provides a set of tools and functions to manage the exchange of data between the application and the API, simplifying the process of sending and receiving HTTP requests and responses. This approach enables the application to interact with the API in a standardized way, making it more efficient and easier to maintain. Additionally, using an HTTP client allows for more robust error handling, improved performance, and better security.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Flurl</span></p><ul><li>Makes API calls using Flurl functionality.</li><li>Configures the default behavior of the client.</li><li>Appropriately handles and logs exceptions.</li><li>Uses Flurl's built-in mocking capabilities to mock HTTP requests and responses.</li></ul><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Refit</span></p><ul><li>Defines an API interface that performs HTTP requests.</li><li>Specifies request parameters and their serialization.</li><li>Appropriately handles and logs exceptions.</li></ul><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">RestSharp</span></p><ul><li>Creates RestRequests with parameters and headers.</li><li>Handles response with RestSharp's built-in deserialization.</li><li>Appropriately handles and logs exceptions.</li></ul><p><br></p><p><br></p><p><strong>Knowledge</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Flurl</span></p><ul><li>How do you construct a request?</li><li>How to add a header to a request?</li><li>How to deserialize response data?</li><li>What are some options for handling error responses?</li><li>How to handle authentication challenges and provide credentials?</li><li>How to mock HTTP requests and responses for unit testing purposes?</li><li>How to simulate different scenarios (e.g., successful response, error response) in API tests?</li></ul><p><br></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Refit</span></p><ul><li>How to define an API interface?</li><li>How to configure different endpoints within the same API interface?</li><li>How to deserialize response data?</li><li>How to integrate authentication mechanisms, such as bearer tokens, with Refit requests?</li><li>How does Refit handle error responses?</li><li>How to configure additional settings or handlers for the underlying HttpClient?</li><li>How to mock Refit API interfaces for unit testing?</li></ul><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">RestSharp</span></p><ul><li>How to create a RestRequest?</li><li>How to deserialize response data?</li><li>What are common types of Authenticators?</li><li>How to configure RestSharp Error handling behavior?</li><li>How to mock RestSharp requests and responses for unit testing purposes?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "de757572-9c8b-460a-828e-08dbe4480a0a",
+            "Name": "Data Annotation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.fluentvalidation.net/en/latest/aspnet.html",
+            "EducationTime": 0,
+            "Id": "c7b1071f-d933-479d-828c-08dbe4480a0a",
+            "Name": "FluentValidation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/communitytoolkit/diagnostics/guard",
+            "EducationTime": 0,
+            "Id": "63d9fbea-a2a4-4a55-8290-08dbe4480a0a",
+            "Name": "Guard toolkit"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "78c90e0d-472f-4c4b-ba9a-413552d05350",
+        "Name": "Validates data with libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">In an application or system, data validation is meant to offer specific, well-defined guarantees for the fitness and consistency of the data. Different approaches may be used to establish and design data validation rules, which can then be implemented in different contexts. It uses routines, often called \"validation rules\" and \"validation constraints.\" The automatic capabilities of a data dictionary or the explicit application program validation logic of the computer and its application may be used to apply the rules.</span></p><p><br></p><p><strong>Skills</strong></p><p><br></p><ul><li>Parses, formats, and validates phone numbers.</li><li>Validates date and time strings.</li><li>Validates emails, domains, and IP addresses.</li><li>Validates currency strings,&nbsp;credit card numbers, IBANs.</li><li>Performs initial validation for method arguments e.g. - value is not null, not empty, is in range, less than, greater than, etc.)&nbsp;</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What are the most common validation types?</li><li>Pros and cons of using third-party validation libraries?</li><li><span style=\"color: rgb(77, 81, 86);\">Why is it important to validate user inputs?</span></li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.papertrail.com/solution/tips/7-best-practices-for-c-logging-with-examples",
+            "EducationTime": 0,
+            "Id": "d459889a-849a-4fbc-829c-08dbe4480a0a",
+            "Name": "7 Best Practices for C# Logging"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/serilog/serilog/wiki/Configuration-Basics",
+            "EducationTime": 0,
+            "Id": "140a5bea-fa01-4c01-8294-08dbe4480a0a",
+            "Name": "Configuration Basics"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://nlog-project.org/config/",
+            "EducationTime": 0,
+            "Id": "611971ec-cda6-4e76-829e-08dbe4480a0a",
+            "Name": "Configuration options"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://logging.apache.org/log4net/release/manual/introduction.html#filters",
+            "EducationTime": 0,
+            "Id": "935fc8e5-8a12-4a38-829a-08dbe4480a0a",
+            "Name": "Filters"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://logging.apache.org/log4net/release/manual/configuration.html",
+            "EducationTime": 0,
+            "Id": "7694a223-81d7-4205-8298-08dbe4480a0a",
+            "Name": "log4net Manual - Configuration"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://rehansaeed.com/logging-with-serilog-exceptions/",
+            "EducationTime": 0,
+            "Id": "f9428083-9cb7-440c-8296-08dbe4480a0a",
+            "Name": "Logging with Serilog.Exceptions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.codeproject.com/Articles/4051307/NLog-Rules-and-filters",
+            "EducationTime": 0,
+            "Id": "4ed4ec79-ebdb-4a15-82a0-08dbe4480a0a",
+            "Name": "NLog: Rules and filters"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://serilog.net/",
+            "EducationTime": 0,
+            "Id": "f6b41b4e-53dd-4b4d-8292-08dbe4480a0a",
+            "Name": "Why Serilog"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a2c6e656-90c3-40bd-9742-b02fbada8462",
+        "Name": "Uses libraries to implement logging functionality",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">In software, a log is the automatically created and time-stamped record of events relevant to a particular system. It is crucial for software development and debugging. A lot of logging approaches and implementations exist across a variety of different platforms: from system outputs to files and network-based logs. Together with it, many handy standardized logging libraries and frameworks cover logging needs conveniently, with maintainability and extensibility by design.</span></p><p><br></p><p><strong>Skills</strong></p><p><span style=\"color: rgb(23, 43, 77);\">Serilog</span></p><ul><li>Initializes Serilog in the startup files.</li><li>Writes log messages.</li><li>Uses formatting to create structured logs.</li><li>Uses appropriate log level.</li><li>Creates a custom sink that writes log messages to a specific destination.</li><li>Configures middleware to intercept and log all unhandled exceptions.</li></ul><p><span style=\"color: rgb(23, 43, 77);\">Log4Net</span></p><ul><li>Initializes Log4Net in the startup files.</li><li>Writes log messages.</li><li>Creates a named logger to provide more context and control over the logging output.</li><li>Uses formatting to create structured logs.</li><li>Uses appropriate log level.</li><li>Creates custom log levels.</li><li>Creates custom appender.</li><li>Configures middleware to intercept and log all unhandled exceptions.</li></ul><p><span style=\"color: rgb(23, 43, 77);\">&nbsp;NLog</span></p><ul><li>Initializes NLog in the startup files.</li><li>Writes log messages.</li><li>Uses formatting to create structured logs.</li><li>Uses appropriate log level.</li><li>Configures targets, rules and filters.</li><li>Configures middleware to intercept and log all unhandled exceptions.</li></ul><p><br></p><p><strong>Knowledge</strong></p><p><span style=\"color: rgb(23, 43, 77);\">Serilog</span></p><ul><li>How to configure Serilog?</li><li>How to write a log message using Serilog?</li><li>What are some best practices for formatting log messages?</li><li>What are Serilog logging levels?</li><li>How to set up sinks in Serilog? Name some commonly used sinks?</li><li>How to configure Serilog to use multiple sinks simultaneously?</li><li>How to set up logging filters in Serilog to control which messages get logged?</li><li>How to log exceptions and stack traces?</li></ul><p><span style=\"color: rgb(23, 43, 77);\">Log4Net</span></p><ul><li>How to configure Log4Net?</li><li>How to write a log message using Log4Net?</li><li>What are some best practices for formatting log messages?</li><li>What are Log4Net logging levels?</li><li>How to set up appenders in Log4Net. Name some commonly used appenders.</li><li>How to configure Log4Net to use multiple appenders simultaneously?</li><li>What is the difference between rolling and fixed file appenders?</li><li>How to log exceptions and stack traces?</li></ul><p><span style=\"color: rgb(23, 43, 77);\">&nbsp;NLog</span></p><ul><li>How to configure NLog?</li><li>How to write a log message using NLog?</li><li>What are some best practices for formatting log messages?</li><li>What are NLog logging levels?</li><li>How to set up targets and rules in NLog? Name some commonly used targets?</li><li>How to configure NLog to use multiple targets simultaneously?</li><li>What is the difference between buffered and non-buffered logging?</li><li>How to log exceptions and stack traces?</li></ul>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "673cd98d-2d36-4d3d-b76f-a2422a8753e1",
+        "Name": "Leads the creation of shared library ecosystems across the organization",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Shared library ecosystems are essential for promoting code reuse, maintaining consistency, and ensuring efficiency across multiple teams and projects. This task involves designing and managing organization-wide libraries that centralize core functionality, eliminate redundancy, and standardize solutions. It focuses on improving development workflows, ensuring alignment with engineering standards, and fostering collaboration across teams through shared resources.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "31735360-42d8-4c3e-9862-2235e387daba",
+        "Name": "Creates extensible plugin-based systems with libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Plugin-based systems provide flexibility and scalability by allowing additional functionality to be added without modifying the core system. This task focuses on leveraging libraries to design modular and extensible architectures where plugins can be seamlessly integrated or replaced. Such systems are critical for maintaining long-term adaptability, reducing complexity, and enabling custom feature development for evolving business needs.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a924537d-cae2-4de8-8c09-553312bf10b1",
+        "Name": "Optimizes critical system performance using profiling and benchmarking libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>System performance is a critical factor in ensuring responsiveness, scalability, and resource efficiency. This task involves using profiling and benchmarking libraries to analyze system behavior, identify bottlenecks, and measure execution times. By applying these tools, performance-critical sections are optimized, ensuring faster response times, reduced resource usage, and an improved user experience in production environments.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "4e08b5ff-ae69-4c2c-8f5b-697582e02b3f",
+        "Name": "Integrates libraries for automated observability and monitoring",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Observability and monitoring are essential for maintaining system reliability and identifying issues before they impact users. This task involves integrating libraries that enable automated logging, tracing, and metrics collection. Such libraries help engineers monitor system health, analyze failures, and ensure visibility into real-time operations, leading to faster issue resolution and improved system uptime.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7b528ae1-d621-4972-bbc6-3447a2e64fb6",
+        "Name": "Introduces transformative libraries to enable technical innovation",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Staying ahead in the competitive technology landscape requires continuous innovation. This task focuses on researching, evaluating, and introducing new libraries that transform the way solutions are built. By validating and advocating for innovative tools, teams can adopt modern approaches, improve development speed, and deliver cutting-edge solutions aligned with current and future business goals.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "9da0a053-fdff-42db-8830-a02ccb1e3eb2",
+        "Name": "Designs and develops enterprise-grade custom libraries",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>In enterprise-scale applications, the need for custom libraries arises to solve unique challenges and standardize core functionality. This task involves designing and developing reusable, high-performance libraries tailored to specific organizational needs. These libraries improve maintainability, reduce code duplication, and streamline integration across multiple projects while adhering to engineering best practices.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "87fdfd82-e669-48ab-a16c-e9301e9d9dce",
+        "Name": "Optimizes application architecture using library approaches, patterns and instrumentary",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Application architecture plays a critical role in ensuring scalability, maintainability, and resilience. This task involves leveraging advanced libraries and patterns to optimize system architecture, addressing complex challenges such as high-load performance, distributed system design, and fault tolerance. The focus is on achieving long-term architectural goals while ensuring alignment with business and technical requirements.</p>"
+      }
+    ]
+  }
+]

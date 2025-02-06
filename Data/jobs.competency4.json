@@ -1,0 +1,543 @@
+[
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/types-of-css-cascading-style-sheet/",
+            "EducationTime": 0,
+            "Id": "841eeed0-9c15-4eb7-8ac9-08dae8b13480",
+            "Name": "Types of CSS (Cascading Style Sheet)"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "972b76f2-a59c-4365-a72b-cbf875e1d25d",
+        "Name": "Adds styling to template document",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Working with the user interface and just having plain HTML on the page does not provide all the benefits of using it. Only a combination of CSS and HTML will give a production look to the application. CSS would address issues such as the background colour, font size, colour, text styles, etc. A few types of CSS could be attached to HTML: inline CSS, internal or embedded CSS, and external CSS.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units",
+            "EducationTime": 0,
+            "Id": "b1c92f57-9fdc-49cf-8ac7-08dae8b13480",
+            "Name": "CSS Values and units"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "0bbc3a3f-7fc8-4724-9f3c-0d3c3188d6e3",
+        "Name": "Adjusts values and units to set the size of various elements with style sheet language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Each HTML element has a default set value. Usually, for the creation of an actual application, the default set value is not enough, as one cannot achieve the uniqueness of the application by just using the default set value. For that reason, CSS is the primary tool that allows to adjust the size of each element on the page based on device and user requirements. There are multiple different values and properties that could be modified and changed, such as height, width, colour, cursor, etc.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content",
+            "EducationTime": 0,
+            "Id": "0a7888f4-b8f2-469f-8adb-08dae8b13480",
+            "Name": "Overflowing content"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "3d857832-dacb-4813-b199-ce140a11859f",
+        "Name": "Handles overflowing content on a page",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The first thing to remember when working with the styles is that everything is a box. With the box model, the size of these boxes could be constrained by assigning values of width and height (or inline-size and block-size). However, when there is too much content to fit in a box, the problem of overflow could happen. Fortunately, the community has many best practices and methodologies on how to solve the following issues.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders",
+            "EducationTime": 0,
+            "Id": "97df6ed1-b301-4e2d-43d3-08dbbf59defb",
+            "Name": "Backgrounds and borders - Learn web development | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/display",
+            "EducationTime": 0,
+            "Id": "9f1f4683-1f68-43a6-8ad5-08dae8b13480",
+            "Name": "Display - CSS: Cascading Style Sheets | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin",
+            "EducationTime": 0,
+            "Id": "50a82039-d885-475a-8ad7-08dae8b13480",
+            "Name": "Margin - CSS: Cascading Style Sheets | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding",
+            "EducationTime": 0,
+            "Id": "73e83a0c-711d-4d23-8ad9-08dae8b13480",
+            "Name": "Padding - CSS: Cascading Style Sheets | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS",
+            "EducationTime": 0,
+            "Id": "e1769c79-c18f-4a4a-43d1-08dbbf59defb",
+            "Name": "Sizing items in CSS - Learn web development | MDN"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b6e4540a-b5ee-4a4a-91a8-869c3fabaf11",
+        "Name": "Styles elements using basic style sheet language properties",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The general layout consists of various elements positioned in some predefined order, positioning is a valuable part of markup and styling, but it is also crucial to style up elements displayed for the user. Elements on the user interface should have defined specific styles such as height, background colour, borders, etc.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing",
+            "EducationTime": 0,
+            "Id": "8d76056b-55ea-43f4-8acd-08dae8b13480",
+            "Name": "Box sizing"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model",
+            "EducationTime": 0,
+            "Id": "f7b0c029-aac7-4cfd-43cd-08dbbf59defb",
+            "Name": "Introduction to the CSS basic box model - CSS: Cascading Style Sheets | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing",
+            "EducationTime": 0,
+            "Id": "ec7c402b-addc-469a-43cf-08dbbf59defb",
+            "Name": "Mastering margin collapsing - CSS: Cascading Style Sheets | MDN"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b4c5fb96-15e4-4510-8cac-0fb6a9290cc8",
+        "Name": "Uses basic box model and handles margin collapsing",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The box model is the default behavior of the browser's rendering engine that represents each element as a rectangular box when rendering a document, and such boxes are composed of multiple areas: the content, padding, border, and margin edge. The CSS allows for determining these boxes' size, position, and properties (colour, background, border size, etc.).</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learnlayout.com/position.html",
+            "EducationTime": 0,
+            "Id": "3f7c9607-64cd-4fa2-8adf-08dae8b13480",
+            "Name": "CSS - about this site"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/position",
+            "EducationTime": 0,
+            "Id": "8c285abf-0189-46b8-43db-08dbbf59defb",
+            "Name": "position - CSS: Cascading Style Sheets | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://css-tricks.com/almanac/properties/z/z-index/",
+            "EducationTime": 0,
+            "Id": "30c43199-68a4-44a5-43dd-08dbbf59defb",
+            "Name": "z-index | CSS-Tricks - CSS-Tricks"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "425fbc90-4db1-4f45-98e4-633a304998b1",
+        "Name": "Aligns various element positions with style sheet language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The usage of the default position of the HTML element is not usually the case in actual application development, in most cases, businesses would require something more complex and unique. To deal with such requirements, position property exists in CSS. The CSS position property allows setting a position to an element. In general, CSS gives tools to change the top, right, bottom, and left properties to define the location of elements in a document.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+            "EducationTime": 0,
+            "Id": "4c8e2c67-16d1-49ae-43df-08dbbf59defb",
+            "Name": "Getting started with HTML - Learn web development | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element#content_sectioning",
+            "EducationTime": 0,
+            "Id": "52ada61b-634b-4723-43e1-08dbbf59defb",
+            "Name": "HTML elements reference - HTML: HyperText Markup Language | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
+            "EducationTime": 0,
+            "Id": "b5a416c3-3189-4743-43e3-08dbbf59defb",
+            "Name": "What’s in the head? Metadata in HTML - Learn web development | MDN"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "39a105a6-8f01-4388-82ef-c6090ce9421d",
+        "Name": "Creates and composes pages and layouts using standard markup language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Every User Interface starts with HTML, whether it's a website, small application, or enterprise application. The markup language is usually represented by HTML, which functions as the core of the layout. Hypertext Markup Language, or simply HTML, is a markup language consisting of elements called tags with specific attributes that provide instructions to web browsers on how to structure the UI.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/html/html_form_elements.asp",
+            "EducationTime": 0,
+            "Id": "3e68b6e0-a8c7-4346-8b03-08dae8b13480",
+            "Name": "HTML Form Elements"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/html/html_forms.asp",
+            "EducationTime": 0,
+            "Id": "3557f33e-724f-4111-8aff-08dae8b13480",
+            "Name": "HTML Forms"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.w3schools.com/html/html_forms_attributes.asp",
+            "EducationTime": 0,
+            "Id": "5d76737d-a49f-4d80-822a-08dbe4480a0a",
+            "Name": "HTML Forms Attributes"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a4d5903c-c66f-4ce3-8204-76332e521210",
+        "Name": "Creates forms using a standard markup language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Collecting data from the user is one of the most common tasks in client-facing applications nowadays. The more smooth and straightforward the experience for the end user is, the more clients an application could potentially get. The goal of the HTML form is to structure the user interface by providing particular elements and attributes to simplify the process of the user input collection and after sending the data to a server for processing.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+            "EducationTime": 0,
+            "Id": "0bfb065a-6054-44de-8226-08dbe4480a0a",
+            "Name": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learnlayout.com/clearfix.html",
+            "EducationTime": 0,
+            "Id": "bc1fce8e-a95e-4704-8228-08dbe4480a0a",
+            "Name": "Clearfix CSS"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://flexboxfroggy.com/",
+            "EducationTime": 0,
+            "Id": "cae7cf69-6f89-4d9f-8af1-08dae8b13480",
+            "Name": "Flexbox froggy"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/float",
+            "EducationTime": 0,
+            "Id": "913c87aa-871e-4135-8224-08dbe4480a0a",
+            "Name": "float - CSS: Cascading Style Sheets | MDN"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode",
+            "EducationTime": 0,
+            "Id": "808f344f-347b-43e5-8b0f-08dae8b13480",
+            "Name": "Layout mode - CSS: Cascading Style Sheets | MDN"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "5d7ac816-c73e-4e40-91fe-7191db493fd3",
+        "Name": "Creates layouts with basic layout modes using style sheet language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">CSS has multiple ways to style a layout based on requirements, application complexity, and use cases. In general, layout, also known as CSS layout mode, is an algorithm that, based on the position and size of boxes, determines the way elements interact with their sibling and ancestor in the layout.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table",
+            "EducationTime": 0,
+            "Id": "d0476eaa-38eb-42b3-8b05-08dae8b13480",
+            "Name": "HTML Table element"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables",
+            "EducationTime": 0,
+            "Id": "2ee543e0-1337-453f-8b07-08dae8b13480",
+            "Name": "Styling tables"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a2c2c4c4-7da0-4e5a-9078-4c8012858194",
+        "Name": "Creates tables with a standard markup language",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The use cases for the HTML table are not just limited to creating data spreadsheets or group information. Sometimes the HTML table could be used to create different layouts for the application itself. It could be a page layout, a part of the application layout, or an email layout. In the &lt;table&gt; HTML tag, the information is presented in a two-dimensional table composed of rows and columns of cells.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS",
+            "EducationTime": 0,
+            "Id": "18db6e81-7249-429f-8b09-08dae8b13480",
+            "Name": "Debugging CSS"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "235e132b-f11b-47bc-a1dc-77db46728b73",
+        "Name": "Debugs markups and styles",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">As with any other program or language, when writing CSS, the developer could encounter an issue where styles don't seem to be doing what is expected, look different on various devices, or cause strange styling glitches. In such a case, various solutions are available within the already built-in core browser tools that allow debugging, investigating, and understanding the issue.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://flukeout.github.io/",
+            "EducationTime": 0,
+            "Id": "719bb41f-601f-4b4d-8af9-08dae8b13480",
+            "Name": "CSS Diner"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors",
+            "EducationTime": 0,
+            "Id": "57e80c4a-003b-4dd5-8af3-08dae8b13480",
+            "Name": "CSS Selectors"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements",
+            "EducationTime": 0,
+            "Id": "464db762-9100-43e5-8af5-08dae8b13480",
+            "Name": "Pseudo elements"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity",
+            "EducationTime": 0,
+            "Id": "1c1aa1bf-39b4-4dcf-8af7-08dae8b13480",
+            "Name": "Selector specificity"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "9169a5dd-5b82-4309-8ea9-cb41f5f538ae",
+        "Name": "Styles elements with various style sheet language selectors",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">The are multiple ways how the styles could be attached to the application. The most simple one is, of course, to use inline styles. However, it is not as flexible and not suitable for most applications. The second most popular way is to use a style tag or separate style file, both of which require the use of selectors to select the element that the styles need to be applied. Numerous CSS selectors exist for multiple use cases to simplify the process and provide advanced technics with HTML styling. CSS selectors allow specifying the element or set of elements to which styling rules will be applied.</span></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals",
+            "EducationTime": 0,
+            "Id": "f12c9b8f-c78b-45c5-8afb-08dae8b13480",
+            "Name": "Fundamental text and font styling"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links",
+            "EducationTime": 0,
+            "Id": "7e943269-6760-4c80-43f1-08dbbf59defb",
+            "Name": "Styling links - Learn web development | MDN"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b5bc99bc-0666-40ab-903f-94d4a3e78297",
+        "Name": "Styles text using basic style sheet language rules",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><span style=\"color: rgb(23, 43, 77);\">Styling the pages is what makes the application exceptional, as every client desires for their application to look different not only in terms of the position of the elements but also in terms of the style of the text on the page (e.g., text font, size, spacing, etc.). Based on the requirement, there are multiple ways to adjust and style text on the page by using CCS, including but not limited to setting font, boldness, italics, line and letter spacing, drop shadows, and other text features.</span></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "3944763c-f29d-42c7-b160-1a8dc825bf0c",
+        "Name": "Implements enterprise-level accessibility strategies and audits for compliance",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Creating accessible web applications ensures that content and functionality are available to all users, including those with disabilities. This task focuses on implementing enterprise-level strategies to meet accessibility standards such as WCAG and ARIA guidelines. It includes auditing existing solutions, identifying accessibility gaps, and implementing fixes to achieve compliance. Ensuring accessibility improves user experience, meets legal and regulatory requirements, and aligns with business goals for inclusivity.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "67cb7e6c-ac2c-4938-8e2a-c082e0dc2fb8",
+        "Name": "Drives production-ready methodologies for responsive and adaptive designs",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Modern web applications must work seamlessly across devices with varying screen sizes and resolutions. This task involves defining and implementing methodologies for creating responsive and adaptive designs that are ready for production use. It includes leveraging techniques such as media queries, flexible grid systems, and adaptive image optimization to ensure the application functions consistently across desktop, tablet, and mobile devices. Proper design methodologies improve usability, scalability, and user satisfaction.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "684ce1c9-5dc1-4e40-b41f-c81a245b4a7c",
+        "Name": "Develops proofs of concept (PoCs) for introducing new styling and templating technologies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>The web development ecosystem is constantly evolving with new styling and templating technologies. This task focuses on researching, prototyping, and validating new technologies through proofs of concept (PoCs) to assess their feasibility and impact. By developing PoCs, teams can explore innovative approaches, improve workflows, and ensure the adoption of technologies aligns with organizational goals. This accelerates innovation while mitigating risks associated with adopting untested tools or frameworks.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "7d8cffa6-322a-4971-a001-443762763fd3",
+        "Name": "Optimizes critical rendering paths for performance and scalability",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>The critical rendering path directly affects how quickly users can see and interact with a web page. This task involves analyzing and optimizing the rendering process by minimizing resource loads, reducing blocking assets, and prioritizing key content. The goal is to improve page load performance and scalability, ensuring smooth user experiences across different devices and network conditions. Optimizing rendering paths enhances application responsiveness, user retention, and search engine performance.</p>"
+      }
+    ]
+  }
+]

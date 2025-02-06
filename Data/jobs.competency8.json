@@ -1,0 +1,1115 @@
+﻿[
+  {
+    "JobLevelName": "Trainee Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://code.visualstudio.com/docs/editor/debugging",
+            "EducationTime": 0,
+            "Id": "d4f3ba7a-917f-435a-45ad-08dbbf59defb",
+            "Name": "Debugging in Visual Studio Code"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "141c3537-1e81-4530-b2b1-22dd2d165da4",
+        "Name": "Debugs application using debugging tools and techniques",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Debugging is the process of identifying and fixing errors in a code. Modern browsers, IDE, and other environments for developers support debugging tools which make the process of debugging more accessible and more effective. Debugging can involve different activities since there is no silver bullet to handle all cases with only one approach for debugging.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses IDE tool for debugging purposes</li><li>Runs an application in debug mode for inspecting</li><li>Uses the framework and libraries debug tools</li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>﻿<span style=\"color: rgb(0, 0, 0);\">What are the main debugging techniques?</span></li><li>How to perform debugging in IDE?</li><li>What debugging features does the framework you're using provide?</li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet",
+            "EducationTime": 0,
+            "Id": "f24928be-f89a-450e-8124-08dbe4480a0a",
+            "Name": ".NET command tools"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa",
+            "EducationTime": 0,
+            "Id": "393b79b3-a4e5-42eb-8126-08dbe4480a0a",
+            "Name": "An Introduction to Environment Variables"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-7.0&tabs=windows",
+            "EducationTime": 0,
+            "Id": "f751bdd1-9e66-4e0a-8128-08dbe4480a0a",
+            "Name": "Safe storage of app secrets in development in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3",
+            "EducationTime": 0,
+            "Id": "0de3cc6f-febc-481e-812a-08dbe4480a0a",
+            "Name": "What is PowerShell?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "9a4e3cbc-ecc6-4af3-a2b7-728478a225bf",
+        "Name": "Manages environments using built-in operating system tools",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">In any development work, the developer must interact with the operating system command line, whether an actual project or a small pet project. Nowadays, there are no use cases when working with the source code that the developer would not execute some of the commands available in the command line tools. The task could be different from installing project dependencies, setting up the environment from scratch, interacting with the cloud environment from your locale console or getting applications data from the repositories. The critical thing to remember and understand is that command interfaces differ from system to system. For example, specifics and commands applicable to windows could not be applied to the Linux or Mac environments and vice versa.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">Configures environment variables</span></li><li><span style=\"color: rgb(0, 0, 0);\">Connects to third-party services, like database, cloud provider, k8s cluster, etc.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures secrets</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures credentials</span></li><li><span style=\"color: rgb(0, 0, 0);\">Performs various commands in Cmd, PowerShell/Bash/Terminal based on the operating system.&nbsp;</span></li><li><span style=\"color: rgb(0, 0, 0);\">Creates Powershell/Bash Scripts&nbsp;</span></li></ul><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">How to set up environment variables?</span></li><li><span style=\"color: rgb(0, 0, 0);\">How to set up user secrets?</span></li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Junior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.atlassian.com/git/tutorials/git-hooks",
+            "EducationTime": 0,
+            "Id": "88d8f79c-d154-490d-8bd4-08dae8b13480",
+            "Name": "Git hooks"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control",
+            "EducationTime": 0,
+            "Id": "9d8f95cf-feeb-46e2-812c-08dbe4480a0a",
+            "Name": "Git-SCM"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.geeksforgeeks.org/version-control-systems/?ref=lbp",
+            "EducationTime": 0,
+            "Id": "ed34782e-c22e-4506-8bd0-08dae8b13480",
+            "Name": "Version Control Systems"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "c20aecab-e748-4fdc-b38f-9728a2549452",
+        "Name": "Uses version control tools to manage source code changes",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Nowadays, whether or not the developer is working alone or within a team, the distribution system is a crucial part of application development. Even if a developer works alone on a small project, prototype, or pet project, any changes to the source code without version control cannot be reverted, and any data losses are forever. When working as a group, even with good communication, it could not be ensured that someone else would not accidentally modify or erase someone else work. The most famous example of such a system is git. It enables a more secure source code distribution, and history tracking allows simplified communication and justification of the changes by committing to the specified message and reverting the changes if something goes wrong.&nbsp;</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Sets up the version control system</li><li>Adds new files or ignore some of them for the version control system.</li><li>Uses a version control system&nbsp;for integrating and reversing code changes.</li><li>Uses a version control system&nbsp;for tracking history.</li><li>Commits new changes to the repository based on project or application specifics.</li><li>Reverts unnecessary or broken changes.</li><li>Workes on different branches.</li><li>Creates pull requests for code review and further integration.</li><li>Uses githooks to automate work with git.</li><li>Uses tools for git&nbsp;process visualization</li></ul><p><br></p><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What are the benefits and the main purpose of the version control system?</li><li>Pros and cons of the local version control systems?</li><li>Difference between the centralized and distributed version control system, pros and cons of each?</li><li>What are local and server-side hooks and who to use them?</li><li>How to reverse a wrong commit?</li><li>What is upstream in git?</li><li>What is HEAD in git?</li><li>What branch naming strategies do you know?</li><li>How to work with stashes?</li><li>Why PRs are needed?</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Middle Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/nuget/what-is-nuget",
+            "EducationTime": 0,
+            "Id": "26d082dd-0dff-403a-8138-08dbe4480a0a",
+            "Name": "An introduction to NuGet"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-gb/troubleshoot/developer/visualstudio/general/assembly-version-assembly-file-version",
+            "EducationTime": 0,
+            "Id": "11ba02c0-d402-4961-8136-08dbe4480a0a",
+            "Name": "AssemblyVersion and AssemblyFileVersion"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://dev.to/srmagura/c-linting-and-formatting-tools-in-2021-bna",
+            "EducationTime": 0,
+            "Id": "fb02aefe-752c-4c1c-8130-08dbe4480a0a",
+            "Name": "C# Linting and Formatting Tools"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://chocolatey.org/why-chocolatey",
+            "EducationTime": 0,
+            "Id": "1046e05a-5cfb-4a69-813a-08dbe4480a0a",
+            "Name": "Chocolatey"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/dotnet/Nerdbank.GitVersioning",
+            "EducationTime": 0,
+            "Id": "530d25bb-04a2-4c13-8134-08dbe4480a0a",
+            "Name": "Nerdbank.GitVersioning"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.educationsmediagroup.com/unit-testing-csharp/unit-testing/running-the-tests",
+            "EducationTime": 0,
+            "Id": "8e235108-c0c0-425d-813e-08dbe4480a0a",
+            "Name": "Running the tests"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.hashicorp.com/vagrant",
+            "EducationTime": 0,
+            "Id": "29aaaa21-689d-454f-813c-08dbe4480a0a",
+            "Name": "Vagrant"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/cbcrouse/Versioning.NET",
+            "EducationTime": 0,
+            "Id": "97aa4dd0-b580-4912-8132-08dbe4480a0a",
+            "Name": "Versioning.NET"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "341b1b4c-dc60-4556-812d-515e06a760df",
+        "Name": "Configures and maintains development environment and ecosystem",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">The proper configuration of the development environment and ecosystem based on the community recommendation or project specifics could reduce the time and effort needed to develop and improve applications. Having different ready-to-use scripts for running unit tests or some limited amount of tests, linters for code quality checks, different scripts for database populations, and many more could dramatically reduce development and review time. To go even further, we could have these scripts as hooks executed for the different actions, for example, on the commit, running multiple checks, or pre-populate DB on the server start. Also, as part of the ecosystem, we could have a variety of emulators up and running for not just assuming functionality would work but running emulators and checking this functionality before it reaches production.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Configures or maintains scripts for automatic unit/automation tests run.</li><li><span style=\"color: rgb(0, 0, 0);\">Configures&nbsp;or maintains scripts&nbsp;for automatic build versioning.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures&nbsp;or maintains scripts for preparing local dev. Environment (e.g installs required packages and their dependencies)</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures&nbsp;or maintains&nbsp;scripts for building projects.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Sets up linting/formatting for code.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Maintains project-specific configurations.</span></li></ul><p><br></p><p><br></p><p><strong>Knowledge</strong></p><p><br></p><ul><li>Understanding build versioning.</li><li>How to install and manage packages.</li><li>How to prepare and configure dev.&nbsp;<span style=\"color: rgb(0, 0, 0);\">environment.</span></li><li>How to format the code automatically.</li><li>How to find code smells and&nbsp;<span style=\"color: rgb(23, 23, 23);\">vulnerabilities during development.</span></li><li>How to set up automatic test runs.</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/deploying/",
+            "EducationTime": 0,
+            "Id": "7919b725-176d-4f8d-812e-08dbe4480a0a",
+            "Name": ".NET application publishing overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/core/tools/",
+            "EducationTime": 0,
+            "Id": "4173987c-21e3-4442-8106-08dbe4480a0a",
+            "Name": ".NET CLI overview"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "34a4839a-6431-437e-9dde-f4f38db4c6ce",
+        "Name": "Configures the build process to compile ready to use applications from source code",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">The primary responsibility of any developer is to create features and applications by writing the code in a selected programming language. However, whether or not it's a local machine or its deployment to the production, the code should be processed before it can be tested, and features are used. The configuration of such an environment is a crucial and the core part of any project. The quality and decision of such configuration will directly impact the development team and project and, in some cases, even the product quality and application capability.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses required .NET CLI commands to build and deploy your application.</li><li><span style=\"color: rgb(0, 0, 0);\">Uses different deployment models to publish compiled code (e.g., framework-dependent,&nbsp;self-contained)</span></li><li><span style=\"color: rgb(0, 0, 0);\">Provides required environment variables during the build.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Maintains scripts that are required to compile an application if needed.</span></li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>Understanding&nbsp;<span style=\"color: rgb(0, 0, 0);\">various&nbsp;deployment models.</span></li><li>How to compile the project and what are the important commands.</li><li>Understand build configurations.</li><li>How to provide expected environment variables during the build.</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms",
+            "EducationTime": 0,
+            "Id": "06a1ed9d-566d-47fc-8cbc-08dae8b13480",
+            "Name": "Containers vs VMs"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.docker.com/config/containers/container-networking/",
+            "EducationTime": 0,
+            "Id": "f90bebcb-1dba-4743-8cc2-08dae8b13480",
+            "Name": "Docker networking"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.docker.com/get-started/overview/",
+            "EducationTime": 0,
+            "Id": "9d4ffd20-10f4-4f70-8cc0-08dae8b13480",
+            "Name": "Docker overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.docker.com/storage/volumes/",
+            "EducationTime": 0,
+            "Id": "8b5a88cc-d154-4800-8cc4-08dae8b13480",
+            "Name": "Docker volumes"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://javascript.plainenglish.io/frontend-development-with-docker-a-simplified-guide-c869f6ee0fe8",
+            "EducationTime": 0,
+            "Id": "fd4f6269-1e3a-4fc6-8cbe-08dae8b13480",
+            "Name": "Frontend Development with Docker: A simplified guide"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.peerspot.com/products/comparisons/microsoft-azure_vs_oracle-cloud-platform",
+            "EducationTime": 0,
+            "Id": "fb6a819b-f120-4659-45d5-08dbbf59defb",
+            "Name": "Microsoft Azure vs Oracle Cloud Platform comparison"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.padok.fr/en/blog/container-docker-oci",
+            "EducationTime": 0,
+            "Id": "fb7751c2-ed82-4ade-45d3-08dbbf59defb",
+            "Name": "OCI vs Docker: What is a container?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.cloudzero.com/blog/docker-alternatives",
+            "EducationTime": 0,
+            "Id": "2b60eed5-6c1e-4a63-45d1-08dbbf59defb",
+            "Name": "The 11 Best Docker Alternatives In 2023"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "6d5b8b51-88f5-44e1-ba2a-f2e7ad9744fa",
+        "Name": "Containerise application to simplify distribution",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">For small projects is more than enough to use the local exosystem, and the developer could produce a dissent result, however, as an application starts to scale, the amount of the code begins to increase dramatically, and the development process begins to be harder, the issues with the inconsistency between the environment starts to arise, bags that could only be reproduced in a particular environment with the specific configuration, the difference between local and production environments begins to appear. The issue here is that every system has its own set of dependencies, each separate development environment could have different versions, configurations, and preferences, dramatically different from, for example, production machines. Having a ready-to-use environment that could ensure a standard shared configuration without relying on developer locale machine settings or operating systems is crucial. This exosystem could ensure sharing of the common configuration between the small applications.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Uses tool for containerisation</li><li><span style=\"color: rgb(0, 0, 0);\">Creates configuration files for containerised application</span></li><li><span style=\"color: rgb(0, 0, 0);\">Maintains cross-container configurations</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses predefined images from remote repositories in its own configuration files</span></li><li><span style=\"color: rgb(0, 0, 0);\">Sets up interaction between container and an actual environment (shared volumes/.env files usage/published ports/etc.)</span></li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>Difference between containers and virtual machines</li><li>What is the difference between images and containers</li><li>How to work with the containerization tool's CLI (interact with images, containers, volumes, and networks)</li><li>What is a daemon service and why it’s important</li><li>What is Open Container Initiative (OCI)?</li><li>OCI vs Docker: What is a container?</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/",
+            "EducationTime": 0,
+            "Id": "33a4539a-f15d-48b2-8be6-08dae8b13480",
+            "Name": "Git Branching Strategies vs. Trunk-Based Development"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://martinfowler.com/articles/branching-patterns.html#integration-patterns",
+            "EducationTime": 0,
+            "Id": "6fa554cf-685e-4e45-8be4-08dae8b13480",
+            "Name": "Integration Patterns"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "3609b8b7-20f6-4d75-ad3b-5d0fba34f146",
+        "Name": "Distributes work using version control tools",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">The version control system is one of the primary sources of collaboration in the project that simplifies and empowers many processes. The more the project and source code of the application expands more complex the cooperation between the developers becomes. Issues such as the conflict between the main and feature branches, differences in local and global commits history, and others could happen often.&nbsp;</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Resolves a conflict between the branches using rebase and merge;</li><li>Uses cherry-pick to select necessary commits</li><li>Applies changes without new commit creation</li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What are the main integration Patterns?</li><li>What are the main applied patches techniques?&nbsp;</li><li>Difference between git apply vs git am.</li><li>Difference and applicability of merge, rebase and Cherry-pick.</li><li>Difference between git branching strategies and trunk-based development</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/visualstudio/code-quality/code-metrics-values?view=vs-2022",
+            "EducationTime": 0,
+            "Id": "09da2f4f-2b5f-4019-8142-08dbe4480a0a",
+            "Name": "Calculate code metrics"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://editorconfig.org/",
+            "EducationTime": 0,
+            "Id": "19d37a4f-97f3-4170-8148-08dbe4480a0a",
+            "Name": "EditorConfig Documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://radon.readthedocs.io/en/latest/intro.html",
+            "EducationTime": 0,
+            "Id": "206aeda8-d80c-4766-8144-08dbe4480a0a",
+            "Name": "Introduction to Code Metrics"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.sonarqube.org/latest/",
+            "EducationTime": 0,
+            "Id": "e96d2657-0d4e-40d5-8146-08dbe4480a0a",
+            "Name": "SonarQube Documentation"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers",
+            "EducationTime": 0,
+            "Id": "4276ebe4-b7fe-4e92-814a-08dbe4480a0a",
+            "Name": "StyleCopAnalyzers Repository"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality",
+            "EducationTime": 0,
+            "Id": "7dc1eb98-6bd1-45bb-8140-08dbe4480a0a",
+            "Name": "What Is Code Quality? How to Measure & Improve it?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "f7076315-6fde-4ad2-b3cd-cdbd6c20f1b7",
+        "Name": "Maintains code quality of the application",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Maintaining code quality is more than just the code following conventions and being readable to the developers working with it. Still, it's more about concerns such as the security of the application, how easy it will be modifiable in the future, and how simple it is to extend or rewrite parts of functionality. To address the quality concerns of the application, the community usually has an automated open-source solution that could help detect best practices violations and source code readability and suggest the initial option for the resolution. Such a solution is usually called a linter, and it is created with the specific programming language in mind and could be run on the local machines or CI to detect bugs, gaps, and other issues.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Measures Code Quality with Static Analysis Tools</li><li>Configures Rules for Static Analysis Tools, like Resharper, Editorconfig, Stylecop, SonarQube, etc.</li><li>Deals with Code Quality Issues, by refactoring the code, adding new rules for analyzers, and so on</li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What are Code Quality Metrics? What kind of metrics do you know?</li><li>What is cyclomatic complexity? How to measure it?</li><li>What is the maintainability index? How to measure it?</li><li>What is class coupling? How to measure it?</li><li>What is the depth of inheritance? How to measure it?&nbsp;</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/nuget/what-is-nuget",
+            "EducationTime": 0,
+            "Id": "26d082dd-0dff-403a-8138-08dbe4480a0a",
+            "Name": "An introduction to NuGet"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://devblogs.microsoft.com/nuget/enable-repeatable-package-restores-using-a-lock-file/",
+            "EducationTime": 0,
+            "Id": "bef90aaf-a1f4-47fd-8152-08dbe4480a0a",
+            "Name": "Enable repeatable package restores using a lock file"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/nuget/consume-packages/install-use-packages-powershell",
+            "EducationTime": 0,
+            "Id": "a2a3895d-d20d-4d89-814c-08dbe4480a0a",
+            "Name": "Manage packages with the Visual Studio Package Manager Console (PowerShell)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files",
+            "EducationTime": 0,
+            "Id": "9e5aeced-803c-4b1a-8150-08dbe4480a0a",
+            "Name": "PackageReference in project files"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://fsprojects.github.io/Paket/",
+            "EducationTime": 0,
+            "Id": "0927ced9-b686-4128-814e-08dbe4480a0a",
+            "Name": "What is Paket?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a3893800-6f90-47ab-bd7e-2ff4c61692e0",
+        "Name": "Manages and maintains the condition of the application's dependencies",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p>The production application usually consists of different tools, libraries, packages, or similar 3rd party or native solutions. As dependencies are modified, grow, and constantly updated by the community and maintainers, client applications should follow, respectively. The updates could bring new features, quality improvements or other issues resolution. Tracking all dependencies manually is time-consuming, and applications must be fully protected from wrong decisions. The system that allows tracking dependencies states, new versions availability and provides a recommendation are crucial nowadays. It's not only a matter of having new and fresh features but also closing significant issues, for instance, security gaps in dependency. Such monitoring could provide inside advice not only to go and update specific dependencies but, in some cases, even to downgrade if the risk is too high.</p><p><br></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Audits existing packages to prevent vulnerabilities;</li><li><span style=\"color: rgb(0, 0, 0);\">Cleans up outdated or abandoned dependencies;</span></li><li><span style=\"color: rgb(0, 0, 0);\">Sets up automatic dependency update and audit mechanism;</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures automatic dependency update and audit mechanism;</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures&nbsp;dependency installation process on remote machine or CI;</span></li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What are peerDependencies, and how are they different compared to regular dependencies;</li><li>How developmentDependency&nbsp;are different from dependencies;</li><li>Why package.lock.json is needed;</li><li>How package.lock.json represents the actual state of installed dependencies;</li><li>What is Package Registry;</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://semver.org/",
+            "EducationTime": 0,
+            "Id": "132df997-4f97-4b8d-3c86-08da4237636b",
+            "Name": "Semantic versioning"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "0e1de512-3e58-465c-b31e-031609af2dd3",
+        "Name": "Manages project dependencies with package managers",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Package management is crucial for modern development. Instead of writing generic utils, developers choose to reuse already written&nbsp;open-source packages&nbsp;as dependencies to achieve a better level of maintainability. Such packages are usually maintained by the community, they can help reduce the time of development and guarantee other qualities like security, performance, etc. Package management tools help to manipulate project dependencies and perform related service tasks.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">Installs new packages.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Includes and uses composer dependencies in own code</span></li><li><span style=\"color: rgb(0, 0, 0);\">Defines custom autoloads</span></li><li><span style=\"color: rgb(0, 0, 0);\">Handles different types of repositories</span></li><li><span style=\"color: rgb(0, 0, 0);\">Updates to the latest versions</span></li><li><span style=\"color: rgb(0, 0, 0);\">Creates custom scripts</span></li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>﻿What package managers exist, and how do they differ by purpose?</li><li>How to find and access the needed package?</li><li>How to determine system-wide and project dependencies?</li><li>How to figure out if a package is a good fit for your project?</li><li><span style=\"color: rgb(0, 0, 0);\">What is semantic versioning?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What are the best practices for using stable, alpha, beta, and RC versions?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What are the rules of semantic versioning syntax?</span></li></ul>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html",
+            "EducationTime": 0,
+            "Id": "eb99ecde-d76f-41e5-8cd0-08dae8b13480",
+            "Name": "Content Security Policy Cheat Sheet"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS",
+            "EducationTime": 0,
+            "Id": "d8b13661-8858-4c5d-45eb-08dbbf59defb",
+            "Name": "Cross-Origin Resource Sharing (CORS)"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://brightsec.com/blog/csrf-token/",
+            "EducationTime": 0,
+            "Id": "3e2f4a7b-c3fb-4dbc-45e9-08dbbf59defb",
+            "Name": "CSRF tokens: What is a CSRF token and how does it work?"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://owasp.org/www-project-top-ten/",
+            "EducationTime": 0,
+            "Id": "31aebd58-a0ef-415d-8156-08dbe4480a0a",
+            "Name": "OWASP Top Ten"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf",
+            "EducationTime": 0,
+            "Id": "ab82c277-8b5b-4aa8-8154-08dbe4480a0a",
+            "Name": "Secure Coding Practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://snyk.io/",
+            "EducationTime": 0,
+            "Id": "4e9e8a7b-752a-4ac2-8cc6-08dae8b13480",
+            "Name": "Snyk - Find and automatically fix vulnerabilities in your code"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://owasp.org/www-community/Source_Code_Analysis_Tools",
+            "EducationTime": 0,
+            "Id": "b0cc7293-e97a-495d-8158-08dbe4480a0a",
+            "Name": "Source Code Analysis Tools"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "3c334610-7905-4403-a6ec-54e81e833f13",
+        "Name": "Prevents and fixes threats and vulnerabilities by maintaining code security",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Security is one of the leading quality attributes, and there is no actual application that would not be concerned about the safety of the application or the source code. Manual security gaps prevention based on best practices or experience is just one small part and usually less consistently as effective as anyone could expect. To prevent, find and fix security issues, the application requires an automated security monitoring system that will track your source code state and report any problems as soon as it's detected. An example of such a solution could be Checkmarx, which could diagnose uncompiled source code and detect, report, and suggest solutions for the respective security violation.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">Sets up automatic dependency vulnerability check;</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses CI/CD tools or services for code analysis to prevent vulnerabilities;</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses Source Code Analysis Tools to analyze the security of the source code</span></li><li><span style=\"color: rgb(0, 0, 0);\">Fixes or prevents security issues, like Injections, Authentication Failures, Broken Access Control, etc.</span></li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What is XSS and how to prevent it</li><li>What is CSRF and how to prevent it</li><li>What is Clickjacking&nbsp;and how to prevent it</li><li>What headers should be used to prevent CORS attacks</li><li><span style=\"color: rgb(0, 0, 0);\">What is the OWASP Top 10?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What is the Broken Access Control? How to prevent it?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What is the Injection? How to prevent it?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What is the&nbsp;Server-Side Request Forgery? How to prevent it?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What security&nbsp;best&nbsp;practices do you know?</span></li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Senior Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://github.com/ligershark/WebOptimizer",
+            "EducationTime": 0,
+            "Id": "4338de2e-257f-4816-815a-08dbe4480a0a",
+            "Name": "ASP.NET Core Web Optimizer"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification?view=aspnetcore-7.0",
+            "EducationTime": 0,
+            "Id": "60a6e63a-4582-47ef-815c-08dbe4480a0a",
+            "Name": "Bundle and minify static assets in ASP.NET Core"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "cbd81b9b-2448-4ae2-a93b-1a38086fc996",
+        "Name": "Configures bundlers for application",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Bundling is a technique of combining multiple files into a single one. Bundling reduces the number of server requests that are necessary to render a web page.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Initializes WebOptimizer in the Startup file</li><li>Uses configuration options to disable minification (e.g. Dev environment)</li><li>Uses configuration to control the result output files of bundling</li><li>Uses caching &amp; compression middleware&nbsp;<code><em>.UseResponseCompression()</em></code></li><li>Uses SCSS&nbsp;compilation</li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">What are bundling and minification?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Impact of&nbsp;bundling and minification</span></li><li><span style=\"color: rgb(0, 0, 0);\">How to define environment-based bundling?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What are the benefits of providing bundling before a deployment?</span></li><li><span style=\"color: rgb(0, 0, 0);\">What is the difference between a task runner and a bundler?</span></li><li>Understanding how bundling and minification works</li><li>Understanding bundling and minification strategy in terms of the web page lifecycle</li></ul><p><br></p><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows",
+            "EducationTime": 0,
+            "Id": "00a046de-c543-4df1-8ce2-08dae8b13480",
+            "Name": "Distributed Git - Distributed Workflows"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "42133e1a-7f91-4dfb-b19c-5d1dae7db3e1",
+        "Name": "Configures contribution workflow using version control tools",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">The quality and speed of development are highly related to version control, specifically to contribution rules and main branching workflows that the team chooses to follow. As easy as it could sound, incorrectly selected branching strategies or workflows could lead to a significant bottleneck in the development of the solution. If the team need to spend a lot of time on conflict resolution instead of actual development, more time team need to deliver the final product to production. Moreover, with more time projects invest in version control, more processes within the application could start depending on the version control system.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Configures workflows applicable to a particular team.</li><li>Defines contribution rules.</li><li>Defines and applies a release branch processes</li><li>Defines the branch strategy.</li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>How to define contribution rules, and what are the main factors to take into account</li><li>How to define a branching strategy</li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://confluence.atlassian.com/bamboo/bamboo-documentation-289276551.html",
+            "EducationTime": 0,
+            "Id": "f082cfb2-627a-4304-8164-08dbe4480a0a",
+            "Name": "Bamboo"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://madeintandem.com/blog/branching-strategies-ci-cd/",
+            "EducationTime": 0,
+            "Id": "12b781b8-0863-470b-815e-08dbe4480a0a",
+            "Name": "Branching Strategies for CI/CD"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-best-practices/",
+            "EducationTime": 0,
+            "Id": "9eaed472-acd5-4d68-8160-08dbe4480a0a",
+            "Name": "CI/CD Best Practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.github.com/en/actions",
+            "EducationTime": 0,
+            "Id": "988fcbea-ca33-439c-8166-08dbe4480a0a",
+            "Name": "GitHub Actions"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.bmc.com/blogs/ci-cd-pipeline-setup/",
+            "EducationTime": 15,
+            "Id": "071fc360-602c-4b31-8ce8-08dae8b13480",
+            "Name": "How To Set Up a Continuous Integration & Delivery (CI/CD) Pipeline"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.jenkins.io/",
+            "EducationTime": 0,
+            "Id": "dc86a48c-2dd7-43a8-8cec-08dae8b13480",
+            "Name": "Jenkins"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://codilime.com/blog/how-to-set-up-and-optimize-a-ci-cd-pipeline/",
+            "EducationTime": 0,
+            "Id": "a3b4c4a3-7a90-42bf-8ce6-08dae8b13480",
+            "Name": "Set up and optimize a CI/CD pipeline"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.jetbrains.com/help/teamcity/teamcity-documentation.html",
+            "EducationTime": 0,
+            "Id": "b1b42915-389e-46f0-8162-08dbe4480a0a",
+            "Name": "TemCity doc"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://codilime.com/blog/what-is-ci-cd-all-you-need-to-know/",
+            "EducationTime": 0,
+            "Id": "8564c045-10e0-4a0b-8cea-08dae8b13480",
+            "Name": "What is CI/CD - all you need to know"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "797a2a2a-f2ed-4fb3-bfc4-f07c1e64a74c",
+        "Name": "Configures integration process using CI tools",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">With the growth of the application and business, manual execution of the process such as example tests and linters could not be ideal and could cause a delay in the delivery of the ready-to-use feature to the client. To optimize the development process and reach the goals of the business the development team requires an automated solution that could run part of the ready features against the necessary process and provide the result as soon as the run is finished. The configuration of such environments should not just be based on the community recommendation and best practices, but also a developer should consider a domain specifics, the client's goals and priorities, team and application limitations and so many more aspects of the business in order to create ecosystems that would truly be beneficial for everyone involved in the development process.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li><span style=\"color: rgb(9, 30, 66);\">Runs automated tests against the build</span></li><li>Defines branching strategy and triggers build (versioning, releases)</li><li>Runs and Automates the build using CI tools</li><li>Troubleshoots of failed builds</li><li><span style=\"color: rgb(45, 41, 38);\">Applies CI/CD pipeline best practices and methodology when working with automated builds</span></li><li><span style=\"color: rgb(0, 0, 0);\">Defines or contributes to the improvement of the CI process</span></li><li>Uses CI tool when developing solution</li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>How to improve the build time of the application</li><li>Difference between continuous integration and continuous delivery and&nbsp;<span style=\"color: rgb(0, 0, 0);\">continuous&nbsp;deployment&nbsp;concept</span></li><li><span style=\"color: rgb(0, 0, 0);\">What are the main stages in the CI/CD process?</span></li><li><span style=\"color: rgb(0, 0, 0);\">Different&nbsp;branching strategies and how to use them</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/devgurus/code-quality-measuring-and-improving-it-2137416d899a",
+            "EducationTime": 0,
+            "Id": "867a7bf4-ae24-4761-8cf4-08dae8b13480",
+            "Name": "Code quality, measuring and improving it"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://deepsource.io/blog/release-csharp-beta/",
+            "EducationTime": 0,
+            "Id": "11a259ff-b804-4b2f-816a-08dbe4480a0a",
+            "Name": "Deepsource"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://deepsource.io/docs/",
+            "EducationTime": 0,
+            "Id": "2b877f07-aee2-4314-8168-08dbe4480a0a",
+            "Name": "Deepsource docs"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/overview",
+            "EducationTime": 0,
+            "Id": "1c8d1594-e20b-4775-816c-08dbe4480a0a",
+            "Name": "Overview of .NET source code analysis"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://diceus.com/top-7-software-quality-metrics-matter/",
+            "EducationTime": 0,
+            "Id": "fc5d9176-79bb-48ea-8cf6-08dae8b13480",
+            "Name": "Software quality metrics that matter"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.sonarqube.org/",
+            "EducationTime": 0,
+            "Id": "9ae2b2a1-187e-455d-9bc8-08db7b3ad15f",
+            "Name": "SonarQube Docs"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.codegrip.tech/productivity/what-is-code-quality-how-to-measure-and-improve-it/",
+            "EducationTime": 0,
+            "Id": "8bd9ecd1-5e89-4c14-eb70-08db2538c7d1",
+            "Name": "What is code quality, how to measure and improve it?"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "845b7861-aa28-4442-968f-15c5caf8876e",
+        "Name": "Controls code quality with measurement tools",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">The measurement is a continuous process that requires control and respective actions based on data collected from such a process. The goal of measuring pre-defined quality attributes and application quality as a whole is not simply generating a report or documentation that could be used for the business stakeholders but the process that the technical team could use for application or project improvement. Without measuring the process and data collected, any suggested improvement could be invalid, unfull or not bring any value to the business in the long or short term. One such process could be static code analysis and the solution, for instance, the SonarQube. It allows customizing best practices and quality gates for the project and application needs and provides generated reports that both business and technical stakeholders could use for their respective positions.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Configures code quality measurement tool&nbsp;</li><li>Uses code quality measurement tool to analyze code</li><li>Applies coding standards to the tool's configuration</li><li>Analyses code using automation</li><li>Analyses measurement tool results and creates a plan for code quality improvements</li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">What are the main&nbsp;</span>code quality aspects (reliability, maintainability, testability, portability, reusability)</li><li><span style=\"color: rgb(0, 0, 0);\">What are code quality metrics and why it’s important</span></li><li><span style=\"color: rgb(0, 0, 0);\">How to improve the code quality of the application&nbsp;</span></li><li><span style=\"color: rgb(0, 0, 0);\">How to define coding standards and conventions</span></li><li><span style=\"color: rgb(0, 0, 0);\">Setups&nbsp;code quality measurement tool</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.datadoghq.com/monitors/",
+            "EducationTime": 0,
+            "Id": "53ef945e-506a-452f-8d08-08dae8b13480",
+            "Name": "Alerting"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview",
+            "EducationTime": 0,
+            "Id": "44bf5ed2-6616-4e18-8d02-08dae8b13480",
+            "Name": "Application Insights overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://newrelic.com/platform/application-monitoring",
+            "EducationTime": 0,
+            "Id": "33a9e578-bafb-4226-816e-08dbe4480a0a",
+            "Name": "Newrelic"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://sematext.com/spm/",
+            "EducationTime": 0,
+            "Id": "63d8e5ea-0e95-4d54-8d00-08dae8b13480",
+            "Name": "Sematext Monitoring"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.sentry.io/platforms/javascript/",
+            "EducationTime": 0,
+            "Id": "9b43824f-8a82-4d62-8d04-08dae8b13480",
+            "Name": "Sentry's SDKs"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://sematext.com/blog/system-monitoring-tools",
+            "EducationTime": 0,
+            "Id": "836f6382-34cd-454a-8d06-08dae8b13480",
+            "Name": "System monitoring tools"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "91281c16-560d-42f1-998b-ab2aad9059a9",
+        "Name": "Creates ecosystem for application state monitoring",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">The work is not finished with the deployment of the application in production. An error could appear, the instance could crash, the unexpected behaviour could occur in production. These issues are more critical than local environment misbehaving, code review violations or the problem on CI because even one such event could cause grade damage to the business. The monitoring system should be in place and track the health of the application during the deployment process and the application state after the release. Fortunately, there are a lot of different solutions, methodologies, and approaches to accomplish such tasks. For state monitoring, applications could use different alerts, dashboards, detectors, and monitoring systems to track the application's condition and its instances 24/7 and report or alert as soon as any critical event transpired.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">Configures or contributes to the configuration of the metric solutions(e.g.&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">Datadog,&nbsp;New Relic</span><span style=\"color: rgb(0, 0, 0);\">)</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures and maintains solutions for automated metric collection(e.g.&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">Datadog,&nbsp;New Relic</span><span style=\"color: rgb(0, 0, 0);\">)</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures ecosystem for secure logs collection(e.g. sanitizing logs for&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">Datadog,&nbsp;Splunk</span><span style=\"color: rgb(0, 0, 0);\">)</span></li><li><span style=\"color: rgb(0, 0, 0);\">Configures and maintains alerting solutions(e.g. Azure Monitor, Sentry)</span></li><li><span style=\"color: rgb(0, 0, 0);\">Applies technics for detecting failures(e.g. Ping / Echo,&nbsp;Heartbeat,&nbsp;Exception Detection)</span></li><li><span style=\"color: rgb(0, 0, 0);\">Analyses and documents issues and improvements required for state monitoring</span></li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What are the benefits and the main purpose of the application state monitoring system?</li><li>Which metrics can be collected with a monitoring system?</li><li>What are the monitoring system capabilities?</li><li>How to select&nbsp;<span style=\"color: rgb(0, 0, 0);\">technics for detecting failures in the application</span></li><li><span style=\"color: rgb(0, 0, 0);\">What information should be sanitised for the logging solution?</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html",
+            "EducationTime": 0,
+            "Id": "88ecb2dd-638d-47ab-8172-08dbe4480a0a",
+            "Name": "AWS Secrets Manager overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/azure/key-vault/general/overview",
+            "EducationTime": 0,
+            "Id": "d2cc595f-148a-4c1e-8170-08dbe4480a0a",
+            "Name": "Azure Key Vault overview"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-7.0&tabs=windows",
+            "EducationTime": 0,
+            "Id": "f751bdd1-9e66-4e0a-8128-08dbe4480a0a",
+            "Name": "Safe storage of app secrets in development in ASP.NET Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/@nikjos/use-docker-swarm-secrets-in-asp-net-core-96b691bf8fba",
+            "EducationTime": 0,
+            "Id": "1714b38e-4737-48bd-8174-08dbe4480a0a",
+            "Name": "Use Docker Swarm Secrets in ASP.Net Core"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://vsupalov.com/docker-arg-env-variable-guide/",
+            "EducationTime": 0,
+            "Id": "542ac914-a730-4f70-8176-08dbe4480a0a",
+            "Name": "Using ARG, ENV and .env in docker"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://pushbuildtestdeploy.com/why-do-we-need-secrets-managers/",
+            "EducationTime": 0,
+            "Id": "6ad7db13-e2bf-4e71-8178-08dbe4480a0a",
+            "Name": "Why do we need secret managers"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "e47f8d07-a4a8-469a-8321-72e65ba5d5fc",
+        "Name": "Handles environment variables and secrets",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">Working with environment variables and secrets is not as straightforward as it could be. There are a lot of use cases for how to use environment variables. At their core, it is just simple data stored in variables that could be used in the future. The value itself could assign in both ways, dynamic from some user input or as a result of program execution or hardcoded and used when needed. At first glance, a secret could look like just another environment variable. However, handling secrets involves not only selecting the correct secret or using this data, or should the secret be used in the first place but also strategy and methodology.&nbsp;</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li>Stores environment variables for .net app locally</li><li>Stores environment variables for .net app in docker</li><li>Stores secrets in local secret manager using .net cli</li><li><span style=\"color: rgb(0, 0, 0);\">Stores secrets in local secret manager using Visual Studio</span></li><li><span style=\"color: rgb(0, 0, 0);\">Stores secrets in env variables on local env (or in docker)</span></li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>What is environment variable?</li><li>What is a secret?</li><li>What are ways to provide env variables for local development?</li><li>What are ways to store secrets in clouds?</li><li><span style=\"color: rgb(0, 0, 0);\">What are pros and cons of secret managers in clouds?</span></li></ul><p><br></p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://www.devart.com/review-assistant/code-review-guidelines-net-developers.html",
+            "EducationTime": 0,
+            "Id": "53679031-4c6f-47ef-817a-08dbe4480a0a",
+            "Name": "Code Review Guidelines for .NET Developers"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://medium.com/cuelogic-technologies/code-review-process-best-practices-3eeecab26ded",
+            "EducationTime": 0,
+            "Id": "1ae74610-e32b-4f2c-8182-08dbe4480a0a",
+            "Name": "Code Review Process: Best Practices"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://kinsta.com/blog/code-review-tools/",
+            "EducationTime": 0,
+            "Id": "40538cf0-3b53-4920-8cde-08dae8b13480",
+            "Name": "Code Review Tools"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository",
+            "EducationTime": 0,
+            "Id": "4a43018c-1d22-457f-817e-08dbe4480a0a",
+            "Name": "Pull request template"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://docs.gitlab.com/ee/user/project/description_templates.html#create-a-merge-request-template",
+            "EducationTime": 0,
+            "Id": "159eb317-369b-4496-8180-08dbe4480a0a",
+            "Name": "Pull request template GitLab"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://smartbear.com/learn/code-review/guide-to-code-review-process/",
+            "EducationTime": 0,
+            "Id": "ec412be6-722a-464e-8cdc-08dae8b13480",
+            "Name": "Understanding the Code Review Process"
+          },
+          {
+            "IsDeactivated": false,
+            "Type": "Link",
+            "ExpertiseId": "54ed9030-f25b-4ee8-95fc-9910c7948467",
+            "Link": "https://linearb.io/blog/code-review-checklist/",
+            "EducationTime": 0,
+            "Id": "57858e7e-7a70-4baf-817c-08dbe4480a0a",
+            "Name": "What You Need in a Code Review Checklist"
+          }
+        ],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "12634095-686e-4287-aabb-e58375ebae0f",
+        "Name": "Set-ups code review process to achieve the quality of the application",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p><br></p><p><span style=\"color: rgb(23, 43, 77);\">The code review process usually involves checking ready-to-deploy source code for best practices and style offences. However, it is just a tiny part, the end goal of code review is to discover issues with implementation, limitations, possible constraints, quality attribute violations, and others. Establishing a proper code review is not one personal activity, to guarantee the best result from establishing such a process, the constraints, requirements, focus, and prioritization should be allied with business stakeholders, as well as with the development team. Luckily for the stakeholder's interest in the review process, the community provides methodology, best practices, and a ready-to-use environment for easy code sharing and history tracking for future reference. Such environments include Github, Gitlab, Bitbucket, and similar.</span></p><p>&nbsp;</p><p><strong>Skills</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">Contributes to the selection process of the code review tool</span></li><li><span style=\"color: rgb(0, 0, 0);\">Introduces code review metrics for the application</span></li><li><span style=\"color: rgb(0, 0, 0);\">Establishes or executes a process for fixing defects found</span></li><li><span style=\"color: rgb(0, 0, 0);\">Creates PR templates based on the team's needs</span></li><li>Creates a code review checklist</li></ul><p><br></p><p>&nbsp;</p><p><strong>Knowledge</strong></p><p><br></p><ul><li>How the code review goals, code standards and conventions are set</li><li><span style=\"color: rgb(0, 0, 0);\">How to define a code review process and workflows</span></li><li>What is the difference between formal reviews and lightweight reviews</li><li>What are the main code review best practices and how to apply them when setting up code review</li></ul><p><br></p>"
+      }
+    ]
+  },
+  {
+    "JobLevelName": "Lead Back-End Engineer",
+    "IsJobLevelNew": false,
+    "ReviewJobs": [
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "baa179af-45a1-47c4-aa8d-738e7ace5198",
+        "Name": "Integrates and standardizes security practices into development pipelines",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Ensuring security throughout the development process is essential to delivering reliable software. This task involves integrating security tools, practices, and checks directly into CI/CD pipelines to automate vulnerability detection and remediation. By standardizing security measures, such as automated static analysis, code scanning, and access controls, risks are identified early and resolved efficiently. Proper implementation of security in pipelines reduces the chances of deploying vulnerable code, simplifies compliance with regulatory standards, and strengthens overall system resilience.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "17048a61-faaf-4827-bf97-69c695003108",
+        "Name": "Drives innovation through research and proof-of-concept of environment related solutions",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Researching and validating innovative approaches to development environments allows teams to adopt modern solutions that improve efficiency and scalability. This task involves exploring new tools, technologies, and frameworks, followed by creating proof-of-concept implementations to evaluate their practical applicability. By testing emerging solutions, teams can identify opportunities to streamline workflows, enhance developer experience, and address existing limitations. Successful innovations drive continuous improvement and ensure the organization stays competitive with evolving industry standards.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "c827830f-4a59-4163-9312-c47b6b3777b5",
+        "Name": "Monitors and improves development environment performance and resilience",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>A well-performing and resilient development environment is critical for uninterrupted software delivery. This task involves monitoring key metrics, such as build times, resource usage, and tool availability, to identify performance bottlenecks or system failures. By implementing improvements like optimized workflows, caching strategies, and resource allocation adjustments, development environments can be made faster and more reliable. Proactive monitoring ensures the stability of critical tools and services, resulting in reduced downtime and increased developer productivity.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "a96070e3-ac9a-41d4-99ea-a84a682d3628",
+        "Name": "Contributes to production-grade release management workflows",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Effective release management is essential for delivering stable and high-quality software to production. This task focuses on establishing workflows that ensure smooth, automated, and reliable software releases. It includes managing versioning, release approvals, rollback strategies, and post-release monitoring to reduce risks associated with deployments. Contributing to production-grade workflows guarantees predictable releases with minimal disruption, aligns processes with business goals, and enables faster delivery cycles.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "54fd2ea5-48ed-4aaf-95ab-ec73915e3af0",
+        "Name": "Contributes to project-wide CI/CD strategies and standards",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Well-defined CI/CD strategies are the foundation of modern software delivery pipelines. This task involves designing, implementing, and standardizing project-wide CI/CD workflows that enable automation, consistency, and scalability across teams. It includes configuring build, test, and deployment processes while aligning them with organizational standards and best practices. By contributing to robust CI/CD strategies, development teams reduce manual overhead, accelerate delivery timelines, and maintain high levels of quality and reliability throughout the software lifecycle.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": false,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "e95da448-e607-464f-88b6-55c25b5e4c30",
+        "Name": "Implements and standardizes observability frameworks for development pipelines",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Development pipelines require observability to ensure efficient performance, identify bottlenecks, and maintain reliability. This task involves designing and integrating observability frameworks into CI/CD pipelines, enabling real-time monitoring of build processes, deployment stages, and resource utilization. By implementing dashboards, alerting systems, and logging strategies, teams gain actionable insights to optimize workflows, resolve issues proactively, and maintain pipeline resilience.</p>"
+      },
+      {
+        "IsNew": false,
+        "EvaluationMarks": [],
+        "IsKey": true,
+        "LearningResources": [],
+        "NeboTasks": [],
+        "Skills": [],
+        "Id": "b3d7415a-4544-426c-bcf2-22c7d31fbfff",
+        "Name": "Automates technical debt tracking and prioritization in CI/CD workflows",
+        "GradeId": "00000000-0000-0000-0000-000000000000",
+        "Description": "<p><strong>Job Description</strong></p><p></p><p>Technical debt can hinder scalability and maintainability if not managed effectively. This task involves automating technical debt tracking by integrating tools into CI/CD workflows that identify code smells, outdated dependencies, and suboptimal patterns. Engineers configure rules to prioritize debt resolution based on impact and urgency, ensuring a proactive approach to reducing long-term system inefficiencies.</p>"
+      }
+    ]
+  }
+]

@@ -2,6 +2,8 @@
 
 var competencies = JsonConvert.DeserializeObject<Competency[]>(File.ReadAllText(@"Data\competencies.json"));
 
+competencies = competencies.Where(x => !x.Exclude).ToArray();
+
 foreach (var competency in competencies.Select((value, index) => new { Index = index + 1, Value = value }))
 {
     var competencyJobs = JsonConvert.DeserializeObject<Job[]>(File.ReadAllText(@$"Data\jobs.competency{competency.Index}.json"));

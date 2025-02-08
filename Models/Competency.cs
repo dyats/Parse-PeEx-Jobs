@@ -9,4 +9,6 @@ public class Competency
     public bool CompetencyHasSkills { get; set; }
 
     public Job[] Jobs { get; set; }
+
+    public bool Exclude { get; set; }
 }

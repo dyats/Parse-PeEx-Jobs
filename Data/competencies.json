@@ -62,24 +62,28 @@
     "IsNew": false,
     "CompetencyHasSkills": false,
     "Id": "6f3cd0ec-35ff-48a9-813b-04a0c2b78e5e",
-    "Name": "Project Process"
+    "Name": "Project Process",
+    "Exclude": true
   },
   {
     "IsNew": false,
     "CompetencyHasSkills": false,
     "Id": "50ca1d28-3b73-49b5-bdd7-6023b90e61d8",
-    "Name": "Technical Process"
+    "Name": "Technical Process",
+    "Exclude": true
   },
   {
     "IsNew": false,
     "CompetencyHasSkills": false,
     "Id": "4ed1a0c0-e99a-4273-adee-b8a634655203",
-    "Name": "Expertise Contribution"
+    "Name": "Expertise Contribution",
+    "Exclude": true
   },
   {
     "IsNew": false,
     "CompetencyHasSkills": false,
     "Id": "78d9a5b4-05d2-4f38-bdcf-7793bca16672",
-    "Name": "Generative AI"
+    "Name": "Generative AI",
+    "Exclude": true
   }
 ]

@@ -2,7 +2,7 @@
 
 public static class Predicates
 {
-    public static Func<Job, int, int, bool> positionLevelFilterPredicate = (job, startLevel, endLevel) =>
+    public static Func<Job, int, int, bool> PositionLevelFilterPredicate = (job, startLevel, endLevel) =>
     {
         var levels = Enum.GetValues<PositionEnum>()
             .Cast<PositionEnum>()

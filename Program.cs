@@ -9,7 +9,7 @@ foreach (var competency in competencies.Select((value, index) => new { Index = i
     var competencyJobs = JsonConvert.DeserializeObject<Job[]>(File.ReadAllText(@$"Data\jobs.competency{competency.Index}.json"));
 
     // Filter for middle & senior jobs
-    competency.Value.Jobs = competencyJobs.Where(job => positionLevelFilterPredicate(job, (int)PositionEnum.Middle, (int)PositionEnum.Senior)).ToArray();
+    competency.Value.Jobs = competencyJobs.Where(job => PositionLevelFilterPredicate(job, (int)PositionEnum.Middle, (int)PositionEnum.Senior)).ToArray();
 }
 
 var serializedCompetencies = JsonConvert.SerializeObject(competencies.Select(CompetencyDto.FromCompetency), Formatting.Indented);
